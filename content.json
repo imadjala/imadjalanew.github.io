@@ -1,0 +1,1762 @@
+{
+  "pages": [
+    {
+      "id": "oppstartsguide-nh-ahus-fullversjon",
+      "slug": "oppstartsguide-nh-ahus-fullversjon",
+      "title": "Oppstartsguide – ØNH Ahus (fullversjon)",
+      "audience": "",
+      "nodes": [
+        {
+          "t": "h1",
+          "text": "LIS Oppstartsguide – ØNH Ahus"
+        },
+        {
+          "t": "p",
+          "text": "Velkommen til Øre–Nese–Hals-avdelingen (ØNH) på Akershus universitetssykehus (Ahus). Denne guiden gir en rask, strukturert og lett tilgjengelig oversikt over praktisk informasjon, rutiner og nøkkelkontakter for nye LIS-leger. Detaljer gjennomgås med fadder, veileder og kolleger, men dokumentet er ment som et praktisk oppslagsverk."
+        },
+        {
+          "t": "h2",
+          "text": "1. Oppstart og nøkkelpersoner"
+        },
+        {
+          "t": "h3",
+          "text": "1.1 Viktige dokumenter og opplæring"
+        },
+        {
+          "t": "h3",
+          "text": "Utdanningsplan"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Fyll ut individuell utdanningsplan sammen med veileder ved oppstart.",
+            "Revideres årlig.",
+            "Mal: K:\\30 Kirurgisk divisjon\\306 (Øre-Nese-Hals)\\Info nye LIS."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Kompetanseportalen"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Du tildeles læringsmålplan for ØNH her."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Fellesområdet (K-stasjon) – nyttige tips og opplæringsmateriell"
+        },
+        {
+          "t": "table",
+          "headers": [
+            "Tema",
+            "Sti"
+          ],
+          "rows": [
+            [
+              "LIS-utdanningen",
+              "K:\\30 Kirurgisk divisjon\\306 (Øre-Nese-Hals)\\LIS-utdanning"
+            ],
+            [
+              "Internundervisning",
+              "K:\\30 Kirurgisk divisjon\\306 (Øre-Nese-Hals)\\Internundervisning"
+            ]
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Husk: legg ut presentasjonen din i mappen for internundervisning etter at du har holdt foredrag."
+        },
+        {
+          "t": "h3",
+          "text": "Første arbeidsdag"
+        },
+        {
+          "t": "p",
+          "text": "Tilbringes sammen med fadder, som:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "viser deg rundt på huset",
+            "hjelper med å hente adgangskort",
+            "introduserer kolleger",
+            "sikrer gjennomføring av nødvendige e-læringskurs"
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "1.2 Kontakter og roller"
+        },
+        {
+          "t": "table",
+          "headers": [
+            "Rolle",
+            "Navn",
+            "Lokasjon"
+          ],
+          "rows": [
+            [
+              "Utdanningsansvarlig overlege (UAO)",
+              "Lena Hesstvedt",
+              "Kontor i kjelleren B3"
+            ],
+            [
+              "Tillitsvalgt LIS",
+              "Bjørn Tveit",
+              "Kontor i kjelleren B3"
+            ],
+            [
+              "Tillitsvalgt overleger",
+              "Anna Rømcke",
+              "Kontor i kjelleren B3"
+            ],
+            [
+              "Avdelingsleder",
+              "Ivar Vølstad",
+              "Kontor ved siden av lunsjrom"
+            ],
+            [
+              "Legeleder",
+              "Kishege Mekonnen",
+              "Kontor ved sengepost S203"
+            ]
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "1.3 Kommunikasjon"
+        },
+        {
+          "t": "p",
+          "text": "Vi bruker WhatsApp for rask informasjonsdeling. Meld deg inn i gruppene:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Alle ØNH leger AHUS",
+            "Superdupervakt ØNH"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "2. Praktisk informasjon ved oppstart"
+        },
+        {
+          "t": "h3",
+          "text": "2.1 Lokalisasjoner (steder)"
+        },
+        {
+          "t": "p",
+          "text": "Bli kjent med hvor de viktigste funksjonene ligger:"
+        },
+        {
+          "t": "table",
+          "headers": [
+            "Funksjon",
+            "Lokasjon",
+            "Bygg / etasje"
+          ],
+          "rows": [
+            [
+              "Poliklinikk",
+              "S101",
+              ""
+            ],
+            [
+              "Sengepost",
+              "S203",
+              ""
+            ],
+            [
+              "Dagkirurgisk avdeling",
+              "B101",
+              ""
+            ],
+            [
+              "Sentraloperasjon (SOP)",
+              "B305",
+              ""
+            ],
+            [
+              "Akuttmottak (Akutt24)",
+              "B402",
+              ""
+            ],
+            [
+              "Barnemottak",
+              "B404",
+              ""
+            ],
+            [
+              "LIS- og overlegekontorer",
+              "Kjelleren B3",
+              ""
+            ],
+            [
+              "Søvnpoliklinikk",
+              "Nye Nord",
+              "1. etasje (motsatt side av p-plass mot hovedinngang)"
+            ]
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "2.2 Fasiliteter"
+        },
+        {
+          "t": "h3",
+          "text": "Treningsrom / massasjestoler"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Ligger rett ved ansattinngangen i kjelleren."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Soverom på vakt"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Lokasjon: Kjeller, bygg B2U1.",
+            "Sjekk at adgangskortet har gyldig tilgang."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Mat på vakt"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Kjøleskap ved utgangen av kantinen (krever aktivert adgangskort).",
+            "Narvesen: hverdager åpent til kl. 22.00, helger åpent til kl. 20.00."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "2.3 Parkering – første dag på jobb"
+        },
+        {
+          "t": "p",
+          "text": "Det er viktig å søke om parkeringstillatelse så tidlig som mulig."
+        },
+        {
+          "t": "h3",
+          "text": "2.3.1 Nordbyhagen (Ahus)"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Logg inn på MittAhus, finn temasiden Parkering og søknadsskjemaet.",
+            "Registrer/valider kjøretøy i EasyPark-appen og via Sesamsesam.",
+            "Parkering tillatt på: Parkeringshuset (plan 2, 3, 4) og grusfeltet «Skogen» (nedenfor parkeringshuset)."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "2.3.2 Gardermoen"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Skaff eget ID-kort for Gardermoen på Servicesenteret på NBH (ta med pass).",
+            "Skaff egen parkeringstillatelse: registrering i resepsjonen, fullfør registrering på OnePark sin nettside, og send e-post til gar.supportparkering@lovisenberg.no."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "3. Møter og fagseksjoner"
+        },
+        {
+          "t": "h3",
+          "text": "3.1 Møter og undervisning"
+        },
+        {
+          "t": "table",
+          "headers": [
+            "Møte / undervisning",
+            "Tidspunkt",
+            "Frekvens",
+            "Lokasjon",
+            "Kommentar"
+          ],
+          "rows": [
+            [
+              "Morgenmøte",
+              "07:40–08:00",
+              "Hverdager",
+              "Møterom 036 (lunsjrommet S101)",
+              ""
+            ],
+            [
+              "Internundervisning",
+              "Etter morgenmøte",
+              "Mandager",
+              "Rom S104.016",
+              "LIS presenterer"
+            ],
+            [
+              "Nettundervisning",
+              "08:15–09:00",
+              "Torsdager",
+              "Morgenmøterommet",
+              ""
+            ],
+            [
+              "Fredagsmøte",
+              "08:00–08:30",
+              "Fredager",
+              "Stort auditorium (under kantinen)",
+              "Hele sykehuset"
+            ],
+            [
+              "Røntgenmøte",
+              "15:00",
+              "Torsdager",
+              "Røntgenavdelingen, B301",
+              ""
+            ],
+            [
+              "Journal Club",
+              "1. mandag i måneden",
+              "Månedlig",
+              "",
+              ""
+            ],
+            [
+              "Egenundervisning (LIS)",
+              "Ofte 15:00–16:00",
+              "Mandager",
+              "",
+              ""
+            ],
+            [
+              "Patologimøte",
+              "Variabelt",
+              "Ca. hvert kvartal",
+              "Patologen, B104",
+              ""
+            ]
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "3.2 Rutiner for morgenmøtet"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Den som har hatt nattvakt logger seg på og leder møtet.",
+            "Vis arbeidsplanen (T, Ø, KN, bakvakt).",
+            "Referer innlagte pasienter fra vakt og gå gjennom sengeposten.",
+            "Vær kortfattet, men få med nødvendig informasjon.",
+            "Gå gjennom tilsynsmapper og dagens operasjonsprogram.",
+            "Ved hode-/halskreft: angi TNM-stadium, HPV-status (ved oropharynx/tonsillecancer), behandlingstype og tidspunkt, og ev. recidiv."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "3.3 Fagseksjoner og veiledning"
+        },
+        {
+          "t": "p",
+          "text": "Fagseksjoner ved ØNH Ahus:"
+        },
+        {
+          "t": "table",
+          "headers": [
+            "Fagseksjon",
+            "Seksjonsleder"
+          ],
+          "rows": [
+            [
+              "Hode/hals",
+              "Mekonnen"
+            ],
+            [
+              "Rhino",
+              "Gerl"
+            ],
+            [
+              "Øre",
+              "Silvola"
+            ],
+            [
+              "Larynx",
+              "Hesstvedt"
+            ],
+            [
+              "Søvn",
+              "Hrubos-Strøm"
+            ]
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Veiledning og seksjonsmøter"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Veiledersamtaler: Første mandag i måneden fra kl. 15:00 er satt av til veiledning. Du og veileder avtaler konkret tidspunkt.",
+            "Skriv referat og send til godkjenning i Kompetanseportalen.",
+            "Seksjonsmøter: Hver seksjon har egne møter. Spør seksjonsleder om tidspunkt og forventninger."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "4. Vakt og oppgaveliste"
+        },
+        {
+          "t": "p",
+          "text": "Oppgavelisten er dynamisk og må sjekkes ofte."
+        },
+        {
+          "t": "p",
+          "text": "Fil: K:\\30 Kirurgisk divisjon\\306 (Øre-Nese-Hals)\\Admin\\Oppgaveliste_leger_ØNH.xlsx"
+        },
+        {
+          "t": "h3",
+          "text": "4.1 Forkortelser i oppgavelisten"
+        },
+        {
+          "t": "table",
+          "headers": [
+            "Kode",
+            "Beskrivelse"
+          ],
+          "rows": [
+            [
+              "Ø",
+              "Primærvakt (vakttelefon 64100) – dekker øyeblikkelig hjelp på dagtid"
+            ],
+            [
+              "T",
+              "Tertiærvakt (overlege, tlf. 64101)"
+            ],
+            [
+              "KN",
+              "Kveld + nattvakt (man–fre, oppmøte 15:00) / KNv: Vakansvakt"
+            ],
+            [
+              "KNH",
+              "Kveld + nattvakt helg (oppmøte 18:45) / KNHv: Vakansvakt"
+            ],
+            [
+              "DKH",
+              "Dag + kveld helg (oppmøte 09:00) / DKHv: Vakansvakt"
+            ],
+            [
+              "V",
+              "Visittgående lege"
+            ],
+            [
+              "P",
+              "Poliklinikk (PØ: øre, PN: nese, PL: larynx, PT: tumor)"
+            ],
+            [
+              "O",
+              "Operasjon (OD: dagkirurgi, OS: sentral OP, OA: assistanse)"
+            ],
+            [
+              "C",
+              "Søvnpoliklinikk"
+            ],
+            [
+              "S",
+              "Studiedag / U: Fordypning / F: Ferie"
+            ]
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "4.2 Vaktens funksjon og logistikk"
+        },
+        {
+          "t": "h3",
+          "text": "Primærvakt (Ø)"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Har vakttelefon og calling for «Rød luftvei».",
+            "Callingen skal alltid være på; møt umiddelbart ved alarm.",
+            "Ansvar: sikring av luftvei på hals, inkl. nød-cricothyroidotomi ved behov."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Bakvakt"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Navn står på nederste linje i oppgavelisten.",
+            "Bakvakt kveld/natt er ofte ikke samme overlege som hadde tertiærvakt på dagtid."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Tilgjengelighet"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Du jobber som regel alene på vakt.",
+            "Ha lav terskel for telefonkontakt med bakvakt."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Legevaktsfunksjon"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Rådgivende funksjon for legevakter i avdelingens opptaksområde."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Opptaksområde"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Sjekk at ø-hjelpspasienter hører til: Oslo bydelene Alna, Grorud og Stovner.",
+            "OBS: Fra 01.01.2026 er Alna ikke lenger del av opptaksområdet; kun Stovner og Grorud."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Mottak av pasienter"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Mindre problemer på kveldstid: kan tas imot direkte på ØNH sengepost (S203).",
+            "Akutte problemer (IV-behov, blodprøver) eller etter kl. 23:00: pasienten må meldes via Akuttmottak/Barnemottak."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Forberedelse til første vakt"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Gå 2–3 følgevakter utover kvelden.",
+            "Overtid føres etter vanlig rutine."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "5. Operasjon og poliklinikk – rutiner"
+        },
+        {
+          "t": "h3",
+          "text": "5.1 Operasjon"
+        },
+        {
+          "t": "h3",
+          "text": "Generelt"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Før du assisterer eller har egen stue: les deg opp på inngrepet.",
+            "Gå gjennom prosedyre og eventuelle sjekklister.",
+            "Avklar forventninger med operatør i god tid."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Oppmøtesteder og rutiner"
+        },
+        {
+          "t": "table",
+          "headers": [
+            "Avdeling",
+            "Oppmøte",
+            "Rutine"
+          ],
+          "rows": [
+            [
+              "Dagkirurgi (DKA, B101)",
+              "07:30",
+              "Snakk med første (ev. andre) pasient. Operatør klar på stue kl. 08:00. Torsdager: sen oppstart; pasient kl. 08:00. Våre stuer: 4, 6 (barnestue) og 7."
+            ],
+            [
+              "Sentraloperasjon (SOP)",
+              "—",
+              "Brukes sjelden, hovedsakelig ved ø-hjelp. 2 ØNH-skap utenfor stue 8 med viktig utstyr. Skopirack for FESS/navigasjon står på DKA."
+            ]
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Akutt operasjon"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Fyll ut grønnskjema: hak av for «øhjelp».",
+            "Venteliste: «99».",
+            "Ring aktuelle kontakter (se telefonliste)."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Innleggelse fra DKA"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Ved behov for observasjon på sengepost: meld fra til sengepost.",
+            "Legg inn medikamenter i MetaVision.",
+            "Skriv resept(er) og sykmelding ved behov."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "5.2 Visitt og utskrivelse"
+        },
+        {
+          "t": "h3",
+          "text": "Visitt"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Previsitt på sengepost med tertiærvakt kl. 09:00.",
+            "Kritisk syke og barn vurderes først.",
+            "Visittlege avlaster ø-hjelpslegen."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Epikriser"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Frist: maks 1 uke.",
+            "Hovedregel: epikrise klar ved utreise, særlig ved overflytning.",
+            "Send til kontrasignering hvis du ønsker en ekstra vurdering."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "5.3 DIPS og henvisninger"
+        },
+        {
+          "t": "h3",
+          "text": "DIPS Arena (innført 01.12.2024)"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Lag egne fraser for innkomstnotater, operasjonsbeskrivelser m.m.",
+            "Det er ingen sekretærer for ordinære diktater."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Timebestilling"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Gjøres i DIPS Arena.",
+            "Husk diagnosekode, prosedyrekode og takst før pasienten forlater poliklinikken.",
+            "Superbruker: Mikkel Munthe-Kaas."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Gule lapper / godkjenning"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Sendes til ØNH-kontor."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Rikshospitalet (RH)"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Ved akutte problemstillinger: ring vakthavende ØNH-lege (tlf. 02770).",
+            "De har to bakvakter: øre og generell.",
+            "Ved sterk kreftmistanke: ta nødvendige prøver (FNAC, biopsi), rekvirer CT hals/thorax (pakkeforløp), og ring deretter koordinator."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Røntgendemonstrasjon"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Send «gul lapp» i DIPS Arena til radiolog Jon Orrem i pasientens navn."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "5.4 Spesialiserte rutiner (traume)"
+        },
+        {
+          "t": "h3",
+          "text": "Nesebrudd"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Ikke ta imot som ø-hjelp direkte.",
+            "Sett opp poliklinisk time: Barn 3 dager etter traume (fastende, morgen). Voksne 5–7 dager etter traume."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Ansiktstraume"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "ØNH har ansvaret.",
+            "I samråd med bakvakt vurderes om brudd kan håndteres lokalt (sjelden) eller skal sendes til kjevekirurg Ullevål."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Svimmelhet"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Det kommer ofte tilsynsforespørsler fra nevrologisk avdeling.",
+            "Hovedregel: tilstand bør avklares nevrologisk først."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "6. Prosedyrer før første vakt"
+        },
+        {
+          "t": "p",
+          "text": "For å være trygg på vakt, bør du ha blitt introdusert til og gradvis mestre følgende prosedyrer. Bruk de første ukene på ø-hjelpen til praktisk opplæring. Kryss av i din individuelle sjekkliste når du føler deg trygg på hver prosedyre."
+        },
+        {
+          "t": "ol",
+          "items": [
+            "Undersøke voksne og barn ved ansiktstraumer (obs. diplopi, nerveskade, septumhematom). Kjenne rutiner for CT og overføring/konferering med OUS/kjevekirurg Ullevål.",
+            "Kjenne til og kunne iverksette behandling av anafylaksi og håndtere allergivaksinasjon.",
+            "Beherske lokalbedøvelse og øreblokade.",
+            "Epistaxisbehandling (sølvnitrat, diatermi, RapidRhino, salvestrimmel / kvinnekateter).",
+            "Nasopharyngoskopi.",
+            "Gjennomgang av nødtracheotomi (prosedyre og utstyr).",
+            "Fleksibel skopi og vurdering av larynxanatomi.",
+            "Inspeksjon og palpasjon av munnhule og orofarynx.",
+            "Selvstendig kunne sette GAG og komprimere tonsilleblødning på operasjonsstuen, samt kjenne melderutiner ved behov for OP-stue.",
+            "Fordel: kunne håndtere tonsilleblødning hos voksne i lokalanestesi.",
+            "Sette og drenere peritonsillær abscess.",
+            "Beherske otoskopi og otomikroskopi.",
+            "Utføre og tolke stemmegaffeltester.",
+            "Undersøke og vurdere tilstander i vestibularisapparatet; kjenne til rutiner for tilsyn/høresentral påfølgende dag.",
+            "Ha vært med på adenotomi og tonsillektomi (barnestue, DKA)."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "7. Viktige telefonnumre"
+        },
+        {
+          "t": "p",
+          "text": "Hold denne listen lett tilgjengelig. For interne numre på Ahus er 5-sifrede numre utvidet for å sikre korrekt oppringing."
+        },
+        {
+          "t": "table",
+          "headers": [
+            "Funksjon",
+            "Internnummer (Ahus)",
+            "Eksternt nummer (ved henvisning)"
+          ],
+          "rows": [
+            [
+              "Hjertestans / Rød luftvei",
+              "8888",
+              "N/A"
+            ],
+            [
+              "Primærvakt (Ø)",
+              "864100",
+              "N/A"
+            ],
+            [
+              "Tertiærvakt (T)",
+              "864101",
+              "N/A"
+            ],
+            [
+              "Sykepleier ØHJ",
+              "864021",
+              "N/A"
+            ],
+            [
+              "Sykepleier ØNH sengepost S203",
+              "866955",
+              "N/A"
+            ],
+            [
+              "Vaktaudiograf",
+              "864022",
+              "N/A"
+            ],
+            [
+              "MIG-team (Mobil intensiv gruppe)",
+              "864260",
+              "N/A"
+            ],
+            [
+              "Sentralbord Ahus",
+              "858199",
+              "N/A"
+            ],
+            [
+              "ØHJ anestesi",
+              "862118",
+              "N/A"
+            ],
+            [
+              "Operasjonskoordinator «Buret»",
+              "862124",
+              "N/A"
+            ],
+            [
+              "Sekundærvakt kirurgi",
+              "862111",
+              "N/A"
+            ],
+            [
+              "Vekeansvarlig overlege ØNH",
+              "N/A",
+              "482 81 008"
+            ],
+            [
+              "Vakthavende lege ØNH Rikshospitalet",
+              "N/A",
+              "02770"
+            ],
+            [
+              "Koordinator hode/hals RH (kreft)",
+              "N/A",
+              "23 07 16 41 / 23 07 62 17"
+            ],
+            [
+              "Bildeeksport Ahus",
+              "N/A",
+              "862349"
+            ]
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Avslutning"
+        },
+        {
+          "t": "p",
+          "text": "Vi ønsker deg velkommen som LIS-lege ved ØNH Ahus og håper denne oppstartsguiden gjør overgangen inn i avdelingen mer oversiktlig og trygg. Ta gjerne opp spørsmål fortløpende med fadder, veileder eller nærmeste overlege. Lykke til!"
+        }
+      ]
+    },
+    {
+      "id": "oppstartsguide-nh-ahus-kortversjon",
+      "slug": "oppstartsguide-nh-ahus-kortversjon",
+      "title": "Oppstartsguide – ØNH Ahus (kortversjon)",
+      "audience": "",
+      "nodes": [
+        {
+          "t": "h1",
+          "text": "LIS Oppstartsguide – ØNH Ahus (kortversjon)"
+        },
+        {
+          "t": "p",
+          "text": "Akershus universitetssykehus – Øre–Nese–Hals-avdelingen"
+        },
+        {
+          "t": "p",
+          "text": "Målgruppe: Nye LIS-leger. Bruk: Første dag og første uke (kort oversikt). For detaljer: se full versjon av LIS Oppstartsguide ØNH Ahus."
+        },
+        {
+          "t": "h2",
+          "text": "1. Velkommen og nøkkelpersoner"
+        },
+        {
+          "t": "p",
+          "text": "ØNH Ahus er en spesialisert avdeling med bred akutt- og elektiv virksomhet. Denne kortguiden gir deg en rask oversikt over praktisk informasjon, rutiner og nøkkelkontakter."
+        },
+        {
+          "t": "h3",
+          "text": "Nøkkelpersoner"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Utdanningsansvarlig overlege (UAO): Lena Hesstvedt – kontor i kjelleren B3",
+            "Tillitsvalgt LIS: Bjørn Tveit – kontor i kjelleren B3",
+            "Tillitsvalgt overleger: Anna Rømcke – kontor i kjelleren B3",
+            "Avdelingsleder: Ivar Vølstad – kontor ved siden av lunsjrommet",
+            "Legeleder: Kishege Mekonnen – kontor ved sengepost S203"
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Kommunikasjon"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Vi bruker WhatsApp for rask informasjonsdeling.",
+            "Be om å bli lagt inn i gruppene: Alle ØNH leger AHUS og Superdupervakt ØNH."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "2. Første dag – sjekkliste"
+        },
+        {
+          "t": "p",
+          "text": "Mål: Du skal komme i gang trygt, med tilgang, informasjon og kontaktpersoner på plass."
+        },
+        {
+          "t": "p",
+          "text": "Sammen med fadder første dag:"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Bli vist rundt på huset (poliklinikk, sengepost, DKA, Akuttmottak, garderober, treningsrom).",
+            "Hente og teste adgangskort (inkl. soverom på vakt og kjøleskap ved kantine).",
+            "Gjennomføre eller planlegge nødvendige e-læringskurs.",
+            "Bli introdusert til kolleger på poliklinikk og sengepost.",
+            "Få tilgang til K-stasjon (fellesområder for LIS-utdanning og internundervisning).",
+            "Legges til i relevante WhatsApp-grupper.",
+            "Avtale tidspunkt for første veiledersamtale."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "3. Praktisk – lokasjoner og fasiliteter"
+        },
+        {
+          "t": "h3",
+          "text": "Viktige lokasjoner"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Poliklinikk S101 – hovedarena for daglig ØNH-arbeid",
+            "Sengepost S203 – inneliggende pasienter",
+            "Dagkirurgi (DKA B101) – elektiv kirurgi, barnestue",
+            "Akuttmottak B402 – akutte pasienter",
+            "Barnemottak B404 – akutte barn",
+            "SOP B305 – sentraloperasjon (mest ø-hjelp)",
+            "LIS-/overlegekontor – kjeller B3",
+            "Søvnpoliklinikk – Nye Nord, 1. etasje"
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Fasiliteter"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Treningsrom / massasjestoler – ved ansattinngang i kjelleren.",
+            "Soverom på vakt – kjeller, bygg B2U1 (sjekk at kortet ditt fungerer).",
+            "Mat på vakt: kjøleskap ved kantineutgangen (adgangskort). Narvesen: hverdager til kl. 22.00, helger til kl. 20.00."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "4. Møter og undervisning – minimum"
+        },
+        {
+          "t": "h3",
+          "text": "Faste møter"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Morgenmøte: 07:40–08:00 (hverdager), møterom 036 (S101)",
+            "Internundervisning: etter morgenmøte (mandager), S104.016 (LIS presenterer)",
+            "Nettundervisning: 08:15–09:00 (torsdager), morgenmøterommet",
+            "Fredagsmøte: 08:00–08:30 (fredager), stort auditorium"
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Morgenmøte – nøkkelpunkter"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Nattvakt leder møtet.",
+            "Vis dagens arbeidsplan (T, Ø, KN, bakvakt).",
+            "Kort gjennomgang av innlagte pasienter og sengepost.",
+            "Gå gjennom dagens tilsyn og operasjonsprogram.",
+            "Ved hode-/halskreft: angi TNM, HPV-status, behandling og ev. recidiv."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "5. Vakt – kortversjon"
+        },
+        {
+          "t": "h3",
+          "text": "Viktige forkortelser"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Ø: primærvakt – vakttelefon 64100 (dag, ø-hjelp)",
+            "T: tertiærvakt – overlege, tlf. 64101",
+            "KN: kveld + natt (man–fre, oppmøte 15:00)",
+            "KNH: kveld + natt (helg, oppmøte 18:45)",
+            "DKH: dag + kveld (helg, oppmøte 09:00)"
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Primærvakt – rolle"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Har vakttelefon og calling for «Rød luftvei».",
+            "Callingen skal alltid være på, møt raskt ved alarm.",
+            "Hovedansvar: sikre luftvei på hals (inkl. nød-cricothyroidotomi ved behov).",
+            "Du jobber ofte alene – lav terskel for å ringe bakvakt."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Opptaksområde (akutt)"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Oslo-bydelene Alna, Grorud og Stovner (merk endring fra 01.01.2026 – kun Grorud og Stovner).",
+            "Mindre problemstillinger kveldstid: pasienter kan tas imot på ØNH sengepost (S203).",
+            "Ved behov for IV/blodprøver eller etter kl. 23.00: via Akuttmottak/Barnemottak."
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Første vakt – anbefaling"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Gå med på 2–3 følgevakter utover kvelden med erfaren LIS/overlege.",
+            "Noter typiske problemstillinger og praktisk logistikk.",
+            "Få oversikt over nødutstyr (Rød luftvei, nød-tracheotomi) før du står alene."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "6. Prosedyrer – minimum før første selvstendige vakt"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Undersøke ansiktstraume (inkl. septumhematom) og vite når du kontakter OUS/kjevekirurg.",
+            "Grunnleggende behandling av epistaxis (sølvnitrat, pakk, RapidRhino).",
+            "Beherske otoskopi og enkel otomikroskopi.",
+            "Kunne gjøre nasopharyngoskopi og beskrive funn.",
+            "Kjenne til nødtracheotomi-prosedyre og hvor utstyret ligger.",
+            "Ha sett/assistert ved tonsilleblødning og peritonsillær abscess (drenasje)."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "7. Viktige telefonnumre (kortliste)"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Hjertestans / Rød luftvei: 8888",
+            "Primærvakt ØNH (Ø): 864100",
+            "Tertiærvakt ØNH (T): 864101",
+            "Sykepleier ØHJ: 864021",
+            "Sykepleier ØNH sengepost S203: 866955",
+            "MIG-team: 864260",
+            "ØHJ anestesi: 862118",
+            "Sentralbord Ahus: 858199",
+            "Vakthavende ØNH Rikshospitalet: 02770"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Avslutning"
+        },
+        {
+          "t": "p",
+          "text": "Denne kortguiden er ment som en «første dag / første uke»-oversikt. For mer detaljer om rutiner, prosedyrer, fagseksjoner og henvisninger: se fullversjonen av LIS Oppstartsguide ØNH Ahus."
+        }
+      ]
+    },
+    {
+      "id": "f-rste-vakt-ultrakort",
+      "slug": "f-rste-vakt-ultrakort",
+      "title": "Første vakt – ultrakort",
+      "audience": "",
+      "nodes": [
+        {
+          "t": "h1",
+          "text": "Første vakt – ultrakort"
+        },
+        {
+          "t": "h2",
+          "text": "Før vakten"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Gått minst 2–3 følgevakter (kveld/natt) med erfaren LIS/overlege",
+            "Vet hvor nødluftvei-/nødtracheotomi-utstyr ligger",
+            "Vet hvordan du når bakvakt og hva som forventes at du løser selv"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Under vakten"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Lav terskel for å ringe bakvakt ved tvil/ustabil pasient/usikker luftvei",
+            "Sjekk opptaksområde (Alna/Grorud/Stovner; fra 01.01.2026 kun Grorud og Stovner)"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Viktige telefonnumre"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Hjertestans / Rød luftvei: 8888",
+            "Primærvakt ØNH (Ø): 864100",
+            "Tertiærvakt ØNH (T): 864101",
+            "Sykepleier ØHJ: 864021",
+            "Sykepleier ØNH S203: 866955",
+            "MIG-team: 864260",
+            "ØHJ anestesi: 862118",
+            "Sentralbord Ahus: 858199"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mal-for-faddere",
+      "slug": "mal-for-faddere",
+      "title": "Mal for faddere",
+      "audience": "",
+      "nodes": [
+        {
+          "t": "h1",
+          "text": "Mal for faddere"
+        },
+        {
+          "t": "p",
+          "text": "Hei kjære fadder!\nSom din dedikerte HR-ekspert på LIS-onboarding ved norske sykehus, er målet å strukturere rollen din slik at du kan fokusere på det viktigste: å sikre at vår nye kollega får en trygg og effektiv start.\nDere er essensielle for at onboardingprosessen – bygget på prinsippet «av LIS, for LIS og med LIS» – skal lykkes.\nHer finner du en restrukturert og logisk plan for fadderrollen de neste seks månedene, med fokus på klarhet og tilgjengelighet."
+        },
+        {
+          "t": "h2",
+          "text": "Del 1: Din rolle og ansvarsfordeling"
+        },
+        {
+          "t": "p",
+          "text": "Fadderordningen skal sikre god velkomst, nødvendig initial opplæring og tilgang på kollegial støtte for nye LIS 2/3."
+        },
+        {
+          "t": "h2",
+          "text": "Roller i onboardingsprosessen"
+        },
+        {
+          "t": "table",
+          "headers": [
+            "Rolle",
+            "Ansvar og kriterier"
+          ],
+          "rows": [
+            [
+              "Fadderansvarlig",
+              "En legeleder/LIS 3 som leder og organiserer fadderordningen. Sørger for oppdatering av prosedyren og tar imot forslag til endringer fra faddere og LIS."
+            ],
+            [
+              "Fadder (deg)",
+              "En LIS 3 med minst ett års erfaring fra Ahus. Din rolle er å være kontaktperson og støttende kollega. Du svarer på spørsmål (særlig «de dumme»), løser mindre utfordringer, og henviser til riktig person (leder, utdanningsansvarlig overlege, tillitsvalgt osv.) ved behov. Du skal være en tillitsperson."
+            ],
+            [
+              "Ny LIS 3",
+              "Ønskes velkommen, introduseres, får omvisning og praktisk opplæring."
+            ]
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Del 2: Fase 1 – Før oppstart (1–2 uker før)"
+        },
+        {
+          "t": "p",
+          "text": "Onboardingen starter med nødvendig informasjon og kontakt før den første arbeidsdagen."
+        },
+        {
+          "t": "table",
+          "headers": [
+            "Tidspunkt",
+            "Handling",
+            "Viktig informasjon"
+          ],
+          "rows": [
+            [
+              "1–2 uker før oppstart",
+              "Fadderansvarlig ringer ny LIS.",
+              "Informerer om bakgrunn og hensikt med fadderordningen, fadders rolle og «Fadderdag» (første arbeidsdag). Kartlegger også nøkkelpunkter som erfaring og kjennskap til Ahus."
+            ],
+            [
+              "Overføring",
+              "Fadderansvarlig videreformidler kontaktinfo mellom deg og ny LIS.",
+              "Fadderansvarlig oversender infoskriv på mail/app til ny LIS."
+            ],
+            [
+              "Din første kontakt (prekær oppgave!)",
+              "Fadder oppretter kontakt med ny LIS før første møte.",
+              "Årsak: Dere må kunne kontakte hverandre hvis det oppstår problemer første dag (sykdom, forsinkelser)."
+            ],
+            [
+              "Forberedelse",
+              "Fadder printer ut denne prosedyren og tar den med første dag.",
+              "PREKÆR INFO TIL NY LIS: Ny LIS må huske å ta med PASS."
+            ]
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Del 3: Fase 2 – «Fadderdag» (første arbeidsdag)"
+        },
+        {
+          "t": "p",
+          "text": "Hele den første arbeidsdagen tilbringes sammen med deg. Dagen følger en fast prosedyre for å sikre lik introduksjon for alle nye LIS ved ØNH, men kan tilpasses ved god kjennskap til punktene."
+        },
+        {
+          "t": "h2",
+          "text": "Del 3A: Morgenrutiner og introduksjon (kl. 07:35 – ca. 09:15)"
+        },
+        {
+          "t": "table",
+          "headers": [
+            "Tidspunkt",
+            "Aktivitet",
+            "Din sjekkliste"
+          ],
+          "rows": [
+            [
+              "07:35",
+              "Møt ny LIS ved hovedinngangen.",
+              "Informer kort om fadderordningen og dagens innhold, og gi/vis utskrift av prosedyren."
+            ],
+            [
+              "07:40",
+              "Morgenmøtet.",
+              "Presentasjon: Fadder presenterer ny LIS for møtedeltakerne, og LIS introduseres til leder dersom leder er til stede."
+            ],
+            [
+              "Deretter",
+              "Praktiske formaliteter.",
+              "Gå til Servicetorget for adgangskort, tilganger og garderobe (evt. venteliste). Hjelp med å hente ut klær og skifte."
+            ],
+            [
+              "Omvisning",
+              "Lokale introduksjoner.",
+              "Vis arbeidsbase/kontor, lunsjområde, sengepostområde, kontoret til leder og andre nyttige rom (morgenundervisningsrom, poliklinikk, DKA, SOP, BUK, Nye Nord)."
+            ],
+            [
+              "Strukturell omvisning",
+              "Akutt- og bygningsstruktur.",
+              "Bruk kart! Relevant for akuttcalling og «Røde luftveier». Vis hovedbygget (sengebygg vs. behandlingsbygg) og forklar rom-koder (f.eks. S305.019). Vis Nye Nord inkl. Sim-senteret. Vis kontor til LIS og overleger."
+            ],
+            [
+              "09:15",
+              "Vakt- og akuttområdet.",
+              "Omvisning i akuttmottaket og rom relevante for vaktarbeid (soverom i kjeller, røntgen, akutt24, MO, intensiv). Sjekk at LIS har tilgang til relevante vaktrom."
+            ]
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Del 3B: Systemer, kompetanse og administrasjon (kl. 10:30)"
+        },
+        {
+          "t": "p",
+          "text": "Sett dere ned (f.eks. ved mottaket/arbeidsbasen A24) for gjennomgang av digitale systemer."
+        },
+        {
+          "t": "h2",
+          "text": "IT og systemtilganger (prekær digital oppstart)"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "PC-pålogging: Ny LIS logger seg inn. Tilganger skal være bestilt av leder. LIS skal ha fått e-post fra DIPS klinisk IKT med brukernavn. Ring Sykehuspartner for førstegangspålogging ved behov.",
+            "Printer: Ordne tilgang til printer.",
+            "DIPS: Logg på, ordne oppsett av faner og mottakslister. Vis hvordan man skriver seg opp i DIPS når man er i mottak."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "MinGAT og arbeidstid"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Gjennomgå MinGAT: vaktkoder, hvordan man skriver overtid, registrerer fravær, søker fri til kurs og ferie.",
+            "Vaktbytter: hvordan man bytter vakter i praksis og i GAT.",
+            "Vis hvordan man eksporterer kalender til mobil.",
+            "Informer om ekstern pålogging via ekstern.ahus.no."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Programvare og håndbøker"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Relevante programmer: Outlook og Telefonkatalogen.",
+            "Kvalitet: Vis Kvalitetshåndboken (EQS), inkludert hvor/hvordan man melder uønskede hendelser (avvik).",
+            "Portaler: Vis Personalportalen, Kompetanseportalen og Læringsportalen (kan også logges på eksternt via sykehuspartner.no/logg-inn).",
+            "Apper: «Visma GatGo» (GAT på mobil) og «Dossier Helse» (kompetanseportalen på mobil)."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "E-læringskurs og kompetanse (må fullføres)"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Søknadsprosess: Eksterne kurs søkes på nett. Interne kurs meldes på via læringsportal eller tilsendt e-post.",
+            "Handling: Oppfordre LIS til å søke kurs allerede denne dagen og legge inn forespørsel om fri i GAT.",
+            "Refusjon: Utgifter til kurs må søkes innen 3 måneder etter fullført kurs."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Veiledning og kommunikasjon"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Veilederrollen: Alle LIS får tildelt veileder (overlege). Individuell veiledning avtales direkte – oppfordre til kontakt i løpet av første uke. Man blir også del av gruppeveiledningsgruppe.",
+            "Sykefravær: Melding sendes til gruppen «Alle ØNH leger».",
+            "Mobilgrupper: Sørg for at ny LIS er medlem i de to offisielle WhatsApp-gruppene: «Alle ØNH leger» og «Superdupervakt ØNH»."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Del 3C: Lunsj og egenomsorg (kl. 11:00)"
+        },
+        {
+          "t": "p",
+          "text": "Ta lunsj sammen i kantinen eller på avdelingen. Bruk tiden til å snakke om viktigheten av egen helse."
+        },
+        {
+          "t": "h2",
+          "text": "Egen helse og støtte (Legeløftet)"
+        },
+        {
+          "t": "p",
+          "text": "Informer LIS om Legeløftet/Hippokratisk ed: «Jeg vil ivareta min egen helse, mitt velvære og mine evner, for å kunne gi omsorg av den høyeste standard»."
+        },
+        {
+          "t": "p",
+          "text": "Gjennomgå hvor LIS kan søke hjelp ved behov:"
+        },
+        {
+          "t": "table",
+          "headers": [
+            "Støttekategori",
+            "Tilbud og kontakt"
+          ],
+          "rows": [
+            [
+              "Kollegial støtte",
+              "Kontakt med tillitsvalgt/fadder. Intern kollegastøtteordning. Nasjonal ekstern ordning: Støttekollegaordningen."
+            ],
+            [
+              "Profesjonelle tilbud",
+              "Villa Sana: søk om gratis samtale/opphold via nettsider. Lege-for-lege: fastleger spesielt for leger."
+            ],
+            [
+              "Sykehusets tilbud",
+              "Bedriftshelsetjenesten (BHT) tilbyr vaksineprogram og «gravid i jobb»-tilbud. Tilbyr også «kurs i belastningsmestring» (meldes på sammen med leder)."
+            ],
+            [
+              "Arbeidsmiljø",
+              "Ved behov for tilrettelegging er tidlig kontakt med leder nyttig. Veileder om forsvarlighet i arbeidstidsordninger for leger i sykehus kan konsulteres."
+            ],
+            [
+              "Din bistand",
+              "Fadder kan bistå ny LIS i å kontakte leder, tillitsvalgt, veileder eller annen relevant person."
+            ]
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Del 4: Fase 3 – Oppfølging (2 uker og 6 måneder)"
+        },
+        {
+          "t": "p",
+          "text": "Din støtte fortsetter utover den første dagen."
+        },
+        {
+          "t": "ol",
+          "items": [
+            "Etter ca. 14 dager: Ta kontakt med ny LIS for å høre hvordan det har gått. Spør om behov for mer opplæring.",
+            "Etter ca. 6 måneder: Siste oppsøkende kontakt (fadderansvarlig vil minne deg på dette).",
+            "Målet: Spør hvordan det går og hvordan LIS har det. Gjennom slik kontakt kan man fange opp eventuelle utfordringer."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kontakt-og-telefonnumre",
+      "slug": "kontakt-og-telefonnumre",
+      "title": "Kontakt og telefonnumre",
+      "audience": "",
+      "nodes": [
+        {
+          "t": "h1",
+          "text": "Kontakt og telefonnumre"
+        },
+        {
+          "t": "p",
+          "text": "Her er alle viktige telefonnumre. Telefonnummer til ØNH vakttelefonen er 679 64 100."
+        },
+        {
+          "t": "h2",
+          "text": "Telefonliste"
+        },
+        {
+          "t": "table",
+          "headers": [
+            "Funksjon",
+            "Telefon"
+          ],
+          "rows": [
+            [
+              "SekA (teamleder)",
+              "862 130"
+            ],
+            [
+              "SekB (lege i mottak)",
+              "869 979"
+            ],
+            [
+              "B-gren hjerte",
+              "866 028"
+            ],
+            [
+              "Triagelege",
+              "866 029"
+            ],
+            [
+              "Konferering",
+              "869 066"
+            ],
+            [
+              "MO-lege",
+              "866 510"
+            ],
+            [
+              "PO-lege",
+              "862 128"
+            ],
+            [
+              "Husvakt",
+              "866 024"
+            ],
+            [
+              "Primær stans",
+              "862 104"
+            ],
+            [
+              "LIS1 stans",
+              "862 102"
+            ],
+            [
+              "Infeksjon tertiær",
+              "869 043"
+            ],
+            [
+              "Lunge tertiær",
+              "869 640"
+            ],
+            [
+              "Hjerte tertiær",
+              "869 710 og 869 636"
+            ],
+            [
+              "Nyre tertiær",
+              "869 638"
+            ],
+            [
+              "Gastro tertiær",
+              "869 641"
+            ],
+            [
+              "Hema tertiær",
+              "869 041"
+            ],
+            [
+              "Endo tertiær",
+              "869 044"
+            ],
+            [
+              "Geriatri tertiær",
+              "866 060"
+            ],
+            [
+              "Onkologi bakvakt",
+              "863 067 og 91720187"
+            ],
+            [
+              "Psyk primærvakt",
+              "868 234"
+            ],
+            [
+              "Nevro primærvakt",
+              "869 639"
+            ],
+            [
+              "Nevro sekundærvakt",
+              "869 642"
+            ],
+            [
+              "Nevro trombolyse",
+              "860 100"
+            ],
+            [
+              "Pediatri primær",
+              "862 106"
+            ],
+            [
+              "Gyn forvakt dag",
+              "860 532"
+            ],
+            [
+              "Gyn forvakt kveld/natt",
+              "862 115"
+            ],
+            [
+              "Kongsvinger LIS2",
+              "41656240"
+            ],
+            [
+              "Plasskoordinator",
+              "862 127"
+            ],
+            [
+              "Ansvarshavende",
+              "860 090"
+            ],
+            [
+              "Triage spl 1",
+              "869 491"
+            ],
+            [
+              "Triage spl 2",
+              "869 492"
+            ],
+            [
+              "Sekretær AKM",
+              "861 111/2"
+            ],
+            [
+              "Prøvemottak",
+              "864 293"
+            ],
+            [
+              "Vakthavende lab",
+              "862 126"
+            ],
+            [
+              "Anestesi primærvakt",
+              "862 118"
+            ],
+            [
+              "Anestesi sekundærvakt",
+              "862 117"
+            ],
+            [
+              "Arteriekran 8-14",
+              "862 118"
+            ],
+            [
+              "Arteriekran 14-20",
+              "862 152"
+            ],
+            [
+              "Kir primærvakt",
+              "862 112"
+            ],
+            [
+              "Kir sekundærvakt",
+              "862 111"
+            ],
+            [
+              "Traumeleder",
+              "866 832"
+            ],
+            [
+              "B-gren gastrokir",
+              "869 353"
+            ],
+            [
+              "B-gren kar/thorax",
+              "869 600"
+            ],
+            [
+              "B-gren urologi",
+              "869 352"
+            ],
+            [
+              "Orto primærvakt",
+              "862 113"
+            ],
+            [
+              "Orto sekundærvakt",
+              "864 261"
+            ],
+            [
+              "Radiograf",
+              "862 125"
+            ],
+            [
+              "Radiolog",
+              "864 111"
+            ],
+            [
+              "Radiolog ultralyd",
+              "869 919"
+            ],
+            [
+              "Radiolog abdomen",
+              "862 765"
+            ],
+            [
+              "Radiolog thorax",
+              "862 854"
+            ],
+            [
+              "Radiolog muskel/skjelett",
+              "862  836"
+            ],
+            [
+              "Radiolog nevro/ØNH",
+              "869 661"
+            ],
+            [
+              "Radiolog intervensjon kar",
+              "869 258"
+            ],
+            [
+              "Radiolog intervensjon generell",
+              "862 788"
+            ],
+            [
+              "Radiolog MR",
+              "864 169"
+            ]
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Hvem ringer jeg ved…"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Akutt faglig spørsmål i vakt: (Bakvakt/tertiær) – (864 101)",
+            "Teknisk/IKT: (support Sykehuspartner) – (32 23 53 30)",
+            "Bemanning/turnus: (Kishege Mekonnen) – (971 09 568)",
+            "Sentralbord: (58 199)",
+            "Akuttvarsling: (8888)",
+            "MIG-team: (864 260)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fakturasted",
+      "slug": "fakturasted",
+      "title": "Fakturasted",
+      "audience": "",
+      "nodes": [
+        {
+          "t": "h1",
+          "text": "Fakturasted"
+        },
+        {
+          "t": "p",
+          "text": "Informasjon til alle som skal melde seg på kurs fremover, inkludert høstmøtet."
+        },
+        {
+          "t": "h2",
+          "text": "Slik registrerer du faktura"
+        },
+        {
+          "t": "p",
+          "text": "Faktura sendes til:\nAkershus universitetssykehus\nØre-nese-hals avdelingen, K-sted 306000, ved lege (ditt navn)\nPostboks 1000\n1478 Lørenskog"
+        },
+        {
+          "t": "p",
+          "text": "Hvis det er registrert i ditt navn, må du legge det ut selv og be om refusjon etter kurset."
+        }
+      ]
+    },
+    {
+      "id": "podkast",
+      "slug": "podkast",
+      "title": "Podkast",
+      "audience": "",
+      "nodes": [
+        {
+          "t": "h1",
+          "text": "Podkast"
+        },
+        {
+          "t": "h2",
+          "text": "Din uformelle guide til ØNH Ahus"
+        },
+        {
+          "t": "embed",
+          "url": "https://drive.google.com/file/d/1jiB6IOc9NrVEKoHkYFH0cJeNFxn25Whb/preview",
+          "height": 220
+        }
+      ]
+    }
+  ]
+}
