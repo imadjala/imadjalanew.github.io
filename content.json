@@ -1757,6 +1757,1769 @@
           "height": 220
         }
       ]
+    },
+    {
+      "slug": "otologi-og-otonevrologi",
+      "title": "Otologi og otonevrologi",
+      "audience": "Fagoversikt · Under utvikling",
+      "description": "Øresykdommer, hørsel, balanse og temporalben.",
+      "category": "Fagområder",
+      "nodes": [
+        {
+          "t": "p",
+          "text": "Øresykdommer, hørsel, balanse og temporalben."
+        },
+        {
+          "t": "p",
+          "text": "Fagoversikt under utvikling. Her er temaene samlet for videre arbeid; kliniske artikler legges til fortløpende."
+        },
+        {
+          "t": "h2",
+          "text": "Ytre øre"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Cerumen",
+            "Otitis externa",
+            "Eksem i øregangen",
+            "Furunkel",
+            "Perikondritt",
+            "Fremmedlegeme i øregangen",
+            "Othematom",
+            "Traumer mot ytre øre",
+            "Eksostoser",
+            "Stenose i øregangen",
+            "Svulster i ytre øre"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Trommehinne og mellomøre"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Akutt otitis media",
+            "Sekretorisk otitt",
+            "Kronisk otitis media",
+            "Trommehinneperforasjon",
+            "Retraksjonslommer",
+            "Atelectase",
+            "Tympanosklerose",
+            "Ossikkelkjedeproblematikk",
+            "Kolesteatom",
+            "Adhesiv otitt",
+            "Barotraume"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Mastoid og temporalben"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Akutt mastoiditt",
+            "Kronisk mastoiditt",
+            "Temporalbensfraktur",
+            "Petrositt",
+            "Labyrintfistel",
+            "Intrakranielle komplikasjoner ved øresykdom",
+            "CSF-otorré / CSF-lekkasje",
+            "Medfødte anomalier i temporalbenet"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Hørsel"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Ledningshørselstap",
+            "Sensorinevralt hørselstap",
+            "Blandet hørselstap",
+            "Plutselig sensorinevralt hørselstap",
+            "Asymmetrisk hørselstap",
+            "Aldersrelatert hørselstap",
+            "Støyskade",
+            "Ototoksisitet",
+            "Autoimmun indreøresykdom",
+            "Auditativ nevropati",
+            "Funksjonelt / ikke-organisk hørselstap"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Tinnitus og lydintoleranse"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Tinnitus",
+            "Pulssynkron tinnitus",
+            "Hyperakusis",
+            "Misofoni"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Vestibulologi og svimmelhet"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "BPPV",
+            "Vestibulær nevritt",
+            "Labyrintitt",
+            "Ménières sykdom",
+            "Vestibulær migrene",
+            "Bilateral vestibulopati",
+            "Persisterende postural-perseptuell svimmelhet",
+            "Akutt vestibulært syndrom",
+            "Episodisk vestibulært syndrom",
+            "Kronisk svimmelhet",
+            "Sentral vs perifer svimmelhet",
+            "Cervikogen svimmelhet",
+            "Medikamentutløst svimmelhet"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Nystagmus og otonevrologisk undersøkelse"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Spontannystagmus",
+            "Blikkretningsnystagmus",
+            "Posisjonsnystagmus",
+            "Hodeimpulstest",
+            "HINTS / HINTS+",
+            "Skew deviation",
+            "Romberg",
+            "Unterberger / Fukuda",
+            "Dix-Hallpike",
+            "Supine roll test",
+            "Video Head Impulse Test",
+            "Kalorisk prøve",
+            "VEMP"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Facialis og kranialnerver"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Akutt perifer facialisparese",
+            "Bells parese",
+            "Ramsay Hunt",
+            "Traumatisk facialisparese",
+            "Postoperativ facialisparese",
+            "Hemifacial spasm",
+            "Facialisfunksjon og gradering",
+            "Andre kranialnerveutfall relatert til temporalben/CPA"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Tumorer"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Vestibularisschwannom",
+            "Meningeom i CPA",
+            "Glomustumor / paragangliom",
+            "Mellomøretumorer",
+            "Tumorer i ytre øregang",
+            "Metastaser til temporalbenet"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Medfødte tilstander"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Medfødt øregangsatresi",
+            "Mikrotia",
+            "Medfødte mellomøreanomalier",
+            "Medfødt hørselstap",
+            "Indre øre-malformasjoner"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Implantater og hørselsteknologi"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Høreapparat",
+            "Benforankret høreapparat",
+            "Cochleaimplantat",
+            "Mellomøreimplantat",
+            "Indikasjoner for implantat",
+            "Oppfølging av implantatpasienter"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Kirurgi"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Myringotomi / paracentese",
+            "Ventilasjonsrør",
+            "Tympanoplastikk",
+            "Ossikuloplastikk",
+            "Mastoidectomi",
+            "Kolesteatomkirurgi",
+            "Stapeskirurgi",
+            "Cochleaimplantasjon",
+            "BAHA-kirurgi",
+            "Facialisdekompresjon",
+            "Kirurgi ved vestibularisschwannom"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Akutte tilstander"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Akutt hørselstap",
+            "Akutt vertigo",
+            "Akutt facialisparese",
+            "Akutt mastoiditt",
+            "Temporalbensfraktur",
+            "Postoperativ blødning / komplikasjon",
+            "Fremmedlegeme",
+            "Alvorlig otitis externa",
+            "Mistanke om intrakraniell komplikasjon"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "rhinologi-og-bihuler",
+      "title": "Rhinologi og bihuler",
+      "audience": "Fagoversikt · Under utvikling",
+      "description": "Nese, bihuler, epistaxis og rhinologisk kirurgi.",
+      "category": "Fagområder",
+      "nodes": [
+        {
+          "t": "p",
+          "text": "Nese, bihuler, epistaxis og rhinologisk kirurgi."
+        },
+        {
+          "t": "p",
+          "text": "Fagoversikt under utvikling. Her er temaene samlet for videre arbeid; kliniske artikler legges til fortløpende."
+        },
+        {
+          "t": "h2",
+          "text": "Neseobstruksjon og strukturelle tilstander"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Septumdeviasjon",
+            "Septumperforasjon",
+            "Neseklaffekollaps",
+            "Conchahypertrofi",
+            "Medfødte nesemisdannelser",
+            "Choanalatresi",
+            "Synekier",
+            "Posttraumatisk nesetetthet",
+            "Iatrogen nesetetthet",
+            "Nesefraktur"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Rhinitt"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Allergisk rhinitt",
+            "Ikke-allergisk rhinitt",
+            "Vasomotorisk rhinitt",
+            "Medikamentell rhinitt",
+            "Yrkesutløst rhinitt",
+            "Hormonell rhinitt",
+            "Atrofisk rhinitt",
+            "Rhinitis sicca",
+            "Gustatorisk rhinitt"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Rhinosinusitt"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Akutt viral rhinosinusitt",
+            "Akutt bakteriell rhinosinusitt",
+            "Kronisk rhinosinusitt uten polypper",
+            "Kronisk rhinosinusitt med polypper",
+            "Residiverende akutt rhinosinusitt",
+            "Odontogen sinusitt",
+            "Soppsinusitt",
+            "Allergisk fungal rhinosinusitt",
+            "Mucoceler",
+            "Pott’s puffy tumor",
+            "Komplikasjoner til rhinosinusitt"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Nesepolypper og inflammatorisk sykdom"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Nesepolypose",
+            "Samter’s triade / AERD",
+            "Eosinofil inflammasjon",
+            "Systemiske sykdommer med sinonasal affeksjon",
+            "Granulomatøse sykdommer",
+            "Sarkoidose",
+            "GPA / Wegeners granulomatose"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Epistaxis"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Fremre epistaxis",
+            "Bakre epistaxis",
+            "Residiverende epistaxis",
+            "Epistaxis hos antikoagulerte",
+            "Epistaxis hos barn",
+            "Blødningskilder i nese",
+            "Kauterisering",
+            "Tamponade",
+            "Kirurgisk behandling",
+            "Embolisering"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Luktesans og smak"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Hyposmi",
+            "Anosmi",
+            "Parosmi",
+            "Phantosmi",
+            "Postviral luktforstyrrelse",
+            "Posttraumatisk luktforstyrrelse",
+            "Luktetrening",
+            "Smaksforstyrrelser"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Trauma"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Nesefraktur",
+            "Septumhematom",
+            "Septumabscess",
+            "Ansiktstraumer med sinonasal affeksjon",
+            "Fremmedlegeme i nese",
+            "Rhinoliquoré etter trauma"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Tumorer og lesjoner"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Benigne nesetumorer",
+            "Invertert papillom",
+            "Juvenilt nasofaryngealt angiofibrom",
+            "Maligne sinonasale tumorer",
+            "Melanom i nese/bihuler",
+            "Olfaktorisk neuroblastom",
+            "Nasofaryngeal tumor",
+            "Metastaser",
+            "Biopsi av sinonasale lesjoner"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Medfødte og pediatriske tilstander"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Choanalatresi",
+            "Medfødte nesecyster",
+            "Fremmedlegeme i nese",
+            "Adenoide vegetasjoner",
+            "Pediatrisk rhinosinusitt",
+            "Juvenilt nasofaryngealt angiofibrom",
+            "Medfødte midtlinjelesjoner"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Kirurgi i nese og bihuler"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Septumplastikk",
+            "Conchareduksjon",
+            "FESS",
+            "Polypektomi",
+            "Sinuskirurgi",
+            "Pannebihulekirurgi",
+            "Endoskopisk sfenoidkirurgi",
+            "Endoskopisk tumorkirurgi",
+            "Revisjonskirurgi",
+            "Navigasjonsassistert kirurgi"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Rhinologiske prosedyrer"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Fremre rhinoskopi",
+            "Nasal endoskopi",
+            "Lokalbehandling i nese",
+            "Kauterisering",
+            "Tamponering",
+            "Lukttesting",
+            "Biopsi",
+            "Drenasje av septumhematom",
+            "Reponering av nesefraktur"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Akutte tilstander"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Kraftig epistaxis",
+            "Septumhematom",
+            "Septumabscess",
+            "Akutt bakteriell sinusitt",
+            "Orbital komplikasjon ved sinusitt",
+            "Intrakraniell komplikasjon",
+            "Fremmedlegeme i nese",
+            "Akutt rhinoré med mistanke om CSF-lekkasje",
+            "Akutt nesetraume"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Orbita og komplikasjoner"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Preseptal cellulitt",
+            "Orbital cellulitt",
+            "Subperiostal abscess",
+            "Orbital abscess",
+            "Synsaffeksjon ved sinusitt",
+            "Cavernous sinus thrombosis",
+            "Intrakranielle komplikasjoner"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "CSF-lekkasje og fremre skallebasis"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Spontan CSF-rhinoré",
+            "Traumatisk CSF-rhinoré",
+            "Iatrogen CSF-lekkasje",
+            "Skallebasisdefekter",
+            "Encephalocele",
+            "Endoskopisk lukking av CSF-lekkasje"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Systemiske og sjeldne tilstander"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Granulomatose med polyangiitt",
+            "Sarkoidose",
+            "Cystisk fibrose",
+            "Primær ciliær dyskinesi",
+            "Immunologiske tilstander med kronisk sinusitt",
+            "Wegener-relatert nesedeformitet",
+            "Relapsing polychondritis"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "laryngologi-og-luftvei",
+      "title": "Laryngologi og luftvei",
+      "audience": "Fagoversikt · Under utvikling",
+      "description": "Stemme, svelging, larynx og øvre luftvei.",
+      "category": "Fagområder",
+      "nodes": [
+        {
+          "t": "p",
+          "text": "Stemme, svelging, larynx og øvre luftvei."
+        },
+        {
+          "t": "p",
+          "text": "Fagoversikt under utvikling. Her er temaene samlet for videre arbeid; kliniske artikler legges til fortløpende."
+        },
+        {
+          "t": "h2",
+          "text": "Stemme og dysfoni"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Akutt heshet",
+            "Kronisk heshet",
+            "Funksjonell dysfoni",
+            "Muskelspenningsdysfoni",
+            "Presbyfoni",
+            "Fonotraume",
+            "Stemmebruk hos profesjonelle stemmebrukere",
+            "Stemmetretthet",
+            "Dysfoni hos barn"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Benigne larynxlesjoner"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Stemmebåndsknuter",
+            "Stemmebåndspolypper",
+            "Reinke-ødem",
+            "Kontaktgranulom",
+            "Laryngeale cyster",
+            "Papillomatose",
+            "Leukoplaki",
+            "Hyperkeratose",
+            "Laryngocele"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Stemmebåndsbevegelighet og nevrologi"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Unilateral stemmebåndsparese",
+            "Bilateral stemmebåndsparese",
+            "Recurrensparese",
+            "Superior laryngeal nerve-parese",
+            "Arytenoiddislokasjon",
+            "Spasmodisk dysfoni",
+            "Tremor i stemmen",
+            "Nevrogen dysfoni"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Dysfagi og aspirasjon"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Orofaryngeal dysfagi",
+            "Faryngeal dysfagi",
+            "Nevrogen dysfagi",
+            "Aspirasjon",
+            "Stille aspirasjon",
+            "Postoperativ dysfagi",
+            "Dysfagi etter strålebehandling",
+            "Fremmedlegeme i hypofarynx/øsofagus",
+            "Globusfølelse"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Laryngeal inflammasjon"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Akutt laryngitt",
+            "Kronisk laryngitt",
+            "Refluksrelatert laryngeal irritasjon",
+            "Laryngopharyngeal reflux",
+            "Epiglottitt",
+            "Supraglottitt",
+            "Granulomatøs laryngitt",
+            "Tuberkulose i larynx"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Akutt luftvei"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Akutt øvre luftveisobstruksjon",
+            "Stridor",
+            "Larynxødem",
+            "Anafylaksi med luftveispåvirkning",
+            "Epiglottitt/supraglottitt",
+            "Bilateral stemmebåndsparese",
+            "Fremmedlegeme i luftveiene",
+            "Blødning i øvre luftvei",
+            "Postoperativ luftveisobstruksjon",
+            "Angioødem"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Trakeostomi"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Indikasjoner for trakeostomi",
+            "Akutt trakeostomi",
+            "Elektiv trakeostomi",
+            "Trakeostomistell",
+            "Trakeostomikomplikasjoner",
+            "Dekanylering",
+            "Tubeobstruksjon",
+            "Dislokasjon av trakeostomikanyle",
+            "Blødning fra trakeostomi",
+            "Trakeoinnominate fistel"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Nødluftvei"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Cricothyrotomi",
+            "Konikotomi",
+            "Akutt kirurgisk luftvei",
+            "Can’t intubate, can’t oxygenate-situasjon",
+            "Forberedelse av nødluftvei",
+            "Komplikasjoner ved nødluftvei"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Larynxtraume"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Ytre larynxtraume",
+            "Intern larynxskade",
+            "Arytenoidskade",
+            "Hyoidfraktur",
+            "Larynxfraktur",
+            "Inhalasjonsskade",
+            "Postintubasjonsskade"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Postintubasjon og stenoser"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Postintubasjonsgranulom",
+            "Glottisk stenose",
+            "Subglottisk stenose",
+            "Trakeal stenose",
+            "Posterior glottisk stenose",
+            "Intubasjonsskade",
+            "Laryngeal arrdannelse"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Tumorer og premaligne tilstander"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Leukoplaki",
+            "Dysplasi i larynx",
+            "Larynxkreft",
+            "Glottisk cancer",
+            "Supraglottisk cancer",
+            "Subglottisk cancer",
+            "Hypofarynxcancer",
+            "Laryngeal papillomatose",
+            "Benigne larynxtumorer"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Foniatri"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Stemmeanalyse",
+            "Perseptuell stemmevurdering",
+            "Akustisk stemmeanalyse",
+            "Videostroboskopi",
+            "Stemmebehandling",
+            "Samarbeid med logoped",
+            "Profesjonelle stemmebrukere"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Undersøkelser"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Fleksibel nasolaryngoskopi",
+            "Rigid laryngoskopi",
+            "Videostroboskopi",
+            "Mikrolaryngoskopi",
+            "FEES",
+            "Svelgvurdering",
+            "Stemmeanalyse",
+            "Laryngeal EMG"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Laryngeale prosedyrer"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Fleksibel skopi",
+            "Direkte laryngoskopi",
+            "Mikrolaryngoskopi",
+            "Biopsi fra larynx",
+            "Injeksjonslaryngoplastikk",
+            "Botulinumtoksinbehandling",
+            "Stemmebåndsmedialisering",
+            "Endoskopisk behandling av lesjoner",
+            "Dilatasjon av stenose"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Kirurgi"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Mikrolaryngoskopisk kirurgi",
+            "Fonokirurgi",
+            "Medialiseringskirurgi",
+            "Thyroplastikk",
+            "Arytenoidadduksjon",
+            "Laserbehandling",
+            "Kirurgi ved subglottisk stenose",
+            "Åpen larynxkirurgi",
+            "Partiell laryngektomi",
+            "Total laryngektomi"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Pediatrisk luftvei"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Laryngomalasi",
+            "Subglottisk stenose",
+            "Subglottisk hemangiom",
+            "Recidiverende krupp",
+            "Fremmedlegeme",
+            "Medfødt stemmebåndsparese",
+            "Laryngeal cleft",
+            "Trakeomalasi",
+            "Stridor hos barn"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Akutte tilstander"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Stridor",
+            "Epiglottitt/supraglottitt",
+            "Fremmedlegeme",
+            "Akutt bilateral stemmebåndsparese",
+            "Trakeostomiproblem",
+            "Larynxødem",
+            "Angioødem",
+            "Akutt postoperativ luftveiskomplikasjon",
+            "Blødning etter larynxkirurgi",
+            "Akutt aspirasjon"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "hode-og-hals",
+      "title": "Hode og hals",
+      "audience": "Fagoversikt · Under utvikling",
+      "description": "Onkologi, halskuler, spyttkjertler og kirurgisk oppfølging.",
+      "category": "Fagområder",
+      "nodes": [
+        {
+          "t": "p",
+          "text": "Onkologi, halskuler, spyttkjertler og kirurgisk oppfølging."
+        },
+        {
+          "t": "p",
+          "text": "Fagoversikt under utvikling. Her er temaene samlet for videre arbeid; kliniske artikler legges til fortløpende."
+        },
+        {
+          "t": "h2",
+          "text": "Halskul og cervicale oppfylninger"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Akutt halskul",
+            "Kronisk halskul",
+            "Cervikal lymfadenopati",
+            "Reaktiv lymfadenitt",
+            "Metastatisk lymfeknutesykdom",
+            "Medfødte halscyster",
+            "Lateral halscyste",
+            "Median halscyste",
+            "Branchialcyste",
+            "Thyroglossuscyste",
+            "Dermoidcyste",
+            "Lymfangiom",
+            "Lipom",
+            "Nevrogene tumorer",
+            "Paragangliom",
+            "Ukjent primærtumor med halsmetastase"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Hode-hals-kreft – overordnet"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Pakkeforløp hode-hals-kreft",
+            "Mistanke om malignitet",
+            "Primærutredning",
+            "Bildediagnostikk",
+            "Biopsi",
+            "Cytologi",
+            "Histologi",
+            "TNM-klassifikasjon",
+            "MDT / tverrfaglig møte",
+            "Behandlingsprinsipper",
+            "Kirurgi",
+            "Strålebehandling",
+            "Kjemoradioterapi",
+            "Immunterapi",
+            "Oppfølging etter behandling",
+            "Residiv",
+            "Palliativ behandling"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Munnhule"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Tungekreft",
+            "Munngulvskreft",
+            "Gingivacancer",
+            "Buccalcancer",
+            "Leppecancer",
+            "Premaligne lesjoner",
+            "Leukoplaki",
+            "Erytroplaki",
+            "Oral dysplasi",
+            "Benigne munnhulelesjoner",
+            "Biopsi i munnhule"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Orofarynx"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Tonsillecancer",
+            "Tungrotscancer",
+            "HPV-assosiert orofarynxcancer",
+            "Ikke-HPV-assosiert orofarynxcancer",
+            "Ukjent primærtumor",
+            "Asymmetriske tonsiller",
+            "Orofaryngeale lesjoner"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Nasofarynx"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Nasofarynxcancer",
+            "EBV-assosiert sykdom",
+            "Nasofaryngeale oppfylninger",
+            "Ensidig sekretorisk otitt hos voksen",
+            "Utredning av nasofarynx"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Hypofarynx"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Hypofarynxcancer",
+            "Sinus piriformis-tumor",
+            "Postcricoid cancer",
+            "Dysfagi ved hypofarynxtumor"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Larynx"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Glottisk cancer",
+            "Supraglottisk cancer",
+            "Subglottisk cancer",
+            "Premaligne larynxlesjoner",
+            "Oppfølging etter larynxcancer"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Spyttkjertler"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Parotistumor",
+            "Submandibularistumor",
+            "Små spyttkjerteltumorer",
+            "Benigne spyttkjerteltumorer",
+            "Pleomorft adenom",
+            "Warthin-tumor",
+            "Maligne spyttkjerteltumorer",
+            "Akutt sialadenitt",
+            "Kronisk sialadenitt",
+            "Sialolithiasis",
+            "Ranula",
+            "Sialocele",
+            "Frey syndrom",
+            "Facialisparese ved parotissykdom"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Thyroidea"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Thyroideaknute",
+            "Multinodøs struma",
+            "Solitær knute",
+            "Thyroideacyste",
+            "Thyroideacancer",
+            "Papillært thyroideakarsinom",
+            "Follikulært thyroideakarsinom",
+            "Medullært thyroideakarsinom",
+            "Anaplastisk thyroideakarsinom",
+            "RET / MEN-relaterte tilstander",
+            "Preoperativ vurdering",
+            "Postoperativ oppfølging",
+            "Hypokalsemi etter kirurgi",
+            "Recurrensparese etter thyroideakirurgi"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Parathyroidea"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Primær hyperparathyreoidisme",
+            "Sekundær hyperparathyreoidisme",
+            "Parathyroideaadenom",
+            "Parathyroideacancer",
+            "Preoperativ lokalisering",
+            "Intraoperativ PTH",
+            "Postoperativ hypokalsemi"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Hudtumorer i hode-hals"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Basalcellekarsinom",
+            "Plateepitelkarsinom",
+            "Melanom",
+            "Hudtumorer på øre",
+            "Hudtumorer i ansikt",
+            "Hudtumorer i skalp",
+            "Regionale metastaser",
+            "Parotismetastaser",
+            "Cervikale metastaser"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Cervikale lymfeknutemetastaser"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Lymfeknutestasjoner",
+            "Nivå I–VI",
+            "Sentinel node",
+            "Ukjent primærtumor",
+            "HPV-relatert halsmetastase",
+            "Hudcancer med halsmetastase",
+            "Parotismetastase"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Neck dissection"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Indikasjoner",
+            "Selektiv neck dissection",
+            "Modifisert radikal neck dissection",
+            "Radikal neck dissection",
+            "Nivå I–III",
+            "Nivå II–IV",
+            "Nivå I–V",
+            "Komplikasjoner",
+            "N. accessorius-skade",
+            "Chyluslekkasje",
+            "Blødning",
+            "Sårkomplikasjoner"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Infeksjoner i hode og hals"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Peritonsillær abscess",
+            "Parafaryngeal abscess",
+            "Retrofaryngeal abscess",
+            "Dyp halsinfeksjon",
+            "Ludwig angina",
+            "Sialadenitt",
+            "Odontogen infeksjon",
+            "Nekrotiserende fasciitt",
+            "Mediastinitt som komplikasjon"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Tonsiller og adenoider"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Kronisk tonsillitt",
+            "Recidiverende tonsillitt",
+            "Tonsillehypertrofi",
+            "Asymmetriske tonsiller",
+            "Peritonsillær abscess",
+            "Adenoide vegetasjoner",
+            "Tonsillektomi",
+            "Tonsillotomi",
+            "Adenotomi",
+            "Posttonsillektomiblødning"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Dysfagi og ernæring"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Dysfagi ved hode-hals-kreft",
+            "Aspirasjonsrisiko",
+            "FEES",
+            "Svelgrøntgen",
+            "PEG",
+            "Ernæringsstøtte",
+            "Logopedoppfølging",
+            "Rehabilitering etter strålebehandling"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Rekonstruktiv kirurgi"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Primærlukking",
+            "Lokale lapper",
+            "Regionale lapper",
+            "Pectoralis major-lapp",
+            "Frie lapper",
+            "Radial forearm free flap",
+            "Anterolateral thigh flap",
+            "Fibulalapp",
+            "Rekonstruksjon av mandibula",
+            "Rekonstruksjon etter laryngektomi",
+            "Komplikasjoner til fri lapp"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Trakeostomi i hode-hals-kirurgi"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Elektiv trakeostomi",
+            "Peroperativ trakeostomi",
+            "Postoperativ oppfølging",
+            "Dekanylering",
+            "Komplikasjoner"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Total laryngektomi"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Indikasjoner",
+            "Operasjonsprinsipper",
+            "Permanent stoma",
+            "Postoperativ oppfølging",
+            "Stemmeproteser",
+            "Trakeoøsofageal tale",
+            "Larytube",
+            "Stomastell",
+            "Komplikasjoner"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Postoperativ oppfølging"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Sårstell",
+            "Dren",
+            "Blødning",
+            "Luftvei",
+            "Ernæring",
+            "Fistel",
+            "Chyluslekkasje",
+            "Infeksjon",
+            "Flap-monitorering",
+            "Hypokalsemi",
+            "Recurrensparese"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Senfølger og rehabilitering"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Xerostomi",
+            "Dysfagi",
+            "Fibrose",
+            "Lymfødem",
+            "Trismus",
+            "Osteoradionekrose",
+            "Stemmeproblemer",
+            "Smaksforstyrrelse",
+            "Ernæringsutfordringer",
+            "Psykososial oppfølging"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Prosedyrer og undersøkelser"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Fleksibel nasolaryngoskopi",
+            "Palpasjon av hals",
+            "Ultralyd hals",
+            "Finnålsaspirasjon",
+            "Grovnålsbiopsi",
+            "Åpen biopsi",
+            "Panendoskopi",
+            "Biopsi under narkose",
+            "Tonsillebiopsi",
+            "Tungerotsbiopsi",
+            "Parotis-FNAC",
+            "Thyroidea-FNAC"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Akutte situasjoner"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Posttonsillektomiblødning",
+            "Postoperativ halsblødning",
+            "Akutt luftveisobstruksjon",
+            "Tumorblødning",
+            "Carotis blowout",
+            "Infisert halsmetastase",
+            "Dyp halsinfeksjon",
+            "Akutt trakeostomiproblem",
+            "Chyluslekkasje",
+            "Akutt hypokalsemi"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "pediatrisk-onh",
+      "title": "Pediatrisk ØNH",
+      "audience": "Fagoversikt · Under utvikling",
+      "description": "Øre, nese, hals og luftvei hos barn.",
+      "category": "Fagområder",
+      "nodes": [
+        {
+          "t": "p",
+          "text": "Øre, nese, hals og luftvei hos barn."
+        },
+        {
+          "t": "p",
+          "text": "Fagoversikt under utvikling. Her er temaene samlet for videre arbeid; kliniske artikler legges til fortløpende."
+        },
+        {
+          "t": "h2",
+          "text": "Øre hos barn"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Akutt otitis media",
+            "Residiverende otitis media",
+            "Sekretorisk otitt",
+            "Drenbehandling",
+            "Trommehinneperforasjon",
+            "Kronisk otitt hos barn",
+            "Kolesteatom hos barn",
+            "Fremmedlegeme i øret",
+            "Medfødt hørselstap",
+            "Hørselsutredning hos barn",
+            "Høreapparat",
+            "Cochleaimplantat"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Nese og bihuler hos barn"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Fremmedlegeme i nese",
+            "Pediatrisk rhinitt",
+            "Allergisk rhinitt",
+            "Adenoide vegetasjoner",
+            "Pediatrisk rhinosinusitt",
+            "Nesetetthet hos barn",
+            "Choanalatresi",
+            "Medfødte nesemisdannelser",
+            "Epistaxis hos barn"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Tonsiller og adenoider"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Tonsillehypertrofi",
+            "Adenoide vegetasjoner",
+            "Residiverende tonsillitt",
+            "Kronisk tonsillitt",
+            "Peritonsillær abscess",
+            "Tonsillotomi",
+            "Tonsillektomi",
+            "Adenotomi",
+            "Posttonsillektomiblødning"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Søvnrelaterte problemer hos barn"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Snorking",
+            "Obstruktiv søvnapné",
+            "Søvnrelatert pustebesvær",
+            "Adenotonsillær hypertrofi",
+            "Utredning av søvnapné hos barn",
+            "Postoperativ overvåkning",
+            "Risikovurdering før kirurgi"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Luftvei og stridor"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Stridor hos barn",
+            "Laryngomalasi",
+            "Trakeomalasi",
+            "Subglottisk stenose",
+            "Subglottisk hemangiom",
+            "Medfødt stemmebåndsparese",
+            "Laryngeal cleft",
+            "Recidiverende krupp",
+            "Fremmedlegeme i luftveiene",
+            "Akutt øvre luftveisobstruksjon"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Hals og medfødte tilstander"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Median halscyste",
+            "Lateral halscyste",
+            "Thyroglossuscyste",
+            "Branchialcyste",
+            "Lymfangiom",
+            "Dermoidcyste",
+            "Medfødte halsmasser",
+            "Cervikal lymfadenopati"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Spyttkjertler og infeksjoner"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Akutt sialadenitt",
+            "Kronisk sialadenitt",
+            "Parotitt",
+            "Dype halsinfeksjoner hos barn",
+            "Retrofaryngeal abscess",
+            "Parafaryngeal abscess",
+            "Cervikal lymfadenitt"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Pediatrisk hørsel og tale"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Nyfødtscreening",
+            "Medfødt hørselstap",
+            "Forsinket språkutvikling",
+            "Hørsel og taleutvikling",
+            "Audiometri hos barn",
+            "Tympanometri",
+            "OAE",
+            "ABR",
+            "Høreapparattilpasning",
+            "Cochleaimplantasjon"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Akutte pediatriske tilstander"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Fremmedlegeme i øre",
+            "Fremmedlegeme i nese",
+            "Fremmedlegeme i luftvei",
+            "Akutt mastoiditt",
+            "Posttonsillektomiblødning",
+            "Epiglottitt / supraglottitt",
+            "Stridor",
+            "Dyp halsinfeksjon",
+            "Akutt epistaxis",
+            "Akutt luftveisobstruksjon"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sovn",
+      "title": "Søvn",
+      "audience": "Fagoversikt · Under utvikling",
+      "description": "Snorking, søvnapné, utredning og behandling.",
+      "category": "Fagområder",
+      "nodes": [
+        {
+          "t": "p",
+          "text": "Snorking, søvnapné, utredning og behandling."
+        },
+        {
+          "t": "p",
+          "text": "Fagoversikt under utvikling. Her er temaene samlet for videre arbeid; kliniske artikler legges til fortløpende."
+        },
+        {
+          "t": "h2",
+          "text": "Snorking og søvnrelaterte symptomer"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Snorking",
+            "Søvnrelatert pustebesvær",
+            "Nattlig munnpusting",
+            "Søvnfragmentering",
+            "Dagtretthet",
+            "Morgenhodepine",
+            "Konsentrasjonsproblemer"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Obstruktiv søvnapné"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "OSA hos voksne",
+            "OSA hos barn",
+            "Risikofaktorer",
+            "Anatomi og obstruksjonsnivå",
+            "Symptomer",
+            "Komorbiditet",
+            "Alvorlighetsgrad",
+            "AHI og søvndata"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Utredning"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Søvnanamnese",
+            "Klinisk ØNH-undersøkelse",
+            "Epworth Sleepiness Scale",
+            "STOP-BANG",
+            "Polygrafi",
+            "Polysomnografi",
+            "Oksymetri",
+            "Nasal undersøkelse",
+            "Tonsillestørrelse",
+            "Vurdering av tungebasis og svelg"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "DISE"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Indikasjoner",
+            "Drug-induced sleep endoscopy",
+            "Obstruksjonsnivå",
+            "Velum",
+            "Orofarynx",
+            "Tungebasis",
+            "Epiglottis",
+            "VOTE-klassifikasjon",
+            "Tolkning av funn",
+            "Betydning for behandlingsvalg"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Konservativ behandling"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Vektreduksjon",
+            "Søvnhygiene",
+            "Posisjonsterapi",
+            "CPAP",
+            "APAP",
+            "Bittskinne",
+            "Nasal behandling",
+            "Behandling av rhinitt"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Kirurgisk behandling"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Tonsillektomi / tonsillotomi",
+            "Adenotonsillektomi",
+            "Septumkirurgi",
+            "Conchareduksjon",
+            "UPPP",
+            "Ganekirurgi",
+            "Tungebasiskirurgi",
+            "Epiglottiskirurgi",
+            "Multilevel-kirurgi",
+            "Hypoglossusstimulator"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Søvn hos barn"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Pediatrisk OSA",
+            "Adenotonsillær hypertrofi",
+            "Risikobarn",
+            "Syndromer og kraniofaciale tilstander",
+            "Søvnundersøkelse hos barn",
+            "Kirurgiske indikasjoner",
+            "Postoperativ overvåkning",
+            "Residual OSA"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Komorbiditet og spesielle grupper"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Overvekt",
+            "Kardiovaskulær sykdom",
+            "Nevromuskulær sykdom",
+            "Downs syndrom",
+            "Kraniofaciale anomalier",
+            "Graviditet",
+            "Eldre pasienter"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Oppfølging"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Effekt av behandling",
+            "Residual OSA",
+            "Kontroll etter kirurgi",
+            "Kontroll av CPAP",
+            "Re-testing",
+            "Langtidsoppfølging"
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Akutte og perioperative problemstillinger"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "OSA og anestesi",
+            "Postoperativ overvåkning",
+            "Risiko ved opioider",
+            "Luftveisproblemer postoperativt",
+            "Barn med alvorlig OSA"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "prosedyrer-og-undersokelser",
+      "title": "Prosedyrer og undersøkelser",
+      "audience": "Fagoversikt · Under utvikling",
+      "description": "Samlet oversikt over kliniske undersøkelser og prosedyrer.",
+      "category": "Fagområder",
+      "nodes": [
+        {
+          "t": "p",
+          "text": "Samlet oversikt over kliniske undersøkelser og prosedyrer."
+        },
+        {
+          "t": "p",
+          "text": "Fagoversikt under utvikling. Her er temaene samlet for videre arbeid; kliniske artikler legges til fortløpende."
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Øremikroskopi",
+            "Otoskopi",
+            "Paracentese",
+            "Ventilasjonsrør",
+            "Fleksibel nasolaryngoskopi",
+            "Rigid endoskopi",
+            "Nasal endoskopi",
+            "Fremre rhinoskopi",
+            "Kauterisering ved epistaxis",
+            "Nasal tamponade",
+            "Dix-Hallpike",
+            "Epley-manøver",
+            "Supine roll test",
+            "Hodeimpulstest",
+            "HINTS",
+            "Trakeostomistell",
+            "Bytte av trakeostomikanyle",
+            "Cricothyrotomi / nødluftvei",
+            "FEES",
+            "Biopsi fra munnhule / nese / larynx",
+            "Finnålsaspirasjon",
+            "Ultralyd hals",
+            "Abscessdrenasje",
+            "Peritonsillær abscess",
+            "Fremmedlegemefjerning",
+            "Lukttesting",
+            "Audiometri",
+            "Tympanometri",
+            "OAE",
+            "ABR",
+            "VEMP",
+            "vHIT",
+            "Kalorisk prøve"
+          ]
+        }
+      ]
     }
-  ]
+  ],
+  "home": {
+    "sections": [
+      {
+        "id": "kom-i-gang",
+        "title": "Kom i gang",
+        "intro": "En god start på LIS-løpet ved ØNH Ahus.",
+        "pages": [
+          "oppstartsguide-nh-ahus-kortversjon",
+          "oppstartsguide-nh-ahus-fullversjon",
+          "mal-for-faddere"
+        ]
+      },
+      {
+        "id": "pa-vakt",
+        "title": "På vakt",
+        "intro": "Rask tilgang til det du trenger i klinisk hverdag.",
+        "pages": [
+          "f-rste-vakt-ultrakort",
+          "kontakt-og-telefonnumre"
+        ]
+      },
+      {
+        "id": "fagomrader",
+        "title": "Fagområder",
+        "intro": "Utforsk fagbiblioteket – organisert etter kliniske fagområder.",
+        "pages": [
+          "otologi-og-otonevrologi",
+          "rhinologi-og-bihuler",
+          "laryngologi-og-luftvei",
+          "hode-og-hals",
+          "pediatrisk-onh",
+          "sovn",
+          "prosedyrer-og-undersokelser"
+        ]
+      },
+      {
+        "id": "praktisk",
+        "title": "Praktisk",
+        "intro": "Praktisk og administrativ informasjon på ett sted.",
+        "pages": [
+          "fakturasted"
+        ]
+      },
+      {
+        "id": "laering",
+        "title": "Læring",
+        "intro": "Faglig utvikling, inspirasjon og læring i hverdagen.",
+        "pages": [
+          "podkast"
+        ]
+      }
+    ]
+  }
 }

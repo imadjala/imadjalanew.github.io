@@ -1,6 +1,7 @@
 
 async function loadContent(){
   const res = await fetch('content.json', { cache: 'no-store' });
+  if(!res.ok) throw new Error('Kunne ikke laste innhold');
   return await res.json();
 }
 function slugify(s){
@@ -178,29 +179,52 @@ async function initIndex(){
   const data = await loadContent();
   const pages = (data.pages||[]).slice().sort((a,b)=> (a.title||'').localeCompare(b.title||'', 'no'));
   buildTopbar(pages, null);
-  const grid = document.getElementById('grid');
-  if(!grid) return;
-  clear(grid);
-  pages.forEach(p=>{
-    const card = el('div', { class:'card' }, [
-      (p.audience ? el('p', { class:'kicker' }, p.audience) : null),
-      el('div', { html:`<div style="font-weight:800;font-size:16px"><a href="${p.slug}.html">${p.title}</a>${p.audience?` <span class="badge">${p.audience}</span>`:''}</div>` }),
-      null
-    ]);
-    grid.appendChild(card);
+  const host = document.getElementById('homeSections');
+  if(!host) return;
+  clear(host);
+  const descriptions = {
+    'oppstartsguide-nh-ahus-kortversjon':'Det viktigste du trenger for å komme raskt i gang.',
+    'oppstartsguide-nh-ahus-fullversjon':'Rutiner, lokasjoner, møter, vakt og praktisk informasjon.',
+    'mal-for-faddere':'Struktur og sjekkliste for god onboarding av nye LIS.',
+    'f-rste-vakt-ultrakort':'Det viktigste før din første selvstendige vakt.',
+    'kontakt-og-telefonnumre':'Finn kontaktinformasjon og viktige telefonnumre.',
+    'fakturasted':'Informasjon om fakturering ved kurs og faglig utvikling.',
+    'podkast':'Lytt og lær med ressurser fra ØNH Ahus.'
+  };
+  (data.home?.sections||[]).forEach((section,index)=>{
+    const grid = el('div',{class:'resource-grid'});
+    section.pages.forEach(slug=>{
+      const p=pages.find(page=>page.slug===slug);
+      if(!p) return;
+      const title=p.title.replace(' – ØNH Ahus (kortversjon)',' – kortversjon').replace(' – ØNH Ahus (fullversjon)',' – fullversjon');
+      grid.appendChild(el('a',{class:'resource-card',href:p.slug+'.html'},[
+        el('div',{class:'card-top'},[el('span',{class:'card-type'},p.category?'FAGOVERSIKT':'RESSURS'),el('span',{'aria-hidden':'true',class:'card-arrow'},'↗')]),
+        el('h3',{},title),el('p',{},p.description||descriptions[slug]||''),
+        el('span',{class:'card-action'},p.category?'Utforsk temaene →':'Åpne ressurs →')
+      ]));
+    });
+    host.appendChild(el('section',{id:section.id,class:'home-section','aria-labelledby':section.id+'-title'},[
+      el('div',{class:'section-heading'},[el('span',{class:'section-number','aria-hidden':'true'},String(index+1).padStart(2,'0')),el('div',{},[el('h2',{id:section.id+'-title'},section.title),el('p',{},section.intro)])]),
+      ...(section.id==='fagomrader'?[el('p',{class:'overview-note'},'Fagoversiktene er på plass. Kliniske artikler er under utvikling.')]:[]),grid
+    ]));
   });
 }
 
 function flattenForSearch(data){
   const out = [];
   (data.pages||[]).forEach(p=>{
+    out.push({slug:p.slug,title:p.title,heading:null,anchor:null,text:p.description||p.title});
     let currentH2 = null;
     let currentAnchor = null;
+    const usedIds = new Set();
     (p.nodes||[]).forEach(n=>{
-      if(n.t==='h2'){
+      if(n.t==='h2' || n.t==='h3'){
         currentH2 = (n.text||'').trim();
+        if(!currentH2) return;
         currentAnchor = slugify(currentH2);
-        if(currentH2) out.push({ slug:p.slug, title:p.title, heading:null, anchor:null, text: currentH2 });
+        if(usedIds.has(currentAnchor)) currentAnchor += '-' + (usedIds.size+1);
+        usedIds.add(currentAnchor);
+        out.push({ slug:p.slug, title:p.title, heading:null, anchor:currentAnchor, text: currentH2 });
       } else if(n.t==='p'){
         const text = (n.text||'').trim();
         if(text) out.push({ slug:p.slug, title:p.title, heading: currentH2, anchor: currentAnchor, text });
@@ -221,9 +245,15 @@ function flattenForSearch(data){
 }
 function escRe(s){ return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
 function highlight(text,q){
-  if(!q) return text;
+  const escapeHtml=s=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  if(!q) return escapeHtml(text);
   const re = new RegExp(escRe(q), 'ig');
-  return text.replace(re, m=>`<mark>${m}</mark>`);
+  let result='', pos=0;
+  for(const match of text.matchAll(re)){
+    result+=escapeHtml(text.slice(pos,match.index))+'<mark>'+escapeHtml(match[0])+'</mark>';
+    pos=match.index+match[0].length;
+  }
+  return result+escapeHtml(text.slice(pos));
 }
 
 async function initSearch(){
@@ -263,7 +293,7 @@ async function initSearch(){
     scored.forEach(it=>{
       const href = `${it.slug}.html${it.anchor ? '#'+it.anchor : ''}`;
       const snippet = it.text.length>260 ? it.text.slice(0,260)+'…' : it.text;
-      const heading = it.heading ? ` <span class="badge">${it.heading}</span>` : '';
+      const heading = it.heading ? ` <span class="badge">${highlight(it.heading,'')}</span>` : '';
       out.insertAdjacentHTML('beforeend', `
         <div class="result">
           <div class="t"><a href="${href}">${highlight(it.title, q)}</a>${heading}</div>
@@ -295,11 +325,25 @@ async function initPage(){
   if(audEl) audEl.textContent = page.audience || '';
   clear(contentEl);
   contentEl.appendChild(renderNodes(page.nodes||[], sectionSelect));
+  if(page.category==='Fagområder'){
+    document.body.classList.add('subject-page');
+    contentEl.before(el('a',{href:'index.html#fagomrader',class:'back-link'},'← Alle fagområder'));
+  }
+  if(location.hash){
+    const target=document.getElementById(decodeURIComponent(location.hash.slice(1)));
+    if(target) requestAnimationFrame(()=>target.scrollIntoView({block:'start'}));
+  }
 }
 
-document.addEventListener('DOMContentLoaded', ()=>{
+document.addEventListener('DOMContentLoaded', async ()=>{
+ try{
   const kind = document.body.getAttribute('data-kind');
-  if(kind==='index') initIndex();
-  else if(kind==='search') initSearch();
-  else if(kind==='page') initPage();
+  if(kind==='index') await initIndex();
+  else if(kind==='search') await initSearch();
+  else if(kind==='page') await initPage();
+ }catch(error){
+   const host=document.getElementById('homeSections')||document.getElementById('pageContent')||document.getElementById('results');
+   if(host){clear(host);host.appendChild(el('p',{role:'alert'},'Innholdet kunne ikke lastes. Last siden på nytt. Hvis du åpner filene direkte på PC-en, bruk en lokal webserver eller publiser filene på nettstedet.'));}
+   console.error(error);
+ }
 });

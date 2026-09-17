@@ -8,18 +8,19 @@
 <script defer src="app.js"></script>
 </head>
 <body data-kind="search">
+<a class="skip-link" href="#main">Hopp til innhold</a>
 <div id="topbar"></div>
-<div class="container">
+<main id="main" class="container">
   <div class="card">
     <h1>Søk i alt innhold</h1>
     <p class="meta">Søk i titler, overskrifter og brødtekst.</p>
     <form id="searchForm" style="display:flex;gap:10px;flex-wrap:wrap;align-items:center">
-      <input id="q" type="search" placeholder="Skriv her…" />
+      <label for="q">Søkeord</label><input id="q" type="search" placeholder="Skriv her…" />
       <button type="submit">Søk</button>
     </form>
     <div class="hr"></div>
-    <div id="results"></div>
+    <div id="results" aria-live="polite"></div>
   </div>
-</div>
+</main>
 </body>
 </html>
