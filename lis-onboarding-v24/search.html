@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="no">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Søk – LIS Onboarding</title>
+<link rel="stylesheet" href="style.css" />
+<script defer src="app.js"></script>
+</head>
+<body data-kind="search">
+<a class="skip-link" href="#main">Hopp til innhold</a>
+<div id="topbar"></div>
+<main id="main" class="container">
+  <div class="card">
+    <h1>Søk i alt innhold</h1>
+    <p class="meta">Søk i titler, overskrifter og brødtekst.</p>
+    <form id="searchForm" style="display:flex;gap:10px;flex-wrap:wrap;align-items:center">
+      <label for="q">Søkeord</label><input id="q" type="search" placeholder="Skriv her…" />
+      <button type="submit">Søk</button>
+    </form>
+    <div class="hr"></div>
+    <div id="results" aria-live="polite"></div>
+  </div>
+</main>
+</body>
+</html>
