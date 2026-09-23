@@ -2351,21 +2351,1352 @@
       "category": "Fagområder",
       "nodes": [
         {
-          "t": "link",
-          "text": "Larynx oppslagsverk – les hele oppslagsverket med illustrasjoner",
-          "url": "larynx-oppslagsverk.html"
+          "t": "p",
+          "text": "Stemme, svelging, larynx og øvre luftvei. Fagstoffet fra Larynx oppslagsverk er fordelt under emnene nedenfor."
         },
         {
           "t": "p",
-          "text": "Stemme, svelging, larynx og øvre luftvei."
+          "text": "Oppslagsverk utarbeidet av en kollega og gjengitt fra det innsendte dokumentet. Dokumentet inneholder også lokale Ahus-rutiner, alarmnummer, utstyr og henvisningsveier; disse gjelder ikke automatisk ved andre sykehus. Faginnholdet er ikke faglig revidert ved overføringen."
+        },
+        {
+          "t": "h2",
+          "text": "Anatomi"
+        },
+        {
+          "t": "h3",
+          "text": "Anatomi i larynx"
         },
         {
           "t": "p",
-          "text": "Fagoversikt under utvikling. Her er temaene samlet for videre arbeid; kliniske artikler legges til fortløpende."
+          "text": "Nivåinndeling",
+          "runs": [
+            {
+              "text": "Nivåinndeling",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Anatomi i larynx",
+          "url": "assets/larynx-oppslagsverk/image1.jpg"
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Anatomi i larynx",
+          "url": "assets/larynx-oppslagsverk/image2.jpg"
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Anatomi i larynx",
+          "url": "assets/larynx-oppslagsverk/image3.png"
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Anatomi i larynx",
+          "url": "assets/larynx-oppslagsverk/image4.png"
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Anatomi i larynx",
+          "url": "assets/larynx-oppslagsverk/image5.jpg"
         },
         {
           "t": "h2",
           "text": "Stemme og dysfoni"
+        },
+        {
+          "t": "h3",
+          "text": "Heshet"
+        },
+        {
+          "t": "p",
+          "text": "Undersøkelse",
+          "runs": [
+            {
+              "text": "Undersøkelse ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Stemmeanalyse (spesielt ved heshet f.eks.)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Stemmeanalyse (spesielt ved heshet f.eks.)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Stemmevolum?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Stemmevolum?",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Sprekk av stemmen?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Sprekk av stemmen?",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Afoni? (stemmeløshet/mangel på stemmeklang)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Afoni? (stemmeløshet/mangel på stemmeklang)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Displofoni? (høres ut som 2 grunntoner samtidig, som fører til en sprukken, ru eller dobbelt stemmekvalitet",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Displofoni? (høres ut som 2 grunntoner samtidig, som fører til en sprukken, ru eller dobbelt stemmekvalitet",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Fleksibel videolaryngoskopi: Abduksjon-adduksjon, inspirasjon/ekspirasjon, fonasjon. Gå tett nok på stemmebånd!",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Fleksibel videolaryngoskopi: Abduksjon-adduksjon, inspirasjon/ekspirasjon, fonasjon. Gå tett nok på stemmebånd! ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Narrow-band imaging (NBI)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Narrow-band imaging (NBI)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Stroboskopi (glottisbølge)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Stroboskopi (glottisbølge)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tenk årsaker",
+          "runs": [
+            {
+              "text": "Tenk årsaker ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Inflammatorisk/infeksiøse årsaker",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Inflammatorisk/infeksiøs",
+              "bold": false
+            },
+            {
+              "text": "e årsaker",
+              "bold": false
+            },
+            {
+              "text": " ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Akutt laryngitt (< 3 uker). Typisk etter infeksjon.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "A",
+              "bold": false
+            },
+            {
+              "text": "kutt laryngitt",
+              "bold": false
+            },
+            {
+              "text": " (< 3 uker). Typisk etter infeksjon. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Kronisk laryngitt (laryngitt > 3 uker)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Kronisk laryngitt",
+              "bold": false
+            },
+            {
+              "text": " (laryngitt > 3 uker)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Inhalerte agens (tobakk, kjemikalier, medisiner)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Inhalerte agen",
+              "bold": false
+            },
+            {
+              "text": "s",
+              "bold": false
+            },
+            {
+              "text": " (tobakk, kjemikalier, medisiner) ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Reflux",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Reflux ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Alkohol",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Alkohol ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Kronisk sinusitt med postnasalt dryp",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "K",
+              "bold": false
+            },
+            {
+              "text": "ronisk sinusitt med postnasalt dryp",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Sopplaryngitt (astma/KOLS og bruk av inhalasjonskortikostereoider)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Sopplaryngitt (astma/KOLS og bruk av inhalasjonskortikostereoider)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Kronisk hoste",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Kronisk hoste",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Heshet",
+          "url": "assets/larynx-oppslagsverk/image6.png"
+        },
+        {
+          "t": "p",
+          "text": "Reflux laryngitt",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Reflux laryngitt ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Overskuddsslimhinne i inter-arytenoid regionen (pachyderma laryngis). Ofte ledsaget av ødem i plica.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Overskuddsslimhinne i inter-arytenoid regionen",
+              "bold": false
+            },
+            {
+              "text": " (pachyderma laryngis).",
+              "bold": false
+            },
+            {
+              "text": " Ofte ledsaget av ødem i plica.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Uspesifikk heshet, kremting.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Uspesifikk heshet, ",
+              "bold": false
+            },
+            {
+              "text": "kremting",
+              "bold": false
+            },
+            {
+              "text": ". ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Behandling: PPI (somac f.eks.). Kan kontrolleres etter oppstart. Logopedi. Sjeldent kirurgi!",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Behandling: PPI (somac f.eks.)",
+              "bold": false
+            },
+            {
+              "text": ". ",
+              "bold": false
+            },
+            {
+              "text": "Kan kontrolleres etter oppstart. ",
+              "bold": false
+            },
+            {
+              "text": "Logopedi. ",
+              "bold": false
+            },
+            {
+              "text": "Sjeldent kirurgi! ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Heshet",
+          "url": "assets/larynx-oppslagsverk/image7.png"
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Heshet",
+          "url": "assets/larynx-oppslagsverk/image8.png"
+        },
+        {
+          "t": "p",
+          "text": "Godartede lesjoner",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Godar",
+              "bold": false
+            },
+            {
+              "text": "t",
+              "bold": false
+            },
+            {
+              "text": "ede lesjoner ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Stemmebåndknuter:",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Stemmebåndknuter",
+              "bold": false
+            },
+            {
+              "text": ": ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Reaktiv lesjon sfa. mekanisk overbelastning.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Reaktiv lesjon sfa. mekanisk overbelastning.",
+              "bold": false
+            },
+            {
+              "text": " ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Bilateralt, fremre og mindre 1/3 av plica.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Bilateralt, fremre og mindre 1/3 av plica. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Stemmehvile-logopedi-kirurgi",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Stemmehvile-logopedi-kirurgi ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Heshet",
+          "url": "assets/larynx-oppslagsverk/image9.png"
+        },
+        {
+          "t": "p",
+          "text": "Cyster",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Cyste",
+              "bold": false
+            },
+            {
+              "text": "r",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Reaktiv lesjon sfa. mekanisk overbelastning. Fortykkelse, “prolaps” av slimhinne. Typisk midtre 1/3. Ensidige, solitære.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Reaktiv lesjon sfa. ",
+              "bold": false
+            },
+            {
+              "text": "m",
+              "bold": false
+            },
+            {
+              "text": "ekanisk overbelastning. ",
+              "bold": false
+            },
+            {
+              "text": "Fortykkelse, “prolaps” av slimhinne.",
+              "bold": false
+            },
+            {
+              "text": " Typisk midtre 1/3. Ensidige",
+              "bold": false
+            },
+            {
+              "text": ", solitære",
+              "bold": false
+            },
+            {
+              "text": ". ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Kan fjernes.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Kan fjernes. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Heshet",
+          "url": "assets/larynx-oppslagsverk/image10.png"
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Heshet",
+          "url": "assets/larynx-oppslagsverk/image11.png"
+        },
+        {
+          "t": "p",
+          "text": "Pseudocyster",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Pseudocyster ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Godartet, væskefylt hevelse som oppstår på stemmebåndene.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Godartet, væskefylt hevelse som oppstår på stemmebåndene. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Skiller seg fra en “ekte” cyste ved at den mangler kapsel. Bilaterale eller unilaterale.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Skiller seg fra en “ekte” cyste ved at den mangler kapsel.",
+              "bold": false
+            },
+            {
+              "text": " Bilaterale eller unilaterale.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Oppstår som følge av akutt eller langvarig stemmemisbruk (fonotraume).",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Oppstår som følge av akutt eller langvarig stemmemisbruk (fonotraume)",
+              "bold": false
+            },
+            {
+              "text": ". ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Stemmehvile, logopedi. Behandles evt. bakenforeliggende reflux. Kan fjernes dersom de til tross for konservative tiltak ikke forsvinner.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Stemmehvile, logopedi.",
+              "bold": false
+            },
+            {
+              "text": " Behandles evt. ",
+              "bold": false
+            },
+            {
+              "text": "b",
+              "bold": false
+            },
+            {
+              "text": "akenforeliggende reflux.",
+              "bold": false
+            },
+            {
+              "text": " Kan fjernes dersom de til tross for konservative tiltak ikke forsvinn",
+              "bold": false
+            },
+            {
+              "text": "er. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Heshet",
+          "url": "assets/larynx-oppslagsverk/image12.png"
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Heshet",
+          "url": "assets/larynx-oppslagsverk/image13.png"
+        },
+        {
+          "t": "p",
+          "text": "Reinkes ødem",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Reinkes ødem",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Hevelse/ødem av superfisielle lag av lamina propria.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Hevelse/ødem av superfisielle lag av lamina propria. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Røykeindisert, reflux evt. stemmemisbruk.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Røykeindisert, reflux evt. ",
+              "bold": false
+            },
+            {
+              "text": "s",
+              "bold": false
+            },
+            {
+              "text": "temmemisbruk.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Røykeslutt? PPI?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Røykeslutt? PPI? ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Heshet",
+          "url": "assets/larynx-oppslagsverk/image14.png"
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Heshet",
+          "url": "assets/larynx-oppslagsverk/image15.png"
+        },
+        {
+          "t": "p",
+          "text": "Papillomer (larynxpapillomer",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Papillomer ",
+              "bold": false
+            },
+            {
+              "text": "(larynxpapillomer ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Assosiert med HPV 6 og 11.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Assosiert med HPV 6 og 11. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Fjernes",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Fjernes ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Anbefales HPV-vaksinasjon med Gardasil.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Anbefales HPV-vaksinasjon med Gardasil. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Heshet",
+          "url": "assets/larynx-oppslagsverk/image16.png"
+        },
+        {
+          "t": "p",
+          "text": "Kontaktgranulomer (“Tensjonsdysfoni”)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Kontaktgranulomer (“Tensjonsdysfoni”)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Ubehag, fremmedlegeme.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Ubehag, fremmedlegeme. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Mistolkes ofte som malignitet.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Mistolkes ofte som malignitet. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Refluxrelatert, feil bruk av stemme, etter traume  - f.eks. intubasjon.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Refluxrelatert, feil bruk av stemme, etter traume  - f.eks. intubasjon.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Heshet",
+          "url": "assets/larynx-oppslagsverk/image17.png"
+        },
+        {
+          "t": "p",
+          "text": "Sulcus vocalis",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Sulcus vocalis",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Fordypning, fure eller arr som går langs hele eller deler av kanten på stemmebåndet. Dette fører til et stivere stemmebånd og en glippe mellom dem under tale.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Fordypning, fure eller arr som går langs hele eller deler av kanten på stemmebåndet. ",
+              "bold": false
+            },
+            {
+              "text": "Dette fører til et stivere stemmebånd og en glippe mellom dem under tale. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Logopedi, evt. Kirurgi/MLS kan gjøres.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Logopedi, evt. Kirurgi/MLS kan gjøres. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Heshet",
+          "url": "assets/larynx-oppslagsverk/image18.png"
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Heshet",
+          "url": "assets/larynx-oppslagsverk/image19.png"
+        },
+        {
+          "t": "p",
+          "text": "Skader",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Skader ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Post intubasjon",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Post intubasjon ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Traumer (skjelettskade, hematom, CA-leddsluksasjon)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Traumer (skjelettskade, hematom, CA-leddsluksasjon) ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Fonotraumer",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Fonotraumer ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Nevrologiske årsaker",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Nevrologiske årsaker ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Stemmebåndspareser/paralyser",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Stemmebåndspareser/paralyser",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Schwannomer i hypofarynx/larynx",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Schwannomer i hypofarynx/larynx ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Hypokinetisk dysartri (Parkinsons)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Hypokinetisk dysartri (Parkinsons) ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Essensiell tremor",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Essensiell tremor ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Spastisk dysfoni (adduktor type, abduktor type)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Spastisk dysfoni",
+              "bold": false
+            },
+            {
+              "text": " (adduktor type, abduktor type)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Funksjonelle stemmeforstyrrelse",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Funksjonelle stemmeforstyrrelse",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Muskel tensor dysfoni: hyperfunksjon og ubalanse i muskulatur",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Muskel tensor dysfoni: hyperfunksjon og ubalanse i muskulatur",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Paradox semmebåndbevegelse",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Paradox semmebåndbevegelse",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Presbylaryngis",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Presbylaryngis ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Premaligne tilstander. Leukoplaki",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Premaligne tilstander. ",
+              "bold": false
+            },
+            {
+              "text": "Leukoplaki",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Hvit, ofte opphøyd flekk eller forandring på slimhinnen i strupehodet, ofte lokalisert til stemmebåndene.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Hvit, ofte opphøyd flekk eller forandring på slimhinnen i strupehodet, ofte lokalisert til stemmebåndene. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Histologi viser hyperkeratose (fortykket hornlag), og kan variere fra godartet plateepitelhyperplasi til ulike grader av dysplasi eller carcinoma in situ.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Histologi viser hyperkeratose (fortykket hornlag), og kan variere fra godartet plateepitelhyperplasi til ulike grader av dysplasi eller carcinoma in situ. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Regnes som premalign tilstand.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Regnes som premalign tilstand. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Heshet",
+          "url": "assets/larynx-oppslagsverk/image20.png"
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Heshet",
+          "url": "assets/larynx-oppslagsverk/image21.png"
+        },
+        {
+          "t": "p",
+          "text": "Cancer",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Cancer ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Heshet",
+          "url": "assets/larynx-oppslagsverk/image22.png"
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Heshet",
+          "url": "assets/larynx-oppslagsverk/image23.png"
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Heshet",
+          "url": "assets/larynx-oppslagsverk/image24.png"
+        },
+        {
+          "t": "p",
+          "text": "Generell tilnærming ved lavrisiko (og høyrisiko) lesjoner",
+          "runs": [
+            {
+              "text": "Generell tilnærming ved lavrisiko",
+              "bold": false
+            },
+            {
+              "text": " (og høyrisiko)",
+              "bold": false
+            },
+            {
+              "text": " lesjoner ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Vent å se",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Vent å se ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Slutte med alkohol og tobakk",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Slutte med alkohol og tobakk ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Stemmehvile",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Stemmehvile ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Logopedi",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Logopedi ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "PPI",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "PPI ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Optimalisere inhalasjonsregime (KOLS, astma)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Optimalisere inhalasjonsregime (KOLS, astma) ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Behandle infeksjon, f.eks. sopp.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Behandle infeksjon",
+              "bold": false
+            },
+            {
+              "text": ", f.eks. sopp. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Kirurgi",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Kirurgi ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Emneoversikt for videre fordypning:"
         },
         {
           "t": "ul",
@@ -2384,6 +3715,206 @@
         {
           "t": "h2",
           "text": "Benigne larynxlesjoner"
+        },
+        {
+          "t": "h3",
+          "text": "Laryngeal papillomatose"
+        },
+        {
+          "t": "p",
+          "text": "Recurrent respiratory papillomatosis (RRP).",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Recurrent respiratory papillomatosis (RRP). ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Proliferasjon av plateepitel i larynx, viralt drevet (HPV 6/11/16).",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Proliferasjon av plateepitel i larynx, viralt drevet (HPV ",
+              "bold": false
+            },
+            {
+              "text": "6/",
+              "bold": false
+            },
+            {
+              "text": "11/16). ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Debut",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Debut ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Barn (JoRRP/juvernile onset recurrent respiratory papillomatosis), 75% diagnostisert før 5-årsalder",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Barn (JoRRP",
+              "bold": false
+            },
+            {
+              "text": "/juvernile onset recurrent respiratory papillomatosis",
+              "bold": false
+            },
+            {
+              "text": "), 75% diagnostisert før 5-årsalder ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Lik fordeling mellom kjønn",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Lik forde",
+              "bold": false
+            },
+            {
+              "text": "l",
+              "bold": false
+            },
+            {
+              "text": "ing mellom kjønn ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Vertikal transmisjon fra mot til barn, høyere risiko hos mor med conylomer.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Vertikal transmisjon fra mot til barn, høyere risiko hos mor med conylomer. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Heshet, dyspnø, intermitterende stridor, afoni, respiratorisk distress.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Heshet, dyspnø, intermitterende stridor, afoni, respiratorisk distress. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "JoPPR er vanligste benigne neoplasme i larynx hos barn. Nest vanligste årsak til heshet hos barn. Sjelden tilstand.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "JoPPR er vanligste benigne neoplasme i larynx hos barn. Nest vanligste årsak til heshet hos barn. Sjelden tilstand. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Behandling",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Behandling ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "MLS CO2-laser og debulking; mikrodebrider. Hindre luftveisobstruksjon. Stemmeforbedrende.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "MLS CO2-laser og debulking; mikrodebrider. ",
+              "bold": false
+            },
+            {
+              "text": "Hindre luftveisobstruksjon. Stemmeforbedrende. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "HPV-vaksine.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "HPV-vaksine. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Annen medikamentell behandling: Cidofovir, avastin.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Annen medikamentell behandl",
+              "bold": false
+            },
+            {
+              "text": "i",
+              "bold": false
+            },
+            {
+              "text": "ng: Cidofovir, avastin. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Emneoversikt for videre fordypning:"
         },
         {
           "t": "ul",
@@ -2419,6 +3950,877 @@
         {
           "t": "h2",
           "text": "Dysfagi og aspirasjon"
+        },
+        {
+          "t": "h3",
+          "text": "Dysfagi"
+        },
+        {
+          "t": "p",
+          "text": "Definisjon: Vansker med å svelge. Kan skydes orale, faryngeale eller øsofagale fasen av svelgprosessen.",
+          "runs": [
+            {
+              "text": "Definisjon: Vansker med å svelge. Kan skydes orale, faryngeale eller øsofagale fasen av svelgprosessen. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Orofaryngeal (ØNH)",
+          "runs": [
+            {
+              "text": "Orofaryngeal (ØNH) ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Vansker med å starte svelging",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Vansker med å starte svelging ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Hoste/kvelning ved svelging",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Hoste/kvelning ved svelging ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Mat i nesen",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Mat i nesen",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "“Våt stemme”",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "“Våt stemme” ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Øsofagal",
+          "runs": [
+            {
+              "text": "Øsofagal ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Maten stopper retrosternalt",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Maten stopper retrosternalt ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Forsinket stopp etter svelg",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Forsinket stopp etter svel",
+              "bold": false
+            },
+            {
+              "text": "g",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Kriterier for pakkeforløp for kreft i spiserør eller magesekk (røde flagg)",
+          "runs": [
+            {
+              "text": "Kriterier",
+              "bold": true
+            },
+            {
+              "text": " for pakkeforløp for kreft i",
+              "bold": true
+            },
+            {
+              "text": " spiserør eller magesekk (",
+              "bold": true
+            },
+            {
+              "text": "røde flagg",
+              "bold": true
+            },
+            {
+              "text": ")",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Svelgbesvær/Smerter ved svelg > 2 uker",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Svelgbesvær/Smerter",
+              "bold": false
+            },
+            {
+              "text": " ved svelg",
+              "bold": false
+            },
+            {
+              "text": " > 2 uker ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Vedvarende brekninger uten forklaring",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Vedvarende ",
+              "bold": false
+            },
+            {
+              "text": "brekni",
+              "bold": false
+            },
+            {
+              "text": "nger uten forklaring ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Ny dyspepsi eller refluks > 45 år",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Ny dyspepsi eller refluks > 45 år ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "GI-blødning",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "GI-blødning ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Nyoppstått oppfylning i abdomen",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Nyoppstått oppfylning i abdomen",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Vekttap",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Vekttap",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Hurtig progresjon",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Hurtig progresjon ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Aspirasjon",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Aspirasjo",
+              "bold": false
+            },
+            {
+              "text": "n",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Vanlige årsaker i ØNH",
+          "runs": [
+            {
+              "text": "Vanlige årsaker i ØNH ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tumor i oro-/hypofarynx",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Tumor i oro-/hypofarynx ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Zenkers divertikkel",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Zenkers divertikk",
+              "bold": false
+            },
+            {
+              "text": "el",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Cricopharyngeal dysfunksjon (CPD)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Cricopharyngeal dysfunksjon (CPD)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Poststråle dysfagi",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Poststråle dysfagi ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Nevrologisk (slag f.eks.)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Nevrologisk (slag f.eks.) ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Presbyfagi (aldersrelatert fysiologisk endring i svelgfunksjon)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Presbyfagi (aldersrelatert fysiologisk endring i svelgfunksjon)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Utredning",
+          "runs": [
+            {
+              "text": "Utredning ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Øre-nese-hals undersøkelse.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Øre-nese-hals undersøkelse. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Munnhule/orofarynx",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Munnhule/orofarynx ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Palpasjon av hals",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Palpasjon av hals ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Hjernenerveundersøkelse;",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Hjernenerveundersøkelse; ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "IX (glossofaryngeus) - svelgfunksjon, sensibilitet på bakre 3-del av tungen, spyttproduksjon i parotis.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "IX (gloss",
+              "bold": false
+            },
+            {
+              "text": "o",
+              "bold": false
+            },
+            {
+              "text": "faryngeus)",
+              "bold": false
+            },
+            {
+              "text": " - svelgfunksjon, ",
+              "bold": false
+            },
+            {
+              "text": "sensibilitet ",
+              "bold": false
+            },
+            {
+              "text": "på bakre 3-del av tungen, spyttproduksjon i parotis. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "X (vagus) – se på ganeseil og drøvelens bevegelse. Stemmebåndsmobilitet.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "X ",
+              "bold": false
+            },
+            {
+              "text": "(",
+              "bold": false
+            },
+            {
+              "text": "vagus",
+              "bold": false
+            },
+            {
+              "text": ")",
+              "bold": false
+            },
+            {
+              "text": " – se på ganeseil og drøvelens bevegelse.",
+              "bold": false
+            },
+            {
+              "text": " Stemmebåndsmobilitet. ",
+              "bold": false
+            },
+            {
+              "text": " ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "XII (hypoglossus) - motorikk av tunge, inkl. bevegelse og prating. Skjevhet? Deviasjon? Svekket kraft? Atrofi?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "XII (hypoglossus)",
+              "bold": false
+            },
+            {
+              "text": " - motorikk av tunge, inkl. bevegelse og prating. Skjevhet? Deviasjon? Svekket kraft? Atrofi? ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Fleksibel laryngoskopi",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Fleksibel laryngoskopi",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tumor?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Tumor? ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Stemmebåndsparese?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Stemmebåndsparese?",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Pooling i vallecula eller sinus piriformis?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Pooling i vallecula eller sinus piriformis?",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Glottislukking?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Glottislukking? ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Røntgen øsofagus med svelgkontrast. Viser hele svelgforløpet, cricopharyngeal åpning, zenker, bolustransport, aspirasjon/penetrasjon av kontrast til luftvei.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Røntgen øsofagus med svelgkontrast. Viser hele svelgforløpet, cricopharyngeal åpning, zenker, bolustransport, aspirasjon/penetrasjon",
+              "bold": false
+            },
+            {
+              "text": " ",
+              "bold": false
+            },
+            {
+              "text": "av kontrast til luftvei. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Fleksibel endoskopisk evaluering av svelgefunksjon (FEES).",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "F",
+              "bold": false
+            },
+            {
+              "text": "leksibel endoskopisk evaluering av svelgefunksjon (FEES)",
+              "bold": false
+            },
+            {
+              "text": ". ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Fleksibelt laryngoskop for visualisering av svelgets anatomi og funksjon under svelging.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Fleksibelt laryngoskop for visualisering av svelgets anatomi og funksjon under svelging. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Gjøres av logopeder med kompetanse innen dysfagi, ofte i samarbeid med lege.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Gjøres av logopeder",
+              "bold": false
+            },
+            {
+              "text": " med kompetanse innen dysfagi",
+              "bold": false
+            },
+            {
+              "text": ", ofte i samarbeid med ",
+              "bold": false
+            },
+            {
+              "text": "lege. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Gjøres hos pasienter med oral/faryngeal dysfagi.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Gjøres hos pasienter ",
+              "bold": false
+            },
+            {
+              "text": "med",
+              "bold": false
+            },
+            {
+              "text": " oral/faryngeal dysfagi. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "mistenkes, men der klinisk funksjonsvurdering gir ikke et entydig svar på om det foreligger eller",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "mistenkes, men der klinisk funksjonsvurdering gir ikke et entydig svar på om det ",
+              "bold": false
+            },
+            {
+              "text": "foreligger ",
+              "bold": false
+            },
+            {
+              "text": "eller",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "er klinisk diagnostisert, men klinisk funksjonsvurdering gir ikke et entydig svar på hvilke, om noen, mat-/drikkekonsistenser pasienten kan innta uten utilbørlig luftveisrisiko",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "er klinisk diagnostisert, men klinisk funksjonsvurdering gir ikke et entydig svar på hvilke, om noen, mat-/drikkekonsistenser pasienten kan innta uten utilbørlig luftveisrisik",
+              "bold": false
+            },
+            {
+              "text": "o",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Gjennomføres bl.a. ved Lovisenberg, Sunnaas.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Gjennomføres bl.a. ved",
+              "bold": false
+            },
+            {
+              "text": " ",
+              "bold": false
+            },
+            {
+              "text": "Lovisenberg, Sunnaas",
+              "bold": false
+            },
+            {
+              "text": ".",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Videofluoroskopi (VFS).",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Videofluoroskopi (VFS).  ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Modifisert røntgen øsofagus. Pasientens svelgfunksjon utredes i sittestilling med små mengder av ulike konsistenser blandet med kontrast.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Modifisert røntgen øsofagus. Pasientens svelgfunksjon utredes i sittestilling med små mengder av ulike konsistenser blandet med kontrast.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Gjøres på Sundaas, Diakonhjemmet (voksne), Rikshospitalet (barn)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Gjøres på ",
+              "bold": false
+            },
+            {
+              "text": "Sundaas, Diakonhjemmet (voksne), Rikshospitalet (barn)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Vurdere gastroskopi ved mistanke om øsofagal årsak.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Vurdere gastroskopi ved mistanke om øsofagal årsak. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "CT/MR ved mistanke om tumor",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "CT/MR ved mistanke om tumor ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Behandling",
+          "runs": [
+            {
+              "text": "Behandling ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Behandle årsak",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Behandle årsak ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Logopedi/svelgtrening",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Logopedi/svelgtrening ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Kosttilpasning",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Kosttilpasning ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "PEG/sonde?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "PEG/sonde?",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Emneoversikt for videre fordypning:"
         },
         {
           "t": "ul",
@@ -2475,6 +4877,1198 @@
           "text": "Trakeostomi"
         },
         {
+          "t": "h3",
+          "text": "Tracheotomi"
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: MLS",
+          "url": "assets/larynx-oppslagsverk/image28.png"
+        },
+        {
+          "t": "p",
+          "text": "Indikasjoner",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Indikasjoner ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Luftveisobstruksjon (Ø-hjelp)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Luftveisobstruksjon (Ø-hjelp) ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Langvarig behov for respirasjonsstøtte",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Langvarig behov for respirasjonsstøtte ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Fordeler fremfor intubasjon",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Fordeler fremfor intubasjon ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Pasientkomfort og morbiditet",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Pasientkomfort og mo",
+              "bold": false
+            },
+            {
+              "text": "r",
+              "bold": false
+            },
+            {
+              "text": "biditet ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Mindre sedasjonsbehov",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Mindre sedasjonsbehov ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Lettere rensing av bronchialtre",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Lettere rensing av bronchialtre ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tryggere luftvei",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Tryggere luftvei ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Forebygge intubasjonsskader på larynx/trachea",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Forebygge intubasjonsskader på larynx/trachea ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: MLS",
+          "url": "assets/larynx-oppslagsverk/image29.png"
+        },
+        {
+          "t": "p",
+          "text": "Preoperative vurderinger",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Preoperative vurderinger ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Skopi: Plassforhold og planlegge anestesi.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Skopi: Plassforhold og planlegge anestesi. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Collum",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Collum ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Kort, tykk hals? Kyfose?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Kort, tykk hals? Kyfose? ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Palpabel anatomi i midtlinje?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Palpabel anatomi i midtlinje? ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Vurdering med UL; gl. Thyroidea istmus. Blodkar.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Vurdering med UL; gl. Thyroidea istmus. Blodkar. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Antikoagulasjon, INR, trombocytter.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Antikoagulasjon, INR, trombocytter. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: MLS",
+          "url": "assets/larynx-oppslagsverk/image30.png"
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: MLS",
+          "url": "assets/larynx-oppslagsverk/image31.png"
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: MLS",
+          "url": "assets/larynx-oppslagsverk/image32.png"
+        },
+        {
+          "t": "p",
+          "text": "Postoperative vurderinger",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Postoperative vurderinger ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Verifisert optimal tilpasning med fleksibel bronkosopi. Kanylespiss bør ikke være nærmere karina enn 1-2cm.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Verifisert optimal tilpasning med fleksibel bronkosopi. Kanylespiss bør ikke være nærmere karina enn 1-2cm. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Rtg. thorax? Plassering? Emfysem?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Rtg. ",
+              "bold": false
+            },
+            {
+              "text": "t",
+              "bold": false
+            },
+            {
+              "text": "horax? Plassering? Emfysem? ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Sett opp til kanyleskifte på ØNH pol eller som tilsyn dersom inneliggende.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Sett opp til kanyleskifte på ØNH pol eller som tilsyn dersom inneliggende.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Oppfølging",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Oppfølging ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Kanyleskifte etter 7-10 dager. Fjerne hudsuturer, kanylesuturer og holdesutrer.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Kanyleskifte etter 7-10 dager. Fjerne hudsuturer, kanylesuturer og holdesutrer. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Deretter hver 4-6. Uke, men kan individualiseres.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Deretter hver 4-6. Uke, men kan individualiseres. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Komplikasjoner",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Komplikasjoner ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tidligere (<1 døgn)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Tidligere (<1 døgn) ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Blødning/hematom",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Blødning/hematom ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Aksidentell dekanylering",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Aksidentell dekanylering ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Subkutant emfysem",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Subkutant emfysem ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Pneumothorax",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Pneumothorax ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Trakeo-øsofagal fistel",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Trakeo-øsofagal fistel ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Recurrensparese",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Recurrensparese ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Aerofagi",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Aerofagi ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Aspirasjon",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Aspirasjon ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Respirasjonsstans. Hjertestans.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Respirasjonsstans. Hjertestans. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Sene (>1 døgn)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Sene (>1 døgn) ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Blødning.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Blødning. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Dislokasjon av kanyle.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Dislokasjon av kanyle. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Granulomdannelse (i stoma eller trachea)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Granulomdannelse (i stoma eller trachea) ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Trachealstenose",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Trachealstenose ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Infeksjon (endotracheitt, mediastinitt, pneumoni)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Infeksjon (endotracheitt, mediastinitt, pneumoni)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Trakeo-øsofagal fistel",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Trakeo-øsofagal fistel ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Trakeokutan fistel",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Trakeokutan fistel ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Dysfagi",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Dysfagi ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Respirasjonsstans. Hjertestans.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Respirasjonsstans. Hjertestans. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Det er utarbeidet en standard felles frase som skal brukes etter tracheostomi. Finnes i larynxmappen i undermappen “trach”.",
+          "runs": [
+            {
+              "text": "Det er utarbeidet en standard felles frase som skal brukes etter tracheostomi",
+              "bold": false
+            },
+            {
+              "text": ". Finnes i larynxmappen i undermappen “trach”. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: MLS",
+          "url": "assets/larynx-oppslagsverk/image33.png"
+        },
+        {
+          "t": "h3",
+          "text": "Kanyletyper"
+        },
+        {
+          "t": "p",
+          "text": "Laget av plast, silikon eller sølv. Ulik funksjon, kurvatur og størrelser.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Laget av plast, silikon eller sølv. Ulik funksjon, kurvatur og størrelser. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Materiale: plast, silikon, metall",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Materiale: plast, silikon, metall ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Størrelser: oppgis i mm og referert ofte til indre diameter (ID)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Størrelser: oppgis i mm og referert o",
+              "bold": false
+            },
+            {
+              "text": "ft",
+              "bold": false
+            },
+            {
+              "text": "e til indre diameter (ID) ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Voksne kvinner: 6-7",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Voksne kvinner: ",
+              "bold": false
+            },
+            {
+              "text": "6-7",
+              "bold": false
+            },
+            {
+              "text": " ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Voksne menn: 8-9",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Voksne menn: ",
+              "bold": false
+            },
+            {
+              "text": "8-9",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Barn: tilpasses individuelt",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Barn: tilpasses individuelt  ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Fenestrert/ufenestrert",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Fenestrert/ufenestrert ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Fenestrert. Har ett eller flere hull på baksiden av kanylerøret. Tillater luft å passere opp gjennom strupen og forbi stemmebåndene. Brukes for å kunne snakke.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Fenestrert. Har ett eller flere hull på baksiden av kanylerøret. Tillater luft å passere opp gjennom strupen og forbi stemmebåndene. Brukes for å kunne snakke. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Ufenestrert. Hele luftstrømmen går direkte gjennom kanylen. Brukes ofte hos pasienter som er koblet til respirator, ved vare for aspirasjon eller ved taleproteser som ikke krevet hull.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Ufenestrert. Hele luftstrømmen går direkte gjennom kanylen. Brukes ofte hos pasienter som er koblet til respirator, ved vare for aspirasjon eller ved taleproteser som ikke krevet hull. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Cuffet/uten cuff",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Cuffet/uten cuff ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Med cuff: Hindrer aspirasjon og sikrer at all luft går i lungene hvis pasienten bruker respirator.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Med cuff: Hindrer aspirasjon og sikrer at all luft går i lungene hvis pasienten bruker respirator. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Uten cuff: Mindre irritasjon i luftrøret, lettere å snakke. Brukes ofte til pasienter som puster selv, og som ikke trenger respirator eller har aspirasjonsfare.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Uten cuff: Mindre irritasjon i luftrøret, lettere å snakke. Brukes ofte til pasienter som puster selv, og som ikke trenger respirator eller har aspirasjonsfare. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Innerkanyle/uten innerkanyle:",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Innerkanyle/uten innerkanyl",
+              "bold": false
+            },
+            {
+              "text": "e: ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Med: Kanylen består av et \"rør i røret\". Du kan enkelt ta ut den innerste kanylen for å rengjøre den for slim og sekret, eller bytte den til en ny uten å måtte skifte hele kanylen som ligger i luftrøret. Dette er svært viktig for å forebygge tette luftveier og infeksjoner.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Med: Kanylen består av et \"rør i røret\". Du kan enkelt ta ut den innerste kanylen for å rengjøre den for slim og sekret, eller bytte den til en ny uten å måtte skifte hele kanylen som ligger i luftrøret. Dette er svært viktig for å forebygge tette luftveier og infeksjoner.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Uten innerkanyle: Kanylen består av ett enkelt rør. Disse har ofte en litt tynnere ytterdiameter, men krever at hele kanylen tas ut og skiftes når den blir full av slim.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Uten innerkanyle: Kanylen består av ett enkelt rør. Disse har ofte en litt tynnere ytterdiameter, men krever at hele kanylen tas ut og skiftes når den blir full av slim. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Kanyletyper",
+          "url": "assets/larynx-oppslagsverk/image35.png"
+        },
+        {
+          "t": "p",
+          "text": "Taleventil: En liten enveisventil som settes på utsiden av kanylen. Den lar pasienten puste inn gjennom halsen, men tvinger all utåndingsluft opp forbi strupehodet og stemmebåndene. Gir tracheostomerte pasienter muligheten til å snakke når cuffen er deflatert.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Taleventil:",
+              "bold": false
+            },
+            {
+              "text": " En liten enveisventil som settes på utsiden av kanylen. Den lar pasienten puste inn gjennom halsen, men tvinger all utåndingsluft opp forbi strupeho",
+              "bold": false
+            },
+            {
+              "text": "det og stemmebåndene",
+              "bold": false
+            },
+            {
+              "text": ". ",
+              "bold": false
+            },
+            {
+              "text": "Gir tracheostomerte pasienter muligheten til å snakke når cuffen er deflatert. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Suction aid: Kanal i trachealkanylen som inneholder en ekstra sugekanal. Brukes for å suge ut slim, spytt og sekret over cuffen.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Suction aid: Kanal i trachealkanylen som inneholder en ekstra sugekanal. Brukes for å s",
+              "bold": false
+            },
+            {
+              "text": "uge ut slim, spytt og sekret",
+              "bold": false
+            },
+            {
+              "text": " over cuffen.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Kunstig nese: Plastfilter som settes direkte på utsiden av trakelkanylen. Filteret fanger opp varme og fukt fra utåndingsluften. Må skiftes regelmessig, ofte daglig.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Kunstig nese",
+              "bold": false
+            },
+            {
+              "text": ": ",
+              "bold": false
+            },
+            {
+              "text": "Plastfilter som settes direkte på utsiden av trakelkanylen. Filteret fanger opp varme og fukt fra utåndingsluften. ",
+              "bold": false
+            },
+            {
+              "text": "Må skiftes regelmessig, ofte daglig.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Adjustable flange: Betyr at halsplaten på kanylen kan skyves opp og ned og låses der man ønsker det. Gjør at lengden på kanylerøret kan tilpasses individuelt til pasienten. Brukes til pasienter med uvanlig anatomi der standardkanyler blir for korte eller lange.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Adjustable flange: ",
+              "bold": false
+            },
+            {
+              "text": "Betyr at halsplaten på kanylen kan skyves opp og ned og låses der man ønsker det. Gjør at lengden på kanylerøret kan tilpasses individuelt til pasienten. Brukes til pasienter med uvanlig anatomi der standardkanyler blir for korte elle",
+              "bold": false
+            },
+            {
+              "text": "r lange. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Kanyletyper",
+          "url": "assets/larynx-oppslagsverk/image36.png"
+        },
+        {
+          "t": "p",
+          "text": "Skifte av kanyler burde gjøres hver 30. dag eller hyppigere. Se video i linken under for å se hvordan skifte gjøres;",
+          "runs": [
+            {
+              "text": "Skifte av kanyler burde gjøres hver 30. dag eller hyppigere. Se video i linken under for å se hvordan skifte gjøres; ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Modul 2: Kanyler | Helsekompetanse",
+          "runs": [
+            {
+              "text": "Modul 2: Kanyler | Helsekompetanse",
+              "url": "https://helsekompetanse.no/mod/book/view.php?id=5682&chapterid=3776"
+            }
+          ]
+        },
+        {
+          "t": "table",
+          "headers": [
+            "",
+            "Shiley",
+            "Bivona ",
+            "Portex"
+          ],
+          "rows": [
+            [
+              "Materiale ",
+              "Stiv og fast (PVC)",
+              "Fleksibel silikon ",
+              "Fleksibel plast (PVC)"
+            ],
+            [
+              "Fleksibilitet",
+              "Lav ",
+              "Høy",
+              "Medium"
+            ],
+            [
+              "Kjerneegenskaper",
+              "Rigid/fast. ",
+              "Føyer seg etter anatomi. Reduserer risiko for irritasjon, trykksår og granulasjonsvev.\n\nPopulære i pediatrien og ved vanskelig anatomi ",
+              "Tynne vegger i røret, gir større indre diameter og bedre luftstrøm. "
+            ],
+            [
+              "Innerkanyle",
+              "Ja",
+              "Ja, opptil størrelse 7",
+              "Ja "
+            ],
+            [
+              "Fenestrering",
+              "Ett enkelt, stort hull på oversiden av ytre kanal",
+              "Uten fenestrering. For tale må man deflatere cuff og sette på taleventil.",
+              "Ja, ett enkelt ovalt hull. "
+            ],
+            [
+              "Suction aid",
+              "Ja, på spesfisikke modeller (Shiley Flexible Evac)\n",
+              "Nei",
+              "Ja, på spesifikke modeller (Portex Blue line Ultra Suctionaid)"
+            ],
+            [
+              "Hovedindikasjon",
+              "Akuttfase, tidlig mobilisering, kortere sykehusopphold \n\n-Ny trakeostomerte (intensivavd.) \n-Behov for mye suging av sekret \n-Pasienter som skal starte taletrening på sykehus ",
+              "Langtidsbruk, sensitiv anatomi, hjemmerespirator\n\n-Nevrologiske lidelser \n-Pediatri, nyfødte \n-Pasienter som får trykksår/smerter av vanlige plastkanyler\n-Avvikende/trang anatomi",
+              "Subakutt fase, rehabilitering, overgang til utskrivelse       \n\n- Rehab. pas. (slag, traume)\n- Pasienter med ubehag med shiley, men som må ha innerkanyle\n-Behov for kanyle som tilpasser seg luftrørets form over tid."
+            ],
+            [
+              "Egnet for taleventil?",
+              "Svært god.",
+              "Betinget. Krevet god plass rundt kanyle og at cuffen er fullstendig deflatert. ",
+              "Svært god.\n"
+            ],
+            [
+              "Adjustable flange",
+              "Nei",
+              "Ja",
+              "Ja"
+            ]
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Hva bestemmer endelig valg av kanyle?",
+          "runs": [
+            {
+              "text": "Hva bestemmer endelig valg av kanyle?",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Hvor lenge kanylen skal sitte inne. Uker = Shiley/Portex, Mnd./år = Bivona",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Hvor lenge kanylen skal sitte inne. Uker = Shiley/Portex, Mnd./år = Bivona ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Mengde sekret/slim. Shiley eller portex grunnet innerkanyle og mulighet for lett rengjøring.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Mengde sekret/slim. Shiley eller portex grunnet innerkanyle og mulighet for lett rengjøring. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Anatomi. Pasienter med dyp luftvei eller svulster f.eks., kan ha nytte av spesialmodeller (f.eks. Bivona FlexTend eller Shiley XLT med ekstra lengde).",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Anatomi.",
+              "bold": false
+            },
+            {
+              "text": " Pasienter med dyp luftvei eller svulster f.eks., kan ha nytte av spesialmodeller (f.eks. Bivona FlexTend eller Shiley XLT med ekstra lengde",
+              "bold": false
+            },
+            {
+              "text": ").",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Viktig ang. taleventil og fenester:",
+          "runs": [
+            {
+              "text": "Viktig ang. ",
+              "bold": true
+            },
+            {
+              "text": "t",
+              "bold": true
+            },
+            {
+              "text": "aleventil og fenester:",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Cuff må ALDRI være oppblåst når taleventil er på! Hvis du setter på en taleventil (som slipper luft inn, men ikke ut) samtidig som cuffen er blåst opp, vil pasienten kveles.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Cuff må ALDRI være oppblåst når taleventil er på! ",
+              "bold": true
+            },
+            {
+              "text": "Hvis du setter på en taleventil (som slipper luft inn, men ikke ut) samtidig som cuffen er blåst opp, vil pasienten kveles. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Innerkanyle må ha hull. Hvis en fenestrert ytre kanyle (Shiley eller Potex), må du også bruke fenestrert innerkanyle. Setter du inn standard lukket innerkanyle, blokkerer du vinduet, og ingen luft slipper opp til stemmebåndene.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Innerkanyle må ha hull",
+              "bold": true
+            },
+            {
+              "text": ". Hvis en fenestrert ytre kanyle (Shiley eller Potex), må du også bruke fenestrert i",
+              "bold": false
+            },
+            {
+              "text": "n",
+              "bold": false
+            },
+            {
+              "text": "nerkanyle. Setter du inn standard lukket innerkanyle, blokkerer du vinduet, og ingen ",
+              "bold": false
+            },
+            {
+              "text": "luft slipper opp til stemmebåndene. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Risiko for vev. Fenestrerte kanyler bør brukes når pasienten skal snakke. Langvarig bruk kan irritere slimhinnen der hullet sitter.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Risiko for vev",
+              "bold": true
+            },
+            {
+              "text": ". Fenestrerte kanyler bør brukes når pasienten skal snakke. Langvarig bruk kan irritere slimhinnen der hullet sitter. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Emneoversikt for videre fordypning:"
+        },
+        {
           "t": "ul",
           "items": [
             "Indikasjoner for trakeostomi",
@@ -2492,6 +6086,429 @@
         {
           "t": "h2",
           "text": "Nødluftvei"
+        },
+        {
+          "t": "h3",
+          "text": "Nødtrach (cricothyrotomi)"
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Nødtrach (cricothyrotomi)",
+          "url": "assets/larynx-oppslagsverk/image34.png"
+        },
+        {
+          "t": "p",
+          "text": "Det vises til EQS-prosedyre, ID 35065, “Ane - akuttsituasjoner - nød cricothyroidotomi”.",
+          "runs": [
+            {
+              "text": "Det vises til EQS-prosedyre, ID 35065, “Ane - akuttsituasjoner - nød cricothyroidotomi”",
+              "bold": false
+            },
+            {
+              "text": ". ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Dokument «ANE - Akuttsituasjoner - Nød Cricothyroidotomi», ID 35065 - EQS",
+          "runs": [
+            {
+              "text": "Dokument «ANE - Akuttsituasjoner - Nød Cricothyroidotomi», ID 35065 - EQS",
+              "url": "https://eqs-ahus.ad.ahus.no/cgi-bin/document.pl?pid=ahus&DocumentID=35065"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Samt prosedyre, ID 1721, “Ane - akuttsituasjoner – vanskelig luftvei (Gul og rød luftvei)”",
+          "runs": [
+            {
+              "text": "Samt prosedyre, ID 1721, “Ane - akuttsituasjoner – vanskelig luftvei (Gul og rød luftvei)” ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Dokument «ANE - Akuttsituasjoner - Vanskelig luftvei (Gul og rød luftvei) Nordbyhagen», ID 1721 - EQS",
+          "runs": [
+            {
+              "text": "Dokument «ANE - Akuttsituasjoner - Vanskelig luftvei (Gul og rød luftvei) Nordbyhagen», ID 1721 - EQS",
+              "url": "https://eqs-ahus.ad.ahus.no/cgi-bin/document.pl?pid=ahus&DocumentID=1721"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Indikasjoner",
+          "runs": [
+            {
+              "text": "Indikasjoner ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Klarer ikke å oksygenere pasienten på vanlig måte (intubasjon, larynxmaske eller maskeventilering).",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Klarer ikke å oksygenere pasienten på vanlig måte (intubasjon, larynxmaske eller maskeventilering). ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Ikke lengre mulig/tid til å vekke pasienten og få hen selvpustende igjen.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Ikke lengre mulig/tid til å vekke pasienten og få hen selvpustende igjen. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Anestesiteam/kirurgisk team erkjenner uventet rød luftvei . Slås alarm 8888 rød luftvei.",
+          "runs": [
+            {
+              "text": "Anestesiteam/kirurgisk team erkjenner uventet rød luftvei . Slås alarm 8888 rød luftvei. ",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Med palpabel cricothyroid membran (CTM).  Stikk – Vri – Bougie – Tube.",
+          "runs": [
+            {
+              "text": "Med palpabel cricothyroid membran (CTM).  ",
+              "bold": true
+            },
+            {
+              "text": "Stikk – Vri – Bougie – Tube.",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Fortsett med oksygenerings forsøk.",
+          "runs": [
+            {
+              "text": "Fortsett med oksygenerings forsøk.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Husk tilstrekkelig anestesidybde gjennom hele prosedyren.",
+          "runs": [
+            {
+              "text": "Husk tilstrekkelig anestesidybde gjennom hele prosedyren.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "1.    Stå på pasientens venstre side hvis man er høyrehendt (omvendt hvis venstrehendt).",
+          "runs": [
+            {
+              "text": "1.    Stå på pasientens venstre side hvis man er høyrehendt (omvendt hvis venstrehendt).",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "2.    Identifisere larynx anatomi.",
+          "runs": [
+            {
+              "text": "2.    Identifisere larynx anatomi.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "3.    Stabilsere larynx med venstre hånd.",
+          "runs": [
+            {
+              "text": "3.    Stabilsere larynx med venstre hånd.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "4.    Bruk venstre pekefinger til å identifisere CTM.",
+          "runs": [
+            {
+              "text": "4.    Bruk venstre pekefinger til å identifisere CTM.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "5.    Bruk skalpell i høyre hånd. Gjør et transvers kutt gjennom hud og CTM med skjærende kant av kniven mot deg.",
+          "runs": [
+            {
+              "text": "5.    Bruk skalpell i høyre hånd. Gjør et ",
+              "bold": false
+            },
+            {
+              "text": "transvers kutt ",
+              "bold": false
+            },
+            {
+              "text": "gjennom hud og CTM med skjærende kant av kniven mot deg.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "6.    Hold skalpell vinkelrett mot huden og vri 90 grader sånn at den skarpe kanten peker kaudalt (mot føttene).",
+          "runs": [
+            {
+              "text": "6.    Hold skalpell vinkelrett mot huden og vri 90 grader sånn at den skarpe kanten peker kaudalt (mot føttene).",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "7.    Bytt hender slik at du holde skalpell med venstre hånd.",
+          "runs": [
+            {
+              "text": "7.    Bytt hender slik at du holde skalpell med venstre hånd.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "8.    Trekk hele skalpellen mot deg (lateralt) med venstre hånd mens du fortsatt holder skalpellen vertikalt.",
+          "runs": [
+            {
+              "text": "8.    Trekk hele skalpellen mot deg (lateralt) med venstre hånd mens du fortsatt holder skalpellen vertikalt.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "9.    Ta opp bougie med høyre hånd.",
+          "runs": [
+            {
+              "text": "9.    Ta opp bougie med høyre hånd.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "10.  Gli bougie 90 grader mot trakea ned langs skalpellblad på siden som er lengst fra deg.",
+          "runs": [
+            {
+              "text": "10.  Gli bougie 90 grader mot trakea ned langs skalpellblad på siden som er lengst fra deg.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "11.  Still bougien i samme plan som trakea og avanser den forsiktig 10 til 15 cm.",
+          "runs": [
+            {
+              "text": "11.  Still bougien i samme plan som trakea og avanser den forsiktig 10 til 15 cm.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "12.  Fjern skalpell.",
+          "runs": [
+            {
+              "text": "12.  Fjern skalpell.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "13.  Stabiliser trakea og hud med venstre hånd.",
+          "runs": [
+            {
+              "text": "13.  Stabiliser trakea og hud med venstre hånd.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "14.  Før 6.0 mm lubrikert trakealtube over bougien.",
+          "runs": [
+            {
+              "text": "14.  Før 6.0 mm lubrikert trakealtube over bougien.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "15.  Rotér tuben over bougien mens du fører den inn, den nebbformede enden av trakealtuben opp mot huden (ikke ned). Pass på å ikke avansere trakealtuben ned i høyre hovedbronkus.",
+          "runs": [
+            {
+              "text": "15.  Rotér tuben over bougien mens du fører den inn, den nebbformede enden av trakealtuben opp mot huden (ikke ned). Pass på å ikke avansere trakealtuben ned i høyre hovedbronkus.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "16.  Fjern bougie.",
+          "runs": [
+            {
+              "text": "16.  Fjern bougie.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "17.  Inflatere cuffen og bekrefte ventilasjon med kapnografi",
+          "runs": [
+            {
+              "text": "17.  Inflatere cuffen og bekrefte ventilasjon med kapnografi",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "18.  Fiksér tuben.",
+          "runs": [
+            {
+              "text": "18.  Fiksér tuben.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Med ikke palpabel cricothyroid membran. Skalpell - Finger - Bougie - Tube.",
+          "runs": [
+            {
+              "text": "Med ikke palpabel cricothyroid membran. Skalpell - Finger - Bougie - Tube.",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Dersom CTM er impalpabel eller hvis andre teknikker har ikke fungert.",
+          "runs": [
+            {
+              "text": "Dersom CTM er impalpabel eller hvis andre teknikker har ikke fungert.",
+              "bold": true
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "1.    Fortsett med oksygenerings forsøk.",
+          "runs": [
+            {
+              "text": "1.    Fortsett med oksygenerings forsøk.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "2.    Prøv å identifisere larynx anatomi.",
+          "runs": [
+            {
+              "text": "2.    Prøv å identifisere larynx anatomi.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "3.    Ultralyd dersom umiddelbart tilgjengelig, kan brukes til å identifisere midtlinje og store blodkar.",
+          "runs": [
+            {
+              "text": "3.    Ultralyd dersom ",
+              "bold": false
+            },
+            {
+              "text": "umiddelbart",
+              "bold": false
+            },
+            {
+              "text": " tilgjengelig, kan brukes til å identifisere midtlinje og store blodkar.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "4.    Hold huden stram med venstre hånd.",
+          "runs": [
+            {
+              "text": "4.    Hold huden stram med venstre hånd.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "5.    8 – 10 cm midtlinje vertikal hudsnitt oppover halsen mot hodet.",
+          "runs": [
+            {
+              "text": "5.    8 – 10 cm midtlinje vertikal hudsnitt oppover halsen mot hodet.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "6.    Bruk fingrene på begge hender til å dissekere ned, dra fra vev. Identifisere og stabilisere larynx med venstre hånd.",
+          "runs": [
+            {
+              "text": "6.    Bruk fingrene på begge hender til å dissekere ned, dra fra vev. Identifisere og stabilisere larynx med venstre hånd.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "7.    Fortsett med skalpell, teknikk som vist over.",
+          "runs": [
+            {
+              "text": "7.    Fortsett med skalpell, teknikk som vist over.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Emneoversikt for videre fordypning:"
         },
         {
           "t": "ul",
@@ -2525,6 +6542,123 @@
           "text": "Postintubasjon og stenoser"
         },
         {
+          "t": "h3",
+          "text": "Subglottisk stenose"
+        },
+        {
+          "t": "p",
+          "text": "Forsnevring av subglottisk lumen.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Forsnevring av subglottisk lumen",
+              "bold": false
+            },
+            {
+              "text": ". ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Medfødt er et resultat av misdannelse i fosterlivet.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Medfødt ",
+              "bold": false
+            },
+            {
+              "text": "er et resultat av misdannelse i fosterlivet. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Ervervet kan forekomme etter langvarig intubasjon eller skade etter intubasjon.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Ervervet kan forekomme etter langvarig intubasjon eller skade etter intubasjon. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Symptomer varierende fra mild dyspnø og stridor til, alvorlig luftveisobstruksjon avhengig av obstruksjonsgrad. Høygradig stenose gir ofte symptomer rett etter fødsel.  Pasienter med mild stenose kan få symptomer ved f.eks. luftveisinfeksjon, når subglottisk ødem fornevrer lumen.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Symptomer varierende fra mild dyspnø og stridor til, alvorlig luftveisobstruksjon avhengig av obstruksjonsgrad. Høygradig stenose gir ofte ",
+              "bold": false
+            },
+            {
+              "text": "symptomer rett etter fødsel.  Pasienter med mild stenose kan få symptomer ved f.eks. luftveisinfeksjon, når subglottisk ødem fornevrer lumen. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Vanligste årsak til tracheostomi hos barn < 1 år",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Vanligste årsak til tracheostomi hos barn < 1 år ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Pasienter med milde symptomer kan ofte observeres. Hos pasienter med signifikant symptomtrykk, kan kirurgi vurderes – dette gjøres på RH.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Pasienter med milde symptomer kan ofte observeres. Hos pasienter med signifikant symptomtrykk, kan kirurgi vurderes",
+              "bold": false
+            },
+            {
+              "text": " – dette gjøres på RH. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Cotton meyer klassifisering",
+          "runs": [
+            {
+              "text": "Cotton meyer klassifisering",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Subglottisk stenose",
+          "url": "assets/larynx-oppslagsverk/image26.png"
+        },
+        {
+          "t": "p",
+          "text": "Emneoversikt for videre fordypning:"
+        },
+        {
           "t": "ul",
           "items": [
             "Postintubasjonsgranulom",
@@ -2539,6 +6673,53 @@
         {
           "t": "h2",
           "text": "Tumorer og premaligne tilstander"
+        },
+        {
+          "t": "h3",
+          "text": "Pakkeforløp kriterier for larynxcancer (helsedirektoratet)"
+        },
+        {
+          "t": "p",
+          "text": "Heshet i mer enn tre uker uten forklaring eller bedring hos pasienter over 40 år",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Heshet i mer enn tre uker uten forklaring eller bedring hos pasienter over 40 år",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Svelgebesvær og/eller globulusfornemmelse med smerteutstråling til øre",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Svelgebesvær og/eller globulusfornemmelse med smerteutstråling til øre",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Nyoppdaget recurrensparese",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Nyoppdaget recurrensparese",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Emneoversikt for videre fordypning:"
         },
         {
           "t": "ul",
@@ -2575,6 +6756,259 @@
           "text": "Undersøkelser"
         },
         {
+          "t": "h3",
+          "text": "Laryngologisk undersøkelse"
+        },
+        {
+          "t": "p",
+          "text": "Undersøkelse",
+          "runs": [
+            {
+              "text": "Undersøkelse ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Øre-nese-hals undersøkelse",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Øre-nese-hals undersøkelse",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Laryngologisk undersøkelse",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Laryngologisk undersøkelse ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Fleksibel videolaryngoskopi: Abduksjon-adduksjon, inspirasjon/ekspirasjon, fonasjon. Gå tett nok på stemmebånd!",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Fleksibel videolaryngoskopi: Abduksjon-adduksjon, inspirasjon/ekspirasjon, fonasjon. Gå tett nok på stemmebånd! ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Narrow-band imaging (NBI)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Narrow-band imaging (NBI)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Stroboskopi (glottisbølge)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Stroboskopi (glottisbølge)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tips",
+          "runs": [
+            {
+              "text": "Tips",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Bedøv godt i nese og svelg ved behov, husk at sykepleier kan gi forstøver med bedøvelse i forkant hvis pas. brekker seg lett eller du trenger å se subglottisk. Ikke gi deg før du har sett godt nok til å gjøre en god vurdering!",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Bedøv godt i nese og svelg ved behov, husk at sykepleier kan gi forstøver med bedøvelse i forkant hvis pas. brekker seg lett eller du trenger å se subglottisk. ",
+              "bold": false
+            },
+            {
+              "text": "Ikke gi deg før du har sett godt nok til å gjøre en god vurdering!",
+              "bold": false
+            },
+            {
+              "text": " ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "NB! Gå nærme nok stemmbånd! Pasient må sitte i god stilling, instruer i å stikke tungen ut, hakeskyv frem og be pasient gjøre valsalva mens du klemmer på nesen (hypopharynxvurdering).",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "NB! Gå nærme nok stemmbånd! Pasient må sitte i god stilling, instruer i å stikke tungen ut, hakeskyv frem og be pasient gjøre valsalva mens du klemmer på nesen (hypopharynxvurdering).",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Vanlig fiberskop med lysledning til unit eller bærbar batterikilde.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Vanlig fiberskop med lysledning til unit eller bærbar batterikilde. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Ingen opptaksmulighet, kan brukes ved for eksempel dysfagiutredning, ingen stemmepåvirkning eller cancer-mistanke.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Ingen opptaksmulighet, kan brukes ved for eksempel dysfagiutredning, ingen stemmepåvirkning eller cancer-mistanke.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Ambu-skop med skjerm og engangsskop",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Ambu-skop med skjerm og engangsskop ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Bilder kan overføres til MTU-svar ved å eksportere",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "B",
+              "bold": false
+            },
+            {
+              "text": "ilder kan overføres til MTU-svar ved å eksportere",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Fin til tilsyn rundt om på huset",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "F",
+              "bold": false
+            },
+            {
+              "text": "in til tilsyn rundt om på huset",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Olympusskop med rack",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Olympusskop med rack",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Chip on tip (2 voksenskop og 1 barneskop)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Chip on tip (2 voksenskop og 1 barneskop)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "nCare lagringsenhet, slik at bilder og video blir liggende lokalt, mens kun bilder kan overføres til MTU-svar/compacs.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "nCare lagringsenhet, slik at bilder og video blir liggende lokalt, mens kun bilder kan overføres til MTU-svar/compacs.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Se nyttig brosjyre fra Olympus ang tips for skopi Laryngoscopy_Manual_Prof.-Hess_15937.pdf",
+          "runs": [
+            {
+              "text": "Se nyttig brosjyre fra Olympus ang tips for skopi ",
+              "bold": false
+            },
+            {
+              "text": "Laryngoscopy_Manual_Prof.-Hess_15937.pdf",
+              "url": "https://hsorhf.sharepoint.com/:b:/r/sites/AHUSHF-O-306NHavdeling/Shared%20Documents/18%20%C3%98NH%20leger/Larynx/Larynx/LIS%20larynx/Laryngoscopy_Manual_Prof.-Hess_15937.pdf?d=wdda03640d91d407f853730e19cf8306d&csf=1&web=1&e=DRzm8H"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Emneoversikt for videre fordypning:"
+        },
+        {
           "t": "ul",
           "items": [
             "Fleksibel nasolaryngoskopi",
@@ -2590,6 +7024,309 @@
         {
           "t": "h2",
           "text": "Laryngeale prosedyrer"
+        },
+        {
+          "t": "h3",
+          "text": "Endoskopisk injeksjon"
+        },
+        {
+          "t": "h3",
+          "text": "Injeksjoner med botox"
+        },
+        {
+          "t": "p",
+          "text": "Botulinumtoksin (botox) brukes blant annet som behandling ved stemmelidelsen spastisk dysfoni. Ved spastisk dysfoni har pasientene krampe (dysfoni) i stemmebåndsmusklene. Stemmen blir hakkete og spastisk.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Botulinumtoksin (botox) brukes blant annet som behandling ved stemmelidelsen spastisk dysfoni. Ved spastisk dysfoni har pasientene krampe (dysfoni) i stemmebåndsmusklene. Stemmen blir hakkete og spastisk",
+              "bold": false
+            },
+            {
+              "text": ". ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Ved injeksjon av botox i stemmebåndsmuskler, blir stemmen slakkere og stemmen normaliseres.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Ved injeksjon av botox i stemmebåndsmuskler, blir stemmen slakkere og stemmen normaliseres. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Behandlingen virker i 3 mnd. og må gjentas jevnlig.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Behandlingen virker i 3 mnd. og må gjentas jevnlig. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Bivirkninger",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Bivirkninger ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Mange opplever svakere stemme noen dager etter injeksjon, dette kan vare i noen uker. Stemmevolumet bedres etter hvert.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Mange opplever svakere stemme noen dager etter injeksjon, dette kan vare i noen uker. Stemmevolumet bedres etter hvert.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Injeksjonsbehandling"
+        },
+        {
+          "t": "p",
+          "text": "Innsprøyting av volumøkende materiale i stemmebåndet. F.eks. hyaluronsyre (restylane) eller fett.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Innsprøyting av volumøkende materiale i stemmebåndet. F.eks. hyaluronsyre (restylane)",
+              "bold": false
+            },
+            {
+              "text": " eller fett. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Hyaluronsyre finnes naturlig i huden, men kan injiseres for som en “filler” for å øke volum i vevet.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Hyaluronsyre finnes naturlig i huden, men kan injiseres for som en “fille",
+              "bold": false
+            },
+            {
+              "text": "r",
+              "bold": false
+            },
+            {
+              "text": "” for å øke volum i vevet. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Hyaluron kan injiseres i stemmebånd for å øke volumet av stemmebånd for å bedre stemmekvalitet.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Hyaluron k",
+              "bold": false
+            },
+            {
+              "text": "an injiseres i stemmebånd for å øke volumet av stemmebånd for å bedre stemmekvalitet.  ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Behandlingen er ikke permanent, og gjentas etter noen mnd. dersom den har effekt.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Behandlingen er ikke permanent, og gjentas etter noen mnd. dersom den har effekt.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "MLS"
+        },
+        {
+          "t": "p",
+          "text": "Direkte visualisering av stemmebånd og larynx vha. stiv rør og mikroskop.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Direkte visualisering av stemmebånd og larynx vha. stiv rør og mikroskop.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Indikasjon",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Indikasjon",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Diagnostisk",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Diagnostisk ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Terapeutisk",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Terapeutisk ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Før operasjon: undersøkelse, videolaryngoskopi, stroboskopi, tannstatus. Nakkestivhet – behov for rtg. cervikalcolumna?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Før operasjon: undersøkelse, videolaryngoskopi, stroboskopi, tannstatus. Nakkestivhet – behov for rtg. ",
+              "bold": false
+            },
+            {
+              "text": "c",
+              "bold": false
+            },
+            {
+              "text": "ervikalcolumna? ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Info før operasjon",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Info før operasjon ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Komplikasjoner: blødning, infeksjon, tannskade, ubehag i svelg, nummenhet tunge, ingen 100% garanti for stemmen postoperativt.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Komplikasjoner: blødning, infeksjon, tannskade, ubehag i svelg, numme",
+              "bold": false
+            },
+            {
+              "text": "n",
+              "bold": false
+            },
+            {
+              "text": "het tunge, ingen 100% garanti for stemmen postoperativt. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Stemmehvile 5-7 dager postoperativt. Snakke med normal og med mørk stemme når du må - ikke hviske eller skrike.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Stemmehvile ",
+              "bold": false
+            },
+            {
+              "text": "5-",
+              "bold": false
+            },
+            {
+              "text": "7 dager postoperativt. Snakke med normal og med mørk stemme når du må - ikke hviske eller skrike. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Evt. Logoped postoperativt",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Evt. Logoped postoperativt",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: MLS",
+          "url": "assets/larynx-oppslagsverk/image27.png"
+        },
+        {
+          "t": "p",
+          "text": "Emneoversikt for videre fordypning:"
         },
         {
           "t": "ul",
@@ -2610,6 +7347,154 @@
           "text": "Kirurgi"
         },
         {
+          "t": "h3",
+          "text": "Medialiserende behandling"
+        },
+        {
+          "t": "p",
+          "text": "En normal stemme er avhengig av at stemmebåndsspalten lukkes seg når man skal lage lyd. Dårlig lukking i stemmespalten gir hes og svak stemme. Kan forårsakes av f.eks.",
+          "runs": [
+            {
+              "text": "En normal stemme er avhengig av at stemmebåndsspalten lukkes seg når man skal lage ly",
+              "bold": false
+            },
+            {
+              "text": "d",
+              "bold": false
+            },
+            {
+              "text": ". Dårlig lukking i stemmespalten gir hes og svak stemme. Kan forårsakes av f.eks. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Recurrensparese",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Recurrensparese ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Atrofi",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Atrofi ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Skade av stemmebånd etter tidligere operasjon",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Skade av stemmebånd etter tidligere operasjon",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Medialiserende behandling (medialisering) brukes for å gjenopprette normal stemmeklang når stemmebånd ikke lukker seg tilstrekkelig. Målet er å flytte stemmebånd nærmere midtlinjen.",
+          "runs": [
+            {
+              "text": "Medialiserende behandling (medialisering) ",
+              "bold": false
+            },
+            {
+              "text": "b",
+              "bold": false
+            },
+            {
+              "text": "rukes for å gjenopprette normal stemmeklang når stemmebånd ikke lukker seg tilstrekkelig. Målet er å flytte stemmebånd nærmere midtlinjen.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Tyreoplastikk"
+        },
+        {
+          "t": "p",
+          "text": "Operasjon på stemmebånd. Deles inn i 4 hovedtyper.",
+          "runs": [
+            {
+              "text": "Operasjon på stemmebånd. Deles inn i 4 hovedtyper. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Type 1 (medialisering). Skyver stemmebåndet til midten (bedrer lukking).",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Type 1 (medialisering)",
+              "bold": false
+            },
+            {
+              "text": ". Skyver stemmebåndet til midten (bedrer lukking). ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Type 2 (lateralisering). Utvider stemmespalten.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Type 2 (lateralisering)",
+              "bold": false
+            },
+            {
+              "text": ". Utvider stemmespalten. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Type 3 og type 4. Endrer lengden på stemmebåndene for hhv. Dypere eller lysere stemme.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Type 3 ",
+              "bold": false
+            },
+            {
+              "text": "og type 4. Endrer lengden på stemmebåndene for hhv. Dypere eller lysere stemme. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Emneoversikt for videre fordypning:"
+        },
+        {
           "t": "ul",
           "items": [
             "Mikrolaryngoskopisk kirurgi",
@@ -2627,6 +7512,786 @@
         {
           "t": "h2",
           "text": "Pediatrisk luftvei"
+        },
+        {
+          "t": "h3",
+          "text": "Stridor hos barn"
+        },
+        {
+          "t": "p",
+          "text": "Stridor er en høyfrekvent lyd som oftest høres i inspiriet.",
+          "runs": [
+            {
+              "text": "Stridor er en høyfrekvent lyd som oftest høres i inspiriet. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Klassifisering",
+          "runs": [
+            {
+              "text": "Klassifisering",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Inspiratorisk, ved dynamisk ekstrathorakal obstruksjon av luftveier (laryngomalaci)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Inspiratorisk, ved dynamisk ekstrathorakal obstruksjon av luftveier (laryngomalaci)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Ekspiratorisjon, ved intrathorakal obstruksjon (mediastinal tumor eller tracheomalasi)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Ekspiratorisjon, ved intrathorakal obstruksjon (mediastinal tumor eller tracheomalasi) ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Bifasisk, ved fiksert obstruksjon (subglottisk stenose)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Bifasisk, ved fiksert obstruksjon (subglottisk stenose) ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Anamnese",
+          "runs": [
+            {
+              "text": "Anamnese ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Akutt/Kronisk?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Akutt/Kronisk? ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Intermitterende? Ved gråt, oppkavet/stress, trening?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Intermitterende? Ved gråt, oppkavet/stress, trening?  ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Observasjoner",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Observasjoner",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Respirasjonsbesvær? Takypnø? Hoste? Heshet?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Respirasjonsbesvær? Takypnø? Hoste? Heshet? ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Inndragninger? Bruk av hjelpemuskulatur?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Inndragninger? Bruk av hjelpemuskulatur? ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Hudfarge? Sliming?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Hudfarge? Sliming? ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Failure to thrive? Mistrives barnet? Følger det vekstkurven sin?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Failure to thrive? Mistrives barnet? ",
+              "bold": false
+            },
+            {
+              "text": "Følger det vekstkurven sin? ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Matinntak og amming?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Matinntak og amming?",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Søvn?",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Søvn? ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Undersøkelse",
+          "runs": [
+            {
+              "text": "Undersøkelse ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Fleksibel skopi med videoopptak",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Fleksibel skopi med videoopptak ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Årsaker til stridor",
+          "runs": [
+            {
+              "text": "Årsaker til stridor ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "table",
+          "headers": [
+            "Akutt ",
+            "Gradvis innsettende",
+            "Kronisk"
+          ],
+          "rows": [
+            [
+              "Fremmedlegeme\nAnafylaksi\nEpiglottitt\nBakteriell trakeitt \nTermisk/etseskade ",
+              "Falsk krupp/akutt laryngitt\nRetrofaryngeal abscess \nPeritonsillær abscess",
+              "Medfødt\nLaryngomalasi \nTracheobronkomalasi\nBilateral stemmebåndparese \nVaskulær ring \nCyster/celer \nLarynxmalformasjoner\nLarynxhemangiomer \nSubglottisk stenose\n\nErvervet\nEILO\nRespiratorisk papillomatose/PRP\nStemmebåndspareser \nSubglottisk stenose \nTumor"
+            ]
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Laryngomalasi"
+        },
+        {
+          "t": "p",
+          "text": "Kollaps av supraglottiske strukturer inn i glottisløpet under inspirasjon som gir intermitterende luftveismotstand og stridor.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Kollaps av supraglottiske strukturer ",
+              "bold": false
+            },
+            {
+              "text": "inn i glottisløpet ",
+              "bold": false
+            },
+            {
+              "text": "under inspirasjon som gir intermitterende luftveismotstan",
+              "bold": false
+            },
+            {
+              "text": "d",
+              "bold": false
+            },
+            {
+              "text": " og stridor. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Vanligste årsak til stridor hos nyfødte.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Vanligste årsak til stridor hos nyfødte. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Symptomstart hos nyfødte, symptomtopp 4-8 mnd., bedring ved 12-18 mnd. alder.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Symptomstart hos nyfødte, symptomtopp 4-8 mnd., bedring ved 12-18 mnd. alder. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tegn",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Tegn ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Høyfrekvent stridor",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Høyfrekvent stridor",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Snorking/søvnapnø",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Snorking/søvnapnø",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Failure to thrive. Ernæringsvansker, dårligere vekst.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Failure to thrive",
+              "bold": false
+            },
+            {
+              "text": ". Ernæringsvansker, dårligere vekst.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Apne",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Apne ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Cyanoseepisoder",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Cyanoseepisoder ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Trolig multifaktoriell etiologi med kombinasjon av nevrologiske, anatomiske og inflammatoriske årsaker som fører til redusert tonus i supraglottisk vev og støttemuskulatur.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Trolig multifaktoriell etiologi med kombinasjon av nevrologiske, anatomiske og inflammatoriske årsaker som fører til redusert tonus i supraglottisk vev og støttemuskulatur. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Gastroøsofagal reflux og laryngoesofagal reflux finnes hos de fleste pasienter med signifikant laryngomalasi, tenkes derfor å kunne bidra til laryngomalaci med inflammasjon (finnes hos 50-90% med klinisk signifikant laryngomalaci).",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Gastroøsofagal reflux og laryngoesofagal reflux finnes hos de fleste pasienter med signifikant laryngomalasi, tenkes derfor å kunne bidra til laryngomalaci med inflammasjon",
+              "bold": false
+            },
+            {
+              "text": " (finnes hos 50-90% med klinisk signifikant laryngomalaci).",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Klassifisering",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Klassifisering ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Type 1: Prolaps av mucosa over aryregion frem mot glottisspalte (30%)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Type 1: Prolaps av mucosa over aryregion frem mot glottisspalte",
+              "bold": false
+            },
+            {
+              "text": " (30%)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Type 2: Korte aryepiglottiske folder, gir omegaformet epiglottis. (40-50%)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Type 2: Korte aryepiglottiske folder",
+              "bold": false
+            },
+            {
+              "text": ", gir o",
+              "bold": false
+            },
+            {
+              "text": "megaformet epiglottis.",
+              "bold": false
+            },
+            {
+              "text": " ",
+              "bold": false
+            },
+            {
+              "text": "(40-50%)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Type 3: Epiglottis abnormal (10%)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Type ",
+              "bold": false
+            },
+            {
+              "text": "3",
+              "bold": false
+            },
+            {
+              "text": ": Epiglottis abnormal",
+              "bold": false
+            },
+            {
+              "text": " (10%)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Posteriort beliggende",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Posteriort beliggende ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Omegaformet/tubulær",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Omegaformet/tubulær",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Klassifisering av laryngomalaci",
+          "runs": [
+            {
+              "text": "Klassifisering av laryngomalaci",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "image",
+          "text": "Illustrasjon fra oppslagsverket: Laryngomalasi",
+          "url": "assets/larynx-oppslagsverk/image25.png"
+        },
+        {
+          "t": "p",
+          "text": "Gradering av laryngomalaci",
+          "runs": [
+            {
+              "text": "Gradering av laryngomalaci",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "table",
+          "headers": [
+            "Mild (40%)",
+            "Moderat (40%) ",
+            "Alvorlig (20%)"
+          ],
+          "rows": [
+            [
+              "Intermitterende stridor",
+              "Stridor og regurgitasjon/hoste under amming",
+              "Stridor, failure to thrive, spiseproblemer, aspirasjon, apnø\n"
+            ],
+            [
+              "Kontroll om 4-6 mnd., evt. ingen kontroll. ",
+              "Kontroll om 2 mnd. ",
+              "Vurdere kontroll 1-2 uker og henvisning til RH.\n"
+            ]
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Behandling",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Behandling ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Observasjon (mild og moderat). Vurdere oppstart med midler for gastroøsofagal refluks, f.eks. nexium i granulat i pose som blandes ut med vann. 0,7-0,8 mg/kg dose daglig. Kan brukes i 2-3 måneder før ny evaluering.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "O",
+              "bold": false
+            },
+            {
+              "text": "bservasjon (mild og moderat)",
+              "bold": false
+            },
+            {
+              "text": ". Vurdere oppstart med midler for gastroøsofagal refluks, f.eks. ",
+              "bold": false
+            },
+            {
+              "text": "n",
+              "bold": false
+            },
+            {
+              "text": "exium i granulat i pose som blandes ut med vann. 0,7-0,8 mg/kg dose daglig. Kan brukes i 2-3 måneder før ny evaluering.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Råd",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Råd",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tilrettelegging ved måltider",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Tilrettelegging ved måltider",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Mindre og hyppigere måltider",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Mindre og hyppigere måltider ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Oppreist stilling etter mating reduserer refluks",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Oppreist stilling etter mating reduserer refluks ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Sovestilling og ro. Lett hevet liggestilling, unngå å ligge helt flatt. Rolige omgivelser.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Sovestilling og ro.",
+              "bold": false
+            },
+            {
+              "text": " Lett hevet liggestilling",
+              "bold": false
+            },
+            {
+              "text": ", unngå å ligge helt flatt.",
+              "bold": false
+            },
+            {
+              "text": " ",
+              "bold": false
+            },
+            {
+              "text": "Rolige omgivelser. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Følge med på vektoppgang og utvikling.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Følge med på vektoppgang og utvikling. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Supraglottoplastikk (alvorlig).",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Supraglottoplastikk (alvorlig)",
+              "bold": false
+            },
+            {
+              "text": ".",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Endoskopisk laserkirurgi",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Endoskopisk laserkirurgi ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Løsne plica aryepiglotticka",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Løsne ",
+              "bold": false
+            },
+            {
+              "text": "p",
+              "bold": false
+            },
+            {
+              "text": "lica aryepiglotticka",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Epiglottopexi (hvis spaling av plica ikke løsner epiglottis)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Epiglottope",
+              "bold": false
+            },
+            {
+              "text": "xi",
+              "bold": false
+            },
+            {
+              "text": " (hvis spaling av plica ikke løsner epiglottis)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Emneoversikt for videre fordypning:"
         },
         {
           "t": "ul",
@@ -2660,6 +8325,643 @@
             "Blødning etter larynxkirurgi",
             "Akutt aspirasjon"
           ]
+        },
+        {
+          "t": "h2",
+          "text": "EILO"
+        },
+        {
+          "t": "h3",
+          "text": "Eilo (Exercise-induced laryngeal obstruction)"
+        },
+        {
+          "t": "p",
+          "text": "Definisjon: Anstrengelsesutløst fornevring i larynx. Strupen snevrer seg inn under hard fysisk aktivitet, som gir pustevansker spesielt ved innpust. Ungdom og unge vokse, 5-8% prevalens. Rammer ofte idrettutøvere.",
+          "runs": [
+            {
+              "text": "Definisjon",
+              "bold": false
+            },
+            {
+              "text": ": Anstrengelsesutløst fornevring i larynx. Strupen snevrer seg inn under hard fysisk aktivitet, som gir pustevansker spesielt ved innpust. ",
+              "bold": false
+            },
+            {
+              "text": "Ungdom og unge vokse, 5-8% prevalens. ",
+              "bold": false
+            },
+            {
+              "text": "Rammer ofte idrettutøvere. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Typiske symptomer",
+          "runs": [
+            {
+              "text": "Typiske symptomer",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Oppstår ved høy intensitet under trening og forsvinner raskt etter at treningen stoppes.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Oppstår ved høy intensitet under trening og forsvinner raskt etter at treningen stoppes. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tungpust ved anstrengelse",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Tungpust ved anstrengelse ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Inspiratorisk stridor",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Inspiratorisk stridor ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Følelse av tranghet i halsen",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Følelse av tranghet i halsen ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Klumpfølelse i halsen",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Klumpfølelse i halsen ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tørrhoste",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Tørrhoste ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Heshet",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Heshet ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Vansker med å svelge spytt",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Vansker med å svelge spytt ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Kommer under maksimal belastning, ikke flere minutter etter trening.",
+          "runs": [
+            {
+              "text": "Kommer under maksimal belastning, ikke flere minutter etter trening",
+              "bold": false
+            },
+            {
+              "text": ". ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Forskjell på EILO og astma",
+          "runs": [
+            {
+              "text": "Forskjell på EILO og astma ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "table",
+          "headers": [
+            "Eilo",
+            "Astma/treningsutløst bronkokonstriksjon"
+          ],
+          "rows": [
+            [
+              "Oppstår ved maksimal belastning",
+              "Oppstår ofte etter trening "
+            ],
+            [
+              "Forbedres raskt når man stopper ",
+              "Kan vare 10-30 min eller mer "
+            ],
+            [
+              "Inspiratorisk stridor ",
+              "Ekspiratorisk piping "
+            ],
+            [
+              "Effekt av inhalator er liten ",
+              "Bedres av inhalator"
+            ],
+            [
+              "Mange pasienter har ofte astma og eilo samtidig. "
+            ]
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Utredning",
+          "runs": [
+            {
+              "text": "Utredning ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Spirometri (utelukker annen lungesykdom)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Spirometri (utelukker annen lungesykdom)",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Evt. Astmatesting (metakolin-, mannitol- eller belastningstest)",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Evt. Astmatesting (metakolin-, mannitol- eller belastningstest) ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Gullstandard er kontinuerlig laryngoskopi under trening (CLE-test). Strupehodet observeres kontinuerlig mens symptomene oppstår. Kan henvises til lungeavdelingen evt. barneavdelingen på Ahus for å få dette gjort.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Gullstandard er kontinuerlig laryngoskopi under trening (CLE-test). Strupehodet observeres kontinuerlig mens symptomene oppstår.",
+              "bold": false
+            },
+            {
+              "text": " Kan henvises til lungeavdelingen evt. barneavdelingen på Ahus for å få dette gjort. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Behandling",
+          "runs": [
+            {
+              "text": "Behandling ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Tale- og pusteterapi (førstevalg). Veiledning hos logoped der man lærer pusteteknikker, redusere spenning i hals og strupe og kontroll av symptomene under trening.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Tale- og pusteterapi (førstevalg). Veiledning hos logoped der man lærer pusteteknikker, redusere spenning i hals og strupe og kontroll av symptomene under trening. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Terapeutisk laryngoskopi under trening. Pasienter som ikke blir bra av vanlig terapi. Pasienten trener og ser strupehodet på skjerm og lærer å kontrollere larynx i sanntid.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Terapeutisk laryngoskopi under trening. Pasienter som ikke blir bra av vanlig terapi. Pasienten trener og ser strupehodet på skjerm og lærer å kontrollere larynx i sanntid.",
+              "bold": false
+            },
+            {
+              "text": " ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Kirurgi (supraglottoplastikk), kun hos et fåtall pasienter med; supraglottisk kollaps, vedvarende symptomer, manglende effekt av konservativ behandling.",
+          "runs": [
+            {
+              "text": "• "
+            },
+            {
+              "text": "Kirurgi (supraglottoplastikk), kun hos et fåtall pasienter med; supraglottisk kollaps, vedvarende symptomer, manglende effekt av konservativ behandling. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Fagressurser og kilder"
+        },
+        {
+          "t": "h3",
+          "text": "Nettressurs fra Rikshospitalet"
+        },
+        {
+          "t": "p",
+          "text": "ØNH Kirurgisk video plattform",
+          "runs": [
+            {
+              "text": "ØNH Kirurgisk video plattform",
+              "url": "https://www.xn--nh-kka.com/"
+            }
+          ]
+        },
+        {
+          "t": "h3",
+          "text": "Kilder"
+        },
+        {
+          "t": "p",
+          "text": "Larynx Muscle - an overview | ScienceDirect Topics",
+          "runs": [
+            {
+              "text": "Larynx Muscle - an overview | ScienceDirect Topics",
+              "url": "https://www.sciencedirect.com/topics/medicine-and-dentistry/larynx-muscle"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Surgical anatomy of the tracheobronchial tree - Drevet - Journal of Thoracic Disease",
+          "runs": [
+            {
+              "text": "Surgical anatomy of the tracheobronchial tree - Drevet - Journal of Thoracic Disease",
+              "url": "https://jtd.amegroups.org/article/view/6635/6351"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Approach to the evaluation of dysphagia in adults - UpToDate",
+          "runs": [
+            {
+              "text": "Approach to the evaluation of dysphagia in adults - UpToDate",
+              "url": "https://www.uptodate.com/contents/approach-to-the-evaluation-of-dysphagia-in-adults?search=dysphagia&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1&searchCorrelationId=595a1689-66d5-45d6-bd00-ff75f5f5c432&searchCorrelationTerm=dysphagia"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "eHåndbok - Fleksibel endoskopisk evaluering av svelgefunksjon (FEES)",
+          "runs": [
+            {
+              "text": "eHåndbok - Fleksibel endoskopisk evaluering av svelgefunksjon (FEES)",
+              "url": "https://ehandboken.ous-hf.no/document/145035"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "eHåndbok - Dysfagiundersøkelse",
+          "runs": [
+            {
+              "text": "eHåndbok - Dysfagiundersøkelse",
+              "url": "https://ehandboken.ous-hf.no/document/19457"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Hoarseness in adults - UpToDate",
+          "runs": [
+            {
+              "text": "Hoarseness in adults - UpToDate",
+              "url": "https://www.uptodate.com/contents/hoarseness-in-adults?search=hoarseness%20in%20adults&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1&searchCorrelationId=51544d9d-716e-428c-a5a3-92be43774b42&searchCorrelationTerm=hoarseness%20in%20adults"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Diagnosis of vocal cord leukoplakia: The role of a novel narrow band imaging endoscopic classification - Ni - 2019 - The Laryngoscope - Wiley Online Library",
+          "runs": [
+            {
+              "text": "Diagnosis of vocal cord leukoplakia: The role of a novel narrow band imaging endoscopic classification - Ni - 2019 - The Laryngoscope - Wiley Online Library",
+              "url": "https://onlinelibrary.wiley.com/doi/full/10.1002/lary.27346"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Boesen (21.11.2024). Benigne tilstanser i larynx (powerpoint). Nasjonal undervisning.",
+          "runs": [
+            {
+              "text": "Boesen",
+              "bold": false
+            },
+            {
+              "text": " (21.11.2024). Benigne tilstanser i larynx (powerpoint). Nasjonal undervisning. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Boesen (28.11.2024). Premaligne og maligne tilstander i larynx. Nasjonal undervisning.",
+          "runs": [
+            {
+              "text": "Boesen (28.11.2024). Premaligne og maligne tilstander i larynx. ",
+              "bold": false
+            },
+            {
+              "text": "Nasjonal undervisning.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Pseudocyst | Sean Parker Institute for the Voice",
+          "runs": [
+            {
+              "text": "Pseudocyst | Sean Parker Institute for the Voice",
+              "url": "https://voice.weill.cornell.edu/voice-disorders/pseudocyst"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Bilateral sulcus vocalis of vocal folds (pointed by the arrow marks).   | Download Scientific Diagram",
+          "runs": [
+            {
+              "text": "Bilateral sulcus vocalis of vocal folds (pointed by the arrow marks).   | Download Scientific Diagram",
+              "url": "https://www.researchgate.net/figure/Bilateral-sulcus-vocalis-of-vocal-folds-pointed-by-the-arrow-marks_fig1_311248185"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Vocal Fold Scar and Sulcus Deformities of the Vocal Fold | Springer Nature Link",
+          "runs": [
+            {
+              "text": "Vocal Fold Scar and Sulcus Deformities of the Vocal Fold | Springer Nature Link",
+              "url": "https://link.springer.com/chapter/10.1007/978-3-031-34354-4_25"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Hesstvedt (31.08.2022). Stridor hos barn. Internundervisning.",
+          "runs": [
+            {
+              "text": "Hesstvedt (31.08.2022). Stridor hos barn. Internundervisning. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Assessment of stridor in children - UpToDate",
+          "runs": [
+            {
+              "text": "Assessment of stridor in children - UpToDate",
+              "url": "https://www.uptodate.com/contents/assessment-of-stridor-in-children?search=stridor%20children&source=search_result&selectedTitle=1~150&usage_type=default&display_rank=1&searchCorrelationId=516bf6c9-2df8-40c9-a7b1-b62b68307907&searchCorrelationTerm=stridor%20children"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Congenital laryngomalacia - UpToDate",
+          "runs": [
+            {
+              "text": "Congenital laryngomalacia - UpToDate",
+              "url": "https://www.uptodate.com/contents/congenital-laryngomalacia?search=laryngomalacia&source=search_result&selectedTitle=1~27&usage_type=default&display_rank=1&searchCorrelationId=066021f7-c046-4bdf-bc21-f28d4f4f899d&searchCorrelationTerm=laryngomalacia"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Congenital anomalies of the larynx - UpToDate",
+          "runs": [
+            {
+              "text": "Congenital anomalies of the larynx - UpToDate",
+              "url": "https://www.uptodate.com/contents/congenital-anomalies-of-the-larynx?search=subglottic%20stenosis%20children&source=search_result&selectedTitle=2~68&usage_type=default&display_rank=2&searchCorrelationId=08ba78c6-7697-4bb9-a2b7-ecd15753b097&searchCorrelationTerm=subglottic%20stenosis%20children"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Frontiers | Endoscopic Preoperative Assessment, Classification of Stenosis, Decision-Making",
+          "runs": [
+            {
+              "text": "Frontiers | Endoscopic Preoperative Assessment, Classification of Stenosis, Decision-Making",
+              "url": "https://www.frontiersin.org/journals/pediatrics/articles/10.3389/fped.2019.00532/full"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Common causes of hoarseness in children - UpToDate",
+          "runs": [
+            {
+              "text": "Common causes of hoarseness in children - UpToDate",
+              "url": "https://www.uptodate.com/contents/common-causes-of-hoarseness-in-children?search=laryngeal%20papillomatosis&source=search_result&selectedTitle=2~150&usage_type=default&display_rank=2&searchCorrelationId=3fe0346c-da4c-4bfc-a09b-bf6b8d16bef7&searchCorrelationTerm=laryngeal%20papillomatosis"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Endoskopisk injeksjon av botulinumtoksin i stemmebånd, poliklinisk behandling, Lovisenberg diakonale sykehus, 20.02.2024",
+          "runs": [
+            {
+              "text": "Endoskopisk injeksjon av botulinumtoksin i stemmebånd, ",
+              "bold": false
+            },
+            {
+              "text": "poliklinisk behandling, ",
+              "bold": false
+            },
+            {
+              "text": "Lovisenberg diakonale sykehus, 20.02.2024 ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Endoskopisk injeksjon av hyaluronsyre i stemmebånd, poliklinisk behandling, Lovisenberg diakonale sykehus, 20.02.2024",
+          "runs": [
+            {
+              "text": "Endoskopisk injeksjon av hyaluronsyre i stemmebånd, poliklinisk behandling",
+              "bold": false
+            },
+            {
+              "text": ", Lovisenberg diakonale sykehus, 20.02.2024",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Hesstvedt (13.10.2023). Mikrolaryngoskopi, tonsillektomi og adenotomi. Fagdag DKA.",
+          "runs": [
+            {
+              "text": "Hesstvedt (13.10.2023). Mikrolaryngoskopi, tonsillektomi og adenotomi. ",
+              "bold": false
+            },
+            {
+              "text": "Fagdag DKA.",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Hesstvedt (19.04.2023). Tracheotomi + litt larynxinfo. Internundervisning.",
+          "runs": [
+            {
+              "text": "Hesstvedt (19.04.2023). Tracheotomi + litt larynxinfo. Internundervisning. ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Dokument «ANE - Akuttsituasjoner - Nød Cricothyroidotomi», ID 35065 - EQS",
+          "runs": [
+            {
+              "text": "Dokument «ANE - Akuttsituasjoner - Nød Cricothyroidotomi», ID 35065 - EQS",
+              "url": "https://eqs-ahus.ad.ahus.no/cgi-bin/document.pl?pid=ahus&DocumentID=35065"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Dokument «ANE - Akuttsituasjoner - Vanskelig luftvei (Gul og rød luftvei) Nordbyhagen», ID 1721 - EQS",
+          "runs": [
+            {
+              "text": "Dokument «ANE - Akuttsituasjoner - Vanskelig luftvei (Gul og rød luftvei) Nordbyhagen», ID 1721 - EQS",
+              "url": "https://eqs-ahus.ad.ahus.no/cgi-bin/document.pl?pid=ahus&DocumentID=1721"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "eHåndbok - Kirurgisk trakeostomi",
+          "runs": [
+            {
+              "text": "eHåndbok - Kirurgisk trakeostomi",
+              "url": "https://ehandboken.ous-hf.no/document/96632"
+            },
+            {
+              "text": " ",
+              "bold": false
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Modul 2: Kanyler | Helsekompetanse",
+          "runs": [
+            {
+              "text": "Modul 2: Kanyler | Helsekompetanse",
+              "url": "https://helsekompetanse.no/mod/book/view.php?id=5682&chapterid=3776"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "eHåndbok - Tracheostomi-taleventil og innerkanyle, stell og bruk til intensivpasienten (PO/INT) - voksne",
+          "runs": [
+            {
+              "text": "eHåndbok - Tracheostomi-taleventil og innerkanyle, stell og bruk til intensivpasienten (PO/INT) - voksne",
+              "url": "https://ehandboken.ous-hf.no/document/42188"
+            }
+          ]
+        },
+        {
+          "t": "p",
+          "text": "Exercise-induced laryngeal obstruction - UpToDate",
+          "runs": [
+            {
+              "text": "Exercise-induced laryngeal obstruction - UpToDate",
+              "url": "https://www.uptodate.com/contents/exercise-induced-laryngeal-obstruction?search=eilo&source=search_result&selectedTitle=1~8&usage_type=default&display_rank=1&searchCorrelationId=d0cb95ff-7eb6-491a-9ebf-fc6607e1da79&searchCorrelationTerm=eilo"
+            }
+          ]
+        },
+        {
+          "t": "link",
+          "text": "Last ned originalt Larynx oppslagsverk (Word)",
+          "url": "documents/larynx-oppslagsverk.docx"
         }
       ],
       "scope": "national"
