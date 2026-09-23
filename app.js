@@ -134,8 +134,30 @@ function renderNodes(nodes, sectionSelect){
       return;
     }
     if(n.t === 'p'){
+      if(n.runs){
+        const paragraph = el('p');
+        n.runs.forEach(run => {
+          let child = document.createTextNode(run.text || '');
+          if(run.bold) child = el('strong',{},child);
+          if(run.url && /^https?:\/\//i.test(run.url)) child = el('a',{href:run.url},child);
+          paragraph.appendChild(child);
+        });
+        frag.appendChild(paragraph);
+        return;
+      }
       const text = (n.text||'');
-      frag.appendChild(el('p', {}, text));
+      const paragraph = el('p');
+      const phrases = (n.strong || []).filter(s => typeof s === 'string' && s.length);
+      let rest = text;
+      while(rest){
+        const matches = phrases.map(s => ({s, i:rest.indexOf(s)})).filter(m => m.i >= 0).sort((a,b) => a.i-b.i);
+        if(!matches.length){ paragraph.appendChild(document.createTextNode(rest)); break; }
+        const {s,i} = matches[0];
+        paragraph.appendChild(document.createTextNode(rest.slice(0,i)));
+        paragraph.appendChild(el('strong',{},s));
+        rest = rest.slice(i+s.length);
+      }
+      frag.appendChild(paragraph);
       return;
     }
     if(n.t === 'ul' || n.t === 'ol'){
@@ -145,6 +167,16 @@ function renderNodes(nodes, sectionSelect){
       return;
     }
 
+    if(n.t === 'image'){
+      frag.appendChild(el('figure',{},el('img',{src:n.url,alt:n.text || '',loading:'lazy',style:'max-width:100%;height:auto'})));
+      return;
+    }
+    if(n.t === 'audio'){
+      const player = el('audio',{controls:'',preload:'none','aria-label':n.text || 'Lydopptak',style:'width:100%'});
+      player.appendChild(el('source',{src:n.url,type:'audio/mp4'}));
+      frag.appendChild(el('figure',{},[el('figcaption',{},n.text || 'Lydopptak'),player,el('a',{href:n.url,download:''},'Last ned lydopptaket')]));
+      return;
+    }
     if(n.t === 'embed'){
       const wrap = el('div', { class: 'embed' }, []);
       const iframe = el('iframe', {
