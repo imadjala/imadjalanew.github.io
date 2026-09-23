@@ -2313,7 +2313,7 @@
         },
         {
           "t": "p",
-          "text": "Felles fagoversikt med opplæringsinnhold fordelt under de relevante emnene. LIS-læringsmålene er gjengitt fra innsendt plan og er ikke kontrollert mot gjeldende nasjonale mål."
+          "text": "Fagoversikt under utvikling. Her er temaene samlet for videre arbeid; kliniske artikler legges til fortløpende."
         },
         {
           "t": "h2",
@@ -2404,30 +2404,6 @@
           ]
         },
         {
-          "t": "h3",
-          "text": "Systemisk farmakologisk behandling – ØNH 034"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Selvstendig kunne gi systemisk farmakologisk behandling mot tilstander i larynx og trachea."
-        },
-        {
-          "t": "h3",
-          "text": "Inhalasjonsterapi – ØNH 033"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Selvstendig kunne gi inhalasjonsterapi."
-        },
-        {
           "t": "h2",
           "text": "Akutt luftvei"
         },
@@ -2445,38 +2421,6 @@
             "Postoperativ luftveisobstruksjon",
             "Angioødem"
           ]
-        },
-        {
-          "t": "h3",
-          "text": "Endotracheal intubasjon (P) – ØNH 037"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Selvstendig kunne utføre endotracheal intubasjon, inklusive fleksibel prosedyre."
-        },
-        {
-          "t": "h3",
-          "text": "Fjerne fremmedlegemer – ØNH 036"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Selvstendig kunne fjerne fremmedlegemer i larynx, trachea og bronkier."
-        },
-        {
-          "t": "h3",
-          "text": "Praktisk opplæring i intubasjon"
-        },
-        {
-          "t": "p",
-          "text": "Prioriter å lære intubasjon, både med og uten cmac, samt få med så mange våken nasal/oralintubasjoner som mulig. Avtal med anestesi en hospiteringsdag, eller snakk med anestesi som jobber på den operasjonsstuen du har, slik at du kan intubere dine operasjonspasienter den dagen"
         },
         {
           "t": "h2",
@@ -2498,38 +2442,6 @@
           ]
         },
         {
-          "t": "h3",
-          "text": "Tracheostoma og laryngostoma – ØNH 045"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Selvstendig kunne håndtere tracheostoma og laryngostoma, inklusivt bytte av tracheostomikanyle og taleventil."
-        },
-        {
-          "t": "h3",
-          "text": "Tracheostomi (P) – ØNH 038"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Selvstendig kunne utføre tracheostomi (åpen og perkutan)."
-        },
-        {
-          "t": "h3",
-          "text": "Praktisk opplæring i trakeostomi"
-        },
-        {
-          "t": "p",
-          "text": "Prioriter å være med på kirurgisk tracheotomi hvis du har mulighet. Forhør deg gjerne med anestesi om mulighet til å være med på perkutan trach i regi av anestesi"
-        },
-        {
           "t": "h2",
           "text": "Nødluftvei"
         },
@@ -2543,18 +2455,6 @@
             "Forberedelse av nødluftvei",
             "Komplikasjoner ved nødluftvei"
           ]
-        },
-        {
-          "t": "h3",
-          "text": "Coniotomi – ØNH 039"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Selvstendig kunne utføre coniotomi."
         },
         {
           "t": "h2",
@@ -2587,18 +2487,6 @@
             "Intubasjonsskade",
             "Laryngeal arrdannelse"
           ]
-        },
-        {
-          "t": "h3",
-          "text": "Laryngotracheale stenoser, tracheoøsofageale fistler og rekonstruktiv kirurgi – ØNH 046"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Ha god kunnskap om reparasjon av laryngotracheale stenoser, tracheoøsofageale fistler og rekonstruktiv kirurgi av trachea og øsofagus."
         },
         {
           "t": "h2",
@@ -2635,18 +2523,6 @@
           ]
         },
         {
-          "t": "h3",
-          "text": "Laryngektomi - logopedisk behandling – ØNH 035"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Ha god kunnskap om logopedisk behandling av stemmelidelser og stemmerehabilitering etter laryngektomi."
-        },
-        {
           "t": "h2",
           "text": "Undersøkelser"
         },
@@ -2662,102 +2538,6 @@
             "Stemmeanalyse",
             "Laryngeal EMG"
           ]
-        },
-        {
-          "t": "h3",
-          "text": "Ultralyd, røntgen, CT og MR – ØNH 031"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Selvstendig kunne utføre ultralyd og tolke røntgen, CT og MR av larynx og trachea."
-        },
-        {
-          "t": "h3",
-          "text": "Elektromyografi av larynx – ØNH 030"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Ha kjennskap til elektromyografi av larynx."
-        },
-        {
-          "t": "h3",
-          "text": "Bronkoalveolar lavage, cytologisk og mikrobiologisk prøve – ØNH 027"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Under supervisjon kunne utføre bronkoalveolar lavage, cytologisk og mikrobiologisk prøve."
-        },
-        {
-          "t": "h3",
-          "text": "Spirometri – ØNH 026"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Selvstendig kunne tolke spirometri."
-        },
-        {
-          "t": "h3",
-          "text": "Tracheo-bronkoskopi (P) – ØNH 025"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Selvstendig kunne utføre tracheo-bronkoskopi (stivt og fleksibelt)."
-        },
-        {
-          "t": "h3",
-          "text": "Stroboskopi – ØNH 023"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Selvstendig kunne utføre stroboskopi."
-        },
-        {
-          "t": "h3",
-          "text": "Indirekte – transnasal fleksibel – lupe laryngoskopi – ØNH 022"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Selvstendig kunne utføre indirekte – transnasal fleksibel – lupe laryngoskopi."
-        },
-        {
-          "t": "h3",
-          "text": "Opplæring i fleksibel skopi og stroboskopi"
-        },
-        {
-          "t": "p",
-          "text": "Take-home message: bedøv godt i nese og svelg ved behov, husk at sykepleier kan gi forstøver med bedøvelse i forkant hvis pas. brekker seg lett eller du trenger å se subglottisk. Ikke gi deg før du har sett godt nok til å gjøre en god vurdering! \nNB! Gå nærme nok stemmbånd!"
-        },
-        {
-          "t": "p",
-          "text": "NBI er narrow band imaging og vil gi deg informasjon om vaskulært mønster i slimhinnen"
         },
         {
           "t": "h2",
@@ -2776,62 +2556,6 @@
             "Endoskopisk behandling av lesjoner",
             "Dilatasjon av stenose"
           ]
-        },
-        {
-          "t": "h3",
-          "text": "Mikrolaryngoskopisk biopsi – ØNH 040"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Selvstendig kunne utføre mikrolaryngoskopisk biopsi."
-        },
-        {
-          "t": "h3",
-          "text": "Medikamenter i larynx – ØNH 032"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Ha kunnskap om og under supervisjon kunne applisere medikamenter i larynx."
-        },
-        {
-          "t": "h3",
-          "text": "Biopsier – ØNH 028"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Selvstendig kunne utføre endolaryngeale, endotracheale og endobronkiale biopsier."
-        },
-        {
-          "t": "h3",
-          "text": "Mikrolaryngoskopi og direkte laryngoskopi (P) – ØNH 024"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Selvstendig kunne utføre mikrolaryngoskopi og direkte laryngoskopi."
-        },
-        {
-          "t": "h3",
-          "text": "Opplæring i mikrolaryngoskopi"
-        },
-        {
-          "t": "p",
-          "text": "Viktig å forstå samarbeidet med anestesi, preoperativ planlegging før MLS, fokus på leiring og plassering av laryngoskop. Det er viktig å investere tid for å få godt innsyn til larynx under MLS-prosedyren."
         },
         {
           "t": "h2",
@@ -2853,42 +2577,6 @@
           ]
         },
         {
-          "t": "h3",
-          "text": "Laryngektomi – ØNH 044"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Ha god kunnskap om laryngektomi."
-        },
-        {
-          "t": "h3",
-          "text": "Malformasjoner, skader og svulster – ØNH 043"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Ha god kunnskap om kirurgisk behandling av malformasjoner, skader og svulster."
-        },
-        {
-          "t": "h3",
-          "text": "Laserkirurgi, operasjon av stemmebånd og på nervus laryngeus – ØNH 041"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Ha god kunnskap om endolaryngeal og endotracheal laserkirurgi, operativ behandling av stemmebåndssykdom, operasjon på nervus laryngeus superior og inferior."
-        },
-        {
           "t": "h2",
           "text": "Pediatrisk luftvei"
         },
@@ -2905,18 +2593,6 @@
             "Trakeomalasi",
             "Stridor hos barn"
           ]
-        },
-        {
-          "t": "h3",
-          "text": "Luftveier hos nyfødte og barn – ØNH 042"
-        },
-        {
-          "t": "p",
-          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
-        },
-        {
-          "t": "p",
-          "text": "Ha god kunnskap om og selvstendig kunne håndtere luftveier hos nyfødte og barn."
         },
         {
           "t": "h2",
@@ -3908,70 +3584,454 @@
     },
     {
       "slug": "opplaeringsplan-lis-larynx",
-      "title": "Opplæring i laryngologi og luftvei",
-      "audience": "Nasjonalt · LIS og superviserende overleger",
-      "scope": "national",
+      "title": "Larynx – opplæring ved Ahus",
+      "audience": "Ahus · LIS og superviserende overleger",
+      "scope": "hospital",
       "roles": [
         "leger"
       ],
-      "description": "Opplæringsinnholdet er fordelt under de relevante fagtemaene.",
+      "description": "Læringsaktiviteter og praktisk opplæring ved larynx-seksjonen.",
       "nodes": [
         {
           "t": "p",
-          "text": "Opplæringen finner du under de enkelte emnene i Laryngologi og luftvei."
+          "text": "Seksjonsspesifikk opplæringsplan og læringsaktiviteter for LIS ved Ahus. Kildens innhold og rekkefølge er bevart."
+        },
+        {
+          "t": "p",
+          "text": "Dokumentet inneholder også lokale kontaktopplysninger og praktiske rammer. Disse er bevart som del av originalen. Revisjonsdato er ikke oppgitt."
         },
         {
           "t": "link",
-          "text": "Postintubasjon og stenoser",
-          "url": "laryngologi-og-luftvei.html#postintubasjon-og-stenoser"
+          "text": "Åpne original opplæringsplan (Word)",
+          "url": "documents/opplaeringsplan-lis-larynx.docx"
         },
         {
-          "t": "link",
-          "text": "Trakeostomi",
-          "url": "laryngologi-og-luftvei.html#trakeostomi"
+          "t": "h2",
+          "text": "Rotasjon på larynx-seksjonen"
         },
         {
-          "t": "link",
-          "text": "Kirurgi",
-          "url": "laryngologi-og-luftvei.html#kirurgi"
+          "t": "p",
+          "text": "Velkommen til fagseksjon larynx! \nDe neste 6 månedene ønsker vi å gi dere en god mulighet til å lære mer om laryngologi, inkl benigne og maligne lesjoner. Vi vil ha sporadiske seksjonsmøter siden seksjonen er så liten, men bare kom og spør!\nVed oppstart på seksjonen gjør vi en praktisk gjennomgang av skopi-utstyr, dine ønsker og målsetninger for seksjonsrotasjonen og gjennomgang av Dossier med læringsmål/aktiviteter (se under). \n\nDet tilstrebes at du får egen poliklinikk på dag overlege har administrasjon. Dette vil gjøre at Olympusskop er lettere tilgjengelig for deg å bruke og opptaket kan vi diskutere sammen."
         },
         {
-          "t": "link",
-          "text": "Pediatrisk luftvei",
-          "url": "laryngologi-og-luftvei.html#pediatrisk-luftvei"
+          "t": "p",
+          "text": "Operasjonsaktiviteten er variabel og vi prøver å bygge opp en seksjon med økt aktivitet. LIS bør kunne være med som operasjonsassistent og trinnvis lære stegene i MLS. Husk at operasjonspasienter bør ha lagret skopivideo og evt og bilde preoperativt, kikk på disse før operasjonen, gjerne med overlege. Konferer med overlege før du setter opp til operasjon eller send gul lapp i DIPS."
         },
         {
-          "t": "link",
-          "text": "Laryngeale prosedyrer",
-          "url": "laryngologi-og-luftvei.html#laryngeale-prosedyrer"
+          "t": "p",
+          "text": "Gjør deg kjent med hvordan du henviser til logoped eksternt. Oversikt ligger i fellesmappe (larynxLogopedi)\nEILO-poliklinikk på lunge er interessant å være med på, kontakt meg eller Per Jønsson på lunge.\n\nSe nyttig brosjyre fra Olympus ang tips for skopi Laryngoscopy_Manual_Prof.-Hess_15937.pdf"
         },
         {
-          "t": "link",
-          "text": "Nødluftvei",
-          "url": "laryngologi-og-luftvei.html#ndluftvei"
+          "t": "p",
+          "text": "Det anbefales at du ser gjennom div. informasjon i mappen K:\\30 Kirurgisk divisjon\\306 (Øre-Nese-Hals)\\Larynx"
         },
         {
-          "t": "link",
-          "text": "Akutt luftvei",
-          "url": "laryngologi-og-luftvei.html#akutt-luftvei"
+          "t": "p",
+          "text": "Overlege: Lena Hesstvedt, Harald Hrubos-Strøm\nSykepleier poliklinikk: Liv/Maja\nSekretær: Bente"
         },
         {
-          "t": "link",
-          "text": "Foniatri",
-          "url": "laryngologi-og-luftvei.html#foniatri"
+          "t": "h2",
+          "text": "Anbefalte læringsaktiviteter"
         },
         {
-          "t": "link",
-          "text": "Laryngeal inflammasjon",
-          "url": "laryngologi-og-luftvei.html#laryngeal-inflammasjon"
+          "t": "h2",
+          "text": "MLS"
         },
         {
-          "t": "link",
-          "text": "Undersøkelser",
-          "url": "laryngologi-og-luftvei.html#underskelser"
+          "t": "p",
+          "text": "På Ahus bør du komme i gang med MLS, men sannsynligvis får du ikke gjennomført alle du trenger for å få godkjent læringsmålet. Du får vært med på mange mikrolaryngoskopier og panskopier på Rikshospitalet."
+        },
+        {
+          "t": "p",
+          "text": "Viktig å forstå samarbeidet med anestesi, preoperativ planlegging før MLS, fokus på leiring og plassering av laryngoskop. Det er viktig å investere tid for å få godt innsyn til larynx under MLS-prosedyren."
+        },
+        {
+          "t": "h2",
+          "text": "Trach:"
+        },
+        {
+          "t": "p",
+          "text": "Prioriter å være med på kirurgisk tracheotomi hvis du har mulighet. Forhør deg gjerne med anestesi om mulighet til å være med på perkutan trach i regi av anestesi"
+        },
+        {
+          "t": "h2",
+          "text": "Intubasjon:"
+        },
+        {
+          "t": "p",
+          "text": "Prioriter å lære intubasjon, både med og uten cmac, samt få med så mange våken nasal/oralintubasjoner som mulig. Avtal med anestesi en hospiteringsdag, eller snakk med anestesi som jobber på den operasjonsstuen du har, slik at du kan intubere dine operasjonspasienter den dagen"
+        },
+        {
+          "t": "h2",
+          "text": "Bronkoskopi:"
+        },
+        {
+          "t": "p",
+          "text": "Fleksibel bronskoskopi gjøres på lungeavdelingen og du kan hospitere der. Bronkoskopi-lista heter \"BRONK\" og inneholder alle planlagte bronkoskopier for dagen. B102 rom nr. 6 og 7.  Ved spørsmål om tid og sted kan dere gjerne ringe bronkoskopisykepleier på tlf 64147 eller vakthavende lungelege på 69640."
+        },
+        {
+          "t": "p",
+          "text": "Det er også vanlig å telle med hvis du tracheoskoperer /går ned i hovedbronkier ved skopi via trach. Du får også en del bronkoskopier under gruppe 1 på Rikshospitalet. Vi har ikke utstyr til stiv bronkoskopi her på AHUS."
+        },
+        {
+          "t": "h2",
+          "text": "Fleksibel skopi og stroboskopi:"
+        },
+        {
+          "t": "p",
+          "text": "Take-home message: bedøv godt i nese og svelg ved behov, husk at sykepleier kan gi forstøver med bedøvelse i forkant hvis pas. brekker seg lett eller du trenger å se subglottisk. Ikke gi deg før du har sett godt nok til å gjøre en god vurdering! \nNB! Gå nærme nok stemmbånd!"
+        },
+        {
+          "t": "p",
+          "text": "Vanlig fiberskop med lysledning til unit eller bærbar batterikilde"
+        },
+        {
+          "t": "p",
+          "text": "ingen opptaksmulighet, kan brukes ved for eksempel dysfagiutredning, ingen stemmepåvirkning eller cancer-mistanke."
+        },
+        {
+          "t": "p",
+          "text": "Ambu-skop med skjerm og engangsskop"
+        },
+        {
+          "t": "p",
+          "text": "bilder kan overføres til MTU-svar ved å eksportere"
+        },
+        {
+          "t": "p",
+          "text": "fin til tilsyn rundt om på huset"
+        },
+        {
+          "t": "p",
+          "text": "Olympus skop med rack"
+        },
+        {
+          "t": "p",
+          "text": "Chip on tip (2 voksenskop og 1 barneskop)"
+        },
+        {
+          "t": "p",
+          "text": "nCare lagringsenhet, slik at bilder og video blir liggende lokalt, mens kun bilder kan overføres til MTU-svar/compacs."
+        },
+        {
+          "t": "p",
+          "text": "Jeg gjør alltid vanlig laryngoskopi med hvitt lysNBI lysstroboskopi"
+        },
+        {
+          "t": "p",
+          "text": "NBI er narrow band imaging og vil gi deg informasjon om vaskulært mønster i slimhinnen"
+        },
+        {
+          "t": "p",
+          "text": "NBI-bok med masse fine bilder ligger oppå skopi-racket"
+        },
+        {
+          "t": "h2",
+          "text": "Kliniske læringsmål"
+        },
+        {
+          "t": "p",
+          "text": "Laryngotracheale stenoser, tracheoøsofageale fistler og rekonstruktiv kirurgi"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 046"
+        },
+        {
+          "t": "p",
+          "text": "Ha god kunnskap om reparasjon av laryngotracheale stenoser, tracheoøsofageale fistler og rekonstruktiv kirurgi av trachea og øsofagus."
+        },
+        {
+          "t": "p",
+          "text": "Tracheostoma og laryngostoma"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 045"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne håndtere tracheostoma og laryngostoma, inklusivt bytte av tracheostomikanyle og taleventil."
+        },
+        {
+          "t": "p",
+          "text": "Laryngektomi"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 044"
+        },
+        {
+          "t": "p",
+          "text": "Ha god kunnskap om laryngektomi."
+        },
+        {
+          "t": "p",
+          "text": "Malformasjoner, skader og svulster"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 043"
+        },
+        {
+          "t": "p",
+          "text": "Ha god kunnskap om kirurgisk behandling av malformasjoner, skader og svulster."
+        },
+        {
+          "t": "p",
+          "text": "Luftveier hos nyfødte og barn"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 042"
+        },
+        {
+          "t": "p",
+          "text": "Ha god kunnskap om og selvstendig kunne håndtere luftveier hos nyfødte og barn."
+        },
+        {
+          "t": "p",
+          "text": "Laserkirurgi, operasjon av stemmebånd og på nervus laryngeus"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 041"
+        },
+        {
+          "t": "p",
+          "text": "Ha god kunnskap om endolaryngeal og endotracheal laserkirurgi, operativ behandling av stemmebåndssykdom, operasjon på nervus laryngeus superior og inferior."
+        },
+        {
+          "t": "p",
+          "text": "Mikrolaryngoskopisk biopsi"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 040"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne utføre mikrolaryngoskopisk biopsi."
+        },
+        {
+          "t": "p",
+          "text": "Coniotomi"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 039"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne utføre coniotomi."
+        },
+        {
+          "t": "p",
+          "text": "Tracheostomi (P)"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 038"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne utføre tracheostomi (åpen og perkutan)."
+        },
+        {
+          "t": "p",
+          "text": "Endotracheal intubasjon (P)"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 037"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne utføre endotracheal intubasjon, inklusive fleksibel prosedyre."
+        },
+        {
+          "t": "p",
+          "text": "Fjerne fremmedlegemer"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 036"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne fjerne fremmedlegemer i larynx, trachea og bronkier."
+        },
+        {
+          "t": "p",
+          "text": "Laryngektomi - logopedisk behandling"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 035"
+        },
+        {
+          "t": "p",
+          "text": "Ha god kunnskap om logopedisk behandling av stemmelidelser og stemmerehabilitering etter laryngektomi."
+        },
+        {
+          "t": "p",
+          "text": "Systemisk farmakologisk behandling"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 034"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne gi systemisk farmakologisk behandling mot tilstander i larynx og trachea."
+        },
+        {
+          "t": "p",
+          "text": "Inhalasjonsterapi"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 033"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne gi inhalasjonsterapi."
+        },
+        {
+          "t": "p",
+          "text": "Medikamenter i larynx"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 032"
+        },
+        {
+          "t": "p",
+          "text": "Ha kunnskap om og under supervisjon kunne applisere medikamenter i larynx."
+        },
+        {
+          "t": "p",
+          "text": "Ultralyd, røntgen, CT og MR"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 031"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne utføre ultralyd og tolke røntgen, CT og MR av larynx og trachea."
+        },
+        {
+          "t": "p",
+          "text": "Elektromyografi av larynx"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 030"
+        },
+        {
+          "t": "p",
+          "text": "Ha kjennskap til elektromyografi av larynx."
+        },
+        {
+          "t": "p",
+          "text": "Risikofaktorer for utvikling av hørselstap - barn"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 029"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne identifisere nyfødte og eldre barn med risikofaktorer for utvikling av hørselstap, og kjenne til oppfølgings- og utredningsprosedyrene for denne pasientkategorien."
+        },
+        {
+          "t": "p",
+          "text": "Biopsier"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 028"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne utføre endolaryngeale, endotracheale og endobronkiale biopsier."
+        },
+        {
+          "t": "p",
+          "text": "Bronkoalveolar lavage, cytologisk og mikrobiologisk prøve"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 027"
+        },
+        {
+          "t": "p",
+          "text": "Under supervisjon kunne utføre bronkoalveolar lavage, cytologisk og mikrobiologisk prøve."
+        },
+        {
+          "t": "p",
+          "text": "Spirometri"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 026"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne tolke spirometri."
+        },
+        {
+          "t": "p",
+          "text": "Tracheo-bronkoskopi (P)"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 025"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne utføre tracheo-bronkoskopi (stivt og fleksibelt)."
+        },
+        {
+          "t": "p",
+          "text": "Mikrolaryngoskopi og direkte laryngoskopi (P)"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 024"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne utføre mikrolaryngoskopi og direkte laryngoskopi."
+        },
+        {
+          "t": "p",
+          "text": "Stroboskopi"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 023"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne utføre stroboskopi."
+        },
+        {
+          "t": "p",
+          "text": "Indirekte – transnasal fleksibel – lupe laryngoskopi"
+        },
+        {
+          "t": "p",
+          "text": "ØNH 022"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne utføre indirekte – transnasal fleksibel – lupe laryngoskopi."
         }
       ],
-      "sourceDocument": "Opplæringsplan_LIS_ larynx.docx"
+      "sourceDocument": "Opplæringsplan_LIS_ larynx.docx",
+      "hospitalId": "ahus"
     },
     {
       "slug": "kom-i-gang-leger",
@@ -4002,6 +4062,11 @@
           "t": "link",
           "text": "Første vakt – ultrakort",
           "url": "f-rste-vakt-ultrakort.html"
+        },
+        {
+          "t": "link",
+          "text": "Seksjonsspesifikk opplæring ved Ahus",
+          "url": "index.html#seksjonsopplaering"
         }
       ]
     },
@@ -4058,6 +4123,708 @@
           "t": "link",
           "text": "Mal for faddere",
           "url": "mal-for-faddere.html"
+        },
+        {
+          "t": "link",
+          "text": "Seksjonsspesifikk opplæring ved Ahus",
+          "url": "index.html#seksjonsopplaering"
+        },
+        {
+          "t": "link",
+          "text": "Mal for seksjonsintro",
+          "url": "ahus-seksjonsintro-mal.html"
+        }
+      ]
+    },
+    {
+      "slug": "ahus-sovn-introduksjon",
+      "title": "Søvn – introduksjon ved Ahus",
+      "audience": "Ahus · Leger",
+      "description": "Velkomstnotat for leger ved søvnseksjonen, med tillegg.",
+      "scope": "hospital",
+      "hospitalId": "ahus",
+      "roles": [
+        "leger"
+      ],
+      "sourceDocument": "Velkomstnotat lege søvn med tillegg Kristian.docx",
+      "nodes": [
+        {
+          "t": "p",
+          "text": "Velkomstnotat for leger ved søvnseksjonen, med tillegg."
+        },
+        {
+          "t": "p",
+          "text": "Lokalt dokument fra Ahus. Innholdet er gjengitt fra innsendt kilde; revisjonsdato er ikke oppgitt."
+        },
+        {
+          "t": "link",
+          "text": "Last ned originaldokumentet (Word)",
+          "url": "documents/ahus-sovn-introduksjon.docx"
+        },
+        {
+          "t": "p",
+          "text": "Velkommen som lege ved søvnseksjonen, Øre- Nese- Hals"
+        },
+        {
+          "t": "p",
+          "text": "Velkommen til søvnseksjonen!"
+        },
+        {
+          "t": "p",
+          "text": "Under finner du en oversikt over faste rutiner, driftsmessig infrastruktur, fagressurser samt kvalitetsregister og forskningsprosjekter."
+        },
+        {
+          "t": "h2",
+          "text": "Faste rutiner:"
+        },
+        {
+          "t": "p",
+          "text": "Seksjonsmøte fredager 7.30 i søvnseksjonens møterom (møtereferat K:\\30 Kirurgisk divisjon\\306 (Øre-Nese-Hals)\\30610 ØNH-søvnseksjonen\\Seksjonsmøtereferat og LIS opplæring)"
+        },
+        {
+          "t": "p",
+          "text": "Møtet varer til 8.30 med mindre program for sykehusets fredagsmøte tilsier at vi prioriterer dette."
+        },
+        {
+          "t": "p",
+          "text": "Ved visitt eller dagvakt kommer du til seksjonsmøtet (eller fredagsmøtet) etter avsluttet vaktrapport."
+        },
+        {
+          "t": "h2",
+          "text": "Forskning- og kvalitetsmøter onsdager:"
+        },
+        {
+          "t": "p",
+          "text": "Tverrfaglig søvnutvalg arrangeres siste onsdag i måneden mellom 11-12. Dybdemøte med fokus på fagutvikling."
+        },
+        {
+          "t": "p",
+          "text": "Ukentlig forsknings- og kvalitetsmøte onsdager 12-12.30 på møterommet ved søvnseksjonen."
+        },
+        {
+          "t": "h2",
+          "text": "Driftsmessig infrastruktur"
+        },
+        {
+          "t": "p",
+          "text": "Sykepleier Helene Bråthen er leder av seksjonen. Hun kan hjelpe deg med praktiske ting slik som informasjon om programvarene «Airview», «Dignio» og «Resscan» som benyttes ved seksjonen. Hun kan også hjelpe deg dersom du søker om tilgang i «BAT» til programvaren «Noxturnal» og ikke kommer videre: Bestilling - One Identity Manager (sykehuspartner.no). Programvaren kan åpnes fra alle sykehusmaskiner ved å søke «Nox» i Windows søkefelt. Velg versjon «AH 6.2» dersom du får flere treff. Det kan også være nyttig å se videoen: Noxturnal Software - Nox Medical"
+        },
+        {
+          "t": "h2",
+          "text": "DIPS lister:"
+        },
+        {
+          "t": "p",
+          "text": "Lsøvn er den primære legelista på søvn."
+        },
+        {
+          "t": "p",
+          "text": "Seksøvn er lista for pasienter som skal til en sekundærvurdering hos overlege (PS henvisningene på søvn er også merket «SEK søvn» = seksjon søvn, altså ikke det samme som Seksøvn liste."
+        },
+        {
+          "t": "p",
+          "text": "Sovnreg"
+        },
+        {
+          "t": "p",
+          "text": "CPAPP er lista til CPAP-poliklinikk"
+        },
+        {
+          "t": "p",
+          "text": "ST-inn er lista for søvnregistreringer med Nox T3."
+        },
+        {
+          "t": "h2",
+          "text": "Læringsmål i LIS-utdanningen nr 53: Søvnskåring"
+        },
+        {
+          "t": "p",
+          "text": "Det forventes kjennskap til programvaren «Noxturnal». Helt eksplisitt forventer jeg at LIS ved avsluttet rotasjon kan demonstrere åpning av programvaren «Noxturnal» og å gjøre rede for alle linjer av rådata under fanen «Respiratory»."
+        },
+        {
+          "t": "p",
+          "text": "Det forventes at LIS i rotasjon på søvn hospiterer hos sykepleier som skårer søvnregistreringen for å oppfylle læringsmålet."
+        },
+        {
+          "t": "h2",
+          "text": "Læringsmål 58 i LIS-utdanningen: CPAP-tilpasning, kontroll som grunnlag for fastleges attestering av symptomkontroll"
+        },
+        {
+          "t": "p",
+          "text": "Maske og maskin: Sykepleier må velge maske fra en liste vi får fra sykehusinnkjøp. Maskinene vi benytter bestemmes av anbud ca hvert 5. år, også ledet av sykehusinnkjøp."
+        },
+        {
+          "t": "p",
+          "text": "Dignio: Seksjonen benytter pasientinitierte kontroller ved hjelp av softwaret «Dignio»."
+        },
+        {
+          "t": "p",
+          "text": "Det forventes hospitering hos sykepleier som tilpasser CPAP-tilpasning for å oppfylle læringsmålet."
+        },
+        {
+          "t": "p",
+          "text": "Når det gjelder symptomkontroll mener jeg det er mest hensiktsmessig at fastlege som kjenner pasienten skriver attesten. Det forventes at du kan veilede fastlege i informasjon vi sender som grunnlag.  Sett deg inn i førerkortforskriftens helsekrav §24!"
+        },
+        {
+          "t": "h2",
+          "text": "Læringsmål 72 i LIS-utdanningen: Kirurgisk behandling av OSA"
+        },
+        {
+          "t": "p",
+          "text": "De vanligste søvnkirurgiske operasjonene er tonsillectomi eventuelt nesekirurgi med mål om bruk av nesemaske ved CPAP. Nesekirurgi alene reduserer ikke antall pustestopp."
+        },
+        {
+          "t": "p",
+          "text": "Seksjonen tilbyr også mer avansert utredning med «Drug Induced Sleep Endoscopy» og det anbefales å sette seg inn i alle elementer av prosedyren."
+        },
+        {
+          "t": "h2",
+          "text": "Øvrig læringsmål om kjennskap til behandling med søvnapnéskinner"
+        },
+        {
+          "t": "p",
+          "text": "Seksjonen har en tannlege ansatt en dag i uken (onsdager fra mars 2026). Vi krever at pasienter har forsøkt behandling med CPAP og de bør ha en AHI >15 (eventuelle unntak diskuteres med overlege ved seksjonen). Eventuelle forarbeider i tennene må dekkes av pasienten selv. Det henger et oppslag om det praktiske rundt dette på legekontoret."
+        },
+        {
+          "t": "p",
+          "text": "Da det ikke finnes et formelt læringsmål kreves ikke hospitering hos tannlegen, men det anbefales."
+        },
+        {
+          "t": "p",
+          "text": "Husk å alltid journalføre en vurdering av påtrengende søvnighet"
+        },
+        {
+          "t": "p",
+          "text": "Journalfør også ditt estimat for kollapsmønster i anterioposterior (AP)-plan eller lateralplan (se også på form av maxille, domeformet?). AP-kollaps er egnet for skinnebehandling, lateral kollaps kirurgi i oropharynx eller ekspansjon av maxille (ungdom). Kirurgi i nesen bør alltid vurderes ved nasal stenose på dagtid da dette er dokumentert effektivt for å øke behandlingsetterlevelse med CPAP og subjektiv søvnkvalitet (ikke objektiv)."
+        },
+        {
+          "t": "h2",
+          "text": "Fagressurser"
+        },
+        {
+          "t": "p",
+          "text": "Behandlingsvalg ved søvnapné - Akershus universitetssykehus HF: Pasientinformasjon egnet for samtale med helsepersonell utarbeidet i prosjektet «Innosleep»"
+        },
+        {
+          "t": "p",
+          "text": "www.sovno.no (Gjør deg godt kjent med denne ressursen og anmod pasienter om å ta søvntesten og diskutere resultatet med sin fastlege)."
+        },
+        {
+          "t": "p",
+          "text": "www.nevsom.no"
+        },
+        {
+          "t": "p",
+          "text": "www.shear.no (dessverre ikke tilgjengelig fra ahusmaskin)"
+        },
+        {
+          "t": "h2",
+          "text": "Kvalitetsregisteret"
+        },
+        {
+          "t": "p",
+          "text": "Pasienter som får tilpasset CPAP og pasienter som settes opp til sek. Søvn lista skal inviteres til deltakelse i kvalitetsregisteret. Det er utarbeidet et eget samtykkeskjema. Signerte skjema legges inntil videre i hyllen til Mirjam Mellema på søvnseksjonen."
+        },
+        {
+          "t": "h2",
+          "text": "RUTINER"
+        },
+        {
+          "t": "p",
+          "text": "Tenk deg om i forhold til ressursbruk."
+        },
+        {
+          "t": "p",
+          "text": "Det er ikke grunnlag for ny søvnregistrering med mindre det er gjort aktiv behandling som f eks kirurgi (ikke ved avtale om vektreduksjon)"
+        },
+        {
+          "t": "p",
+          "text": "Ikke overselg effekten av behandlingen."
+        },
+        {
+          "t": "p",
+          "text": "Ikke skrem pasienten! -Ingen blir kvalt av søvnapné (med mindre de bruker rusmidler) men det påvirker søvnkvaliteten."
+        },
+        {
+          "t": "p",
+          "text": "Nesekirurgi fjerner ikke søvnapne! (men kan bedre CPAP-adherence)"
+        },
+        {
+          "t": "p",
+          "text": "Mvh"
+        },
+        {
+          "t": "p",
+          "text": "Harald Hrubos-Strøm"
+        },
+        {
+          "t": "p",
+          "text": "Fagansvarlig seksjonsoverlege"
+        },
+        {
+          "t": "h2",
+          "text": "Modul 1: Velkommen – Vår kultur og filosofi"
+        },
+        {
+          "t": "p",
+          "text": "Velkommen til søvnseksjonen! Vi jobber tett sammen, og her får du ansvar tidlig, men aldri uten støtte. Vi ønsker å utfordre deg, og samtidig forventer vi at du setter deg inn i basisen og møter forberedt. Det er alltid lov å spørre. Vi gleder oss til å bli bedre kjent med deg."
+        },
+        {
+          "t": "h2",
+          "text": "Modul 2: Praktisk Infrastruktur og Møtearenaer"
+        },
+        {
+          "t": "p",
+          "text": "Før du starter med pasienter, må du ha kontroll på verktøyene og møtepunktene våre."
+        },
+        {
+          "t": "table",
+          "headers": [],
+          "rows": [
+            [
+              "Funksjon",
+              "Detaljer for Søvnseksjonen"
+            ],
+            [
+              "DIPS-lister",
+              "LSØVNAH (primær legeliste for søvn), SEKSØVNAH (liste for sekundærvurdering hos overlege), CPAPPAH (sykepleierliste for CPAP)"
+            ],
+            [
+              "Kritisk Programvare",
+              "Noxturnal (rådata søvnregistreringer), Dignio (data vedr pasientintitierte kontroller), Airview (CPAP apparat og behandlingsdata)"
+            ],
+            [
+              "Seksjonsmøtet",
+              "Obligatorisk deltakelse for case-diskusjon og undervisning fredager kl 07.30.  Tverrfaglig søvnutvalg arrangeres siste onsdag i måneden mellom kl 11-12. Dybdemøte med fokus på fagutvikling. Ukentlig forsknings- og kvalitetsmøte onsdager 12-12.30 på møterommet ved søvnseksjonen.\n\n"
+            ]
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Modul 3: Dine Læringsmål og Fokusområder (Progresjon)"
+        },
+        {
+          "t": "p",
+          "text": "Rotasjonen varer i 6 måneder. For at du skal oppnå nødvendig kompetanse, fokuserer vi på følgende læringsmål:"
+        },
+        {
+          "t": "p",
+          "text": "• Fokus de første ukene: Få en forståelse av forskjellige behandlingsmuligheter for OSAS. Førstelinje behandling vil alltid være CPAP. Videre kan medikamentell vektreduksjon, apneskinne, tonsillektomi, eller kirurgisk konka reduksjon / septumplastikk (bedring av cpap compliance) være aktuelt. Utvalgte pasienter ved Ahus tilbys også drug-induced-sleep-endoscopy (DISE) for anatomisk kartlegging og hos enkelte er ganeplastikk med «barbed wire» suturteknikk aktuelt."
+        },
+        {
+          "t": "p",
+          "text": "Sett deg inn i programvaren for rådata søvnregistrerning «Noxturnal». Sykepleier Helene Bråthen kan bistå med informasjon, praktiske utfordringer og søknad om tilgang i BAT via sykehuspartner.no. Programvaren kan åpnes fra alle sykehusmaskiner, men vil bruke tid på å laste inn søvndataene første gang man åpner programmet."
+        },
+        {
+          "t": "p",
+          "text": "Planlegg tid til hospitering hos sykepleier som skårer søvnregistringene og hos sykepleier som tilpasser CPAP maskinene."
+        },
+        {
+          "t": "p",
+          "text": "• Eksplisitte minstekrav (Læringsmål 53, 58 og 72):"
+        },
+        {
+          "t": "p",
+          "text": "Hva er OSAS, indikasjon og kunne tilpasse og kontrollere CPAP"
+        },
+        {
+          "t": "p",
+          "text": "Skåring av rådata søvnregistrering i «Noxturnal»"
+        },
+        {
+          "t": "p",
+          "text": "Forståelse av kirurgiske behandlings muligheter for OSAS (tonsillektomi, DISE)"
+        },
+        {
+          "t": "p",
+          "text": "Indikasjon og kjennskap til tilpasning og bruken av søvnapneskinner"
+        },
+        {
+          "t": "p",
+          "text": "• Krav til demonstrasjon: Det forventes at man kan demonstrere åpning av programvaren «Noxturnal» og gjøre rede for alle rådata under fanen «Respiratory»"
+        },
+        {
+          "t": "h2",
+          "text": "Modul 4: Den Kliniske Arbeidsflyten og Dokumentasjon"
+        },
+        {
+          "t": "p",
+          "text": "Slik gjennomfører vi standard pasientutredning på poliklinikken:"
+        },
+        {
+          "t": "p",
+          "text": "1. Arbeidsflyt: Journal med bakgrunnsinformasjon, resultatene etter gjennomført søvnregistrering og Epworth skåre hvis det foreligger. Klinisk ØNH-status må inkludere fremre rhinoskopi, cottle test, vurdering av tonsillestørrelse og ganebue. Speiling av hypopharynx for vurdering av AP og lateral diameter. Fleksibel laryngoskopi kan være aktuelt."
+        },
+        {
+          "t": "p",
+          "text": "2. Dokumentasjon: BMI. Grader funn etter Friedman gane og Friedman tonsille. Husk alltid å journalføre spesifikke funn eks. estimat for kollapsmønster i AP-plan (avstand tunge/tungetonsiller og bakre svelgvegg) og i lateral plan (tonsillestørrelse). Journalfør påtrengende søvnighet samt om det foreligger tretthet under bilkjøring. Bruk Baveno-klassifikasjon. Bruk spesifikke fraser i DIPS Arena. (Eks: frasen SØVN)."
+        },
+        {
+          "t": "h2",
+          "text": "Modul 5: Operasjonsforberedelser og Tverrfaglig Hospitering"
+        },
+        {
+          "t": "p",
+          "text": "• Før operasjon: Se alltid preoperativ skopivideo og bilder før inngrepet, og konferer med overlege i forkant."
+        },
+        {
+          "t": "p",
+          "text": "• Hospitering: Den første tiden bør du hospitere hos sykepleier for CPAP-tilpasning og for skåring av søvnregistreringer ved bruk av «Norxturnal»."
+        },
+        {
+          "t": "h2",
+          "text": "Modul 6: Kliniske \"Take-Home Messages\" og Selvstudium"
+        },
+        {
+          "t": "p",
+          "text": "• Tips 1: Bedøv alltid godt i nese og svelg før skopi – ikke gi deg før du har sett godt nok til å gjøre en vurdering!"
+        },
+        {
+          "t": "p",
+          "text": "• Tips 2: Tenk på ressursbruk, ikke grunnlag for ny søvnreg uten eks ny kirurgisk behandling. Pasienter må ha forsøkt CPAP og AHI > 15 før de evt kan få en apneskinne."
+        },
+        {
+          "t": "p",
+          "text": "• Tips 3 Ikke skrem pasienten! – Ingen blir kvalt av OSAS, men det påvirker søvnkvaliteten."
+        },
+        {
+          "t": "p",
+          "text": "• Tips 4 Husk eks at nesekirurgi alene ikke fjerner søvnapné, men bidrar til økt CPAP compliance hos pasienter med nasal stenose på dagtid."
+        },
+        {
+          "t": "p",
+          "text": "• Refleksjonsoppgave: For å forstå pasientens perspektiv, oppfordres du til å gå inn på (eks. sovno.no) og ta testen selv."
+        },
+        {
+          "t": "h2",
+          "text": "Modul 7: Kartoteket – Obligatorisk Kunnskapsgrunnlag"
+        },
+        {
+          "t": "p",
+          "text": "Du finner alle våre instrukser og faglige veiledere samlet på ett sted. Les deg opp på basiskunnskapen i mappen:"
+        },
+        {
+          "t": "p",
+          "text": "• Filsti: K:\\30 Kirurgisk divisjon\\306 (Øre-Nese-Hals)"
+        },
+        {
+          "t": "p",
+          "text": "• Obligatorisk lesning:"
+        },
+        {
+          "t": "p",
+          "text": "www.sovno.no"
+        },
+        {
+          "t": "p",
+          "text": "www.shear.no"
+        },
+        {
+          "t": "p",
+          "text": "www.nevsom.no"
+        }
+      ]
+    },
+    {
+      "slug": "ahus-nese-introduksjon",
+      "title": "Nese og bihuler – introduksjon ved Ahus",
+      "audience": "Ahus · Leger",
+      "description": "Introbrev for LIS ved rhino-allergiseksjonen.",
+      "scope": "hospital",
+      "hospitalId": "ahus",
+      "roles": [
+        "leger"
+      ],
+      "sourceDocument": "LIS Introbrev Nese.docx",
+      "nodes": [
+        {
+          "t": "p",
+          "text": "Introbrev for LIS ved rhino-allergiseksjonen."
+        },
+        {
+          "t": "p",
+          "text": "Lokalt dokument fra Ahus. Innholdet er gjengitt fra innsendt kilde; revisjonsdato er ikke oppgitt."
+        },
+        {
+          "t": "link",
+          "text": "Last ned originaldokumentet (Word)",
+          "url": "documents/ahus-nese-introduksjon.docx"
+        },
+        {
+          "t": "p",
+          "text": "Rhino-allergi seksjon\n\nIntrobrev LIS"
+        },
+        {
+          "t": "p",
+          "text": "Velkommen til seksjonen. De neste 6 måneder ønsker vi å gi dere muligheten til å bli flinkere med nese-bihule sykdommer. Vi ønsker å utfordre dere. Lær dere basisen først og møt forberedt da er det mye lettere for oss å gi kniven videre. Vi har ukentlige seksjonsmøter som det er ønskelig at dere er med på."
+        },
+        {
+          "t": "h2",
+          "text": "Lese anbefalinger:"
+        },
+        {
+          "t": "p",
+          "text": "I mappen «Instruksjoner ligger det dokumenter jeg anbefaler at du leser i løpe av tiden på seksjonen for å få mest ut av oppholdet.\n\n\"K:\\30 Kirurgisk divisjon\\306 (Øre-Nese-Hals)\\Rhinologi, traumatologi og allergologi seksjonen\\Instruksjoner"
+        },
+        {
+          "t": "p",
+          "text": "Mappen er inndelt i 1. basis kunnskap, 2. Operasjon og 3. Diverse annet. Her finner du blant annet Lyskryss septumplastikk, antibiotika ved nesekirurgi, EPOS2020 sammenfattning, Position Paper on the Anatomical Terminology of the Internal Nose og mere."
+        },
+        {
+          "t": "h2",
+          "text": "Allergi veiledere finner du her:"
+        },
+        {
+          "t": "p",
+          "text": "K:\\30 Kirurgisk divisjon\\306 (Øre-Nese-Hals)\\Rhinologi, traumatologi og allergologi seksjonen\\Allergologi\\Allergi veiledere"
+        },
+        {
+          "t": "p",
+          "text": "Husk det er alltid lov å spørre! Vi gleder oss til å bli bedre kjent med dere! \nHilsen\nMikael"
+        }
+      ]
+    },
+    {
+      "slug": "ahus-seksjonsintro-mal",
+      "title": "Mal for seksjonsintro",
+      "audience": "Ahus · Mal for opplæringsansvarlige",
+      "description": "Arbeidsmal for seksjonsledere og opplæringsansvarlige.",
+      "scope": "hospital",
+      "hospitalId": "ahus",
+      "roles": [
+        "opplaeringsansvarlige"
+      ],
+      "sourceDocument": "Introbrev Mal.docx",
+      "nodes": [
+        {
+          "t": "p",
+          "text": "Arbeidsmal for seksjonsledere og opplæringsansvarlige."
+        },
+        {
+          "t": "p",
+          "text": "Mal – eksempler og utfyllingsfelt er ikke ferdige lokale rutiner."
+        },
+        {
+          "t": "link",
+          "text": "Last ned originaldokumentet (Word)",
+          "url": "documents/ahus-seksjonsintro-mal.docx"
+        },
+        {
+          "t": "h2",
+          "text": "Modul 1: Velkommen – Vår Kultur og Filosofi"
+        },
+        {
+          "t": "p",
+          "text": "Velkommen til seksjonen! Vi er et team som liker å jobbe tett sammen, og her får du ansvar tidlig, men aldri uten støtte. Vår filosofi er todelt: Vi ønsker å utfordre deg, og vi forventer at du lærer basisen og møter forberedt. Gjør du det, er det mye lettere for oss å gi kniven videre til deg. Det er alltid lov å spørre, og vi gleder oss til å bli bedre kjent med deg."
+        },
+        {
+          "t": "h2",
+          "text": "Modul 2: Praktisk Infrastruktur og Møtearenaer"
+        },
+        {
+          "t": "p",
+          "text": "Før du starter med pasienter, må du ha kontroll på verktøyene og møtepunktene våre."
+        },
+        {
+          "t": "table",
+          "headers": [],
+          "rows": [
+            [
+              "Funksjon",
+              "Detaljer for Seksjonen"
+            ],
+            [
+              "DIPS-lister",
+              "(Fyll inn relevante lister, f.eks. Lsøvn, Seksøvn, CPAPP)"
+            ],
+            [
+              "Kritisk Programvare",
+              "(Fyll inn, f.eks. Noxturnal, Airview, Dignio)"
+            ],
+            [
+              "Seksjonsmøtet",
+              "Obligatorisk deltakelse for case-diskusjon og undervisning (eks. onsdager kl. 15-16 eller fredager kl. 07.30)."
+            ]
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Modul 3: Dine Læringsmål og Fokusområder (Progresjon)"
+        },
+        {
+          "t": "p",
+          "text": "Rotasjonen varer i 6 måneder. For at du skal oppnå nødvendig kompetanse, fokuserer vi på følgende læringsmål:"
+        },
+        {
+          "t": "p",
+          "text": "• Fokus de første ukene: Sett deg grundig inn i (eks. lymfeknuteutredning, ultralyd, FNAC)."
+        },
+        {
+          "t": "p",
+          "text": "• Eksplisitte minstekrav (ØNH-koder): Du skal oppnå og få godkjent (eks. ØNH 040: Mikrolaryngoskopisk biopsi, Læringsmål 53: Søvnskåring)."
+        },
+        {
+          "t": "p",
+          "text": "• Krav til demonstrasjon: Før rotasjonen er over, forventes det eksplisitt at du kan demonstrere (eks. åpning av programvaren Noxturnal og gjøre rede for rådata) for seksjonsoverlegen."
+        },
+        {
+          "t": "h2",
+          "text": "Modul 4: Den Kliniske Arbeidsflyten og Dokumentasjon"
+        },
+        {
+          "t": "p",
+          "text": "Slik gjennomfører vi standard pasientutredning på poliklinikken:"
+        },
+        {
+          "t": "p",
+          "text": "1. Arbeidsflyt: Ta full innkomstjournal og ØNH-status (inkludert grundig inspeksjon og palpasjon). Gjør nødvendige prosedyrer som fleksibel skopi, ultralyd eller FNAC ved behov."
+        },
+        {
+          "t": "p",
+          "text": "2. Dokumentasjon: Bruk spesifikke fraser i DIPS Arena. (Eks: Bruk frasen J_tumorjournal for en komplett mal ved utredning). Husk alltid å journalføre spesifikke funn (eks. estimat for kollapsmønster i AP-plan)."
+        },
+        {
+          "t": "h2",
+          "text": "Modul 5: Operasjonsforberedelser og Tverrfaglig Hospitering"
+        },
+        {
+          "t": "p",
+          "text": "For å mestre teknikkene raskt, forventes det at du forbereder deg strukturert:"
+        },
+        {
+          "t": "p",
+          "text": "• Før operasjon: Se alltid preoperativ skopivideo og bilder før inngrepet, og konferer med overlege i forkant."
+        },
+        {
+          "t": "p",
+          "text": "• Hospitering: Viktig læring skjer i tverrfaglig samarbeid. Den første tiden skal du hospitere hos (eks. sykepleier for CPAP-tilpasning, anestesi for intubasjon, eller lungeavdelingen for bronkoskopi)."
+        },
+        {
+          "t": "h2",
+          "text": "Modul 6: Kliniske \"Take-Home Messages\" og Selvstudium"
+        },
+        {
+          "t": "p",
+          "text": "Vi har samlet våre viktigste kliniske perler for å gjøre hverdagen din lettere:"
+        },
+        {
+          "t": "p",
+          "text": "• Tips 1: Bedøv alltid godt i nese og svelg før skopi – ikke gi deg før du har sett godt nok til å gjøre en vurdering!."
+        },
+        {
+          "t": "p",
+          "text": "• Tips 2: Tenk på ressursbruk, ikke overselg effekten av behandlingen, og husk at nesekirurgi alene ikke fjerner søvnapné."
+        },
+        {
+          "t": "p",
+          "text": "• Refleksjonsoppgave: For å forstå pasientens perspektiv, oppfordres du til å gå inn på (eks. sovno.no) og ta testen selv."
+        },
+        {
+          "t": "h2",
+          "text": "Modul 7: Kartoteket – Obligatorisk Kunnskapsgrunnlag"
+        },
+        {
+          "t": "p",
+          "text": "Du finner alle våre instrukser og faglige veiledere samlet på ett sted. Les deg opp på basiskunnskapen i mappen:"
+        },
+        {
+          "t": "p",
+          "text": "• Filsti: K:\\30 Kirurgisk divisjon\\306 (Øre-Nese-Hals)\\...."
+        },
+        {
+          "t": "p",
+          "text": "• Obligatorisk lesning:"
+        },
+        {
+          "t": "p",
+          "text": "1. (Eks. EPOS2020)."
+        },
+        {
+          "t": "p",
+          "text": "2. (Eks. Nasjonalt handlingsprogram for hode-/halskreft)."
+        },
+        {
+          "t": "p",
+          "text": "3. (Eks. Allergi veiledere)."
+        }
+      ]
+    },
+    {
+      "slug": "ahus-seksjon-nese-bihuler",
+      "title": "Nese/bihuler",
+      "audience": "Ahus · Seksjon",
+      "scope": "hospital",
+      "hospitalId": "ahus",
+      "description": "Introduksjon og opplæring ved seksjonen.",
+      "nodes": [
+        {
+          "t": "p",
+          "text": "Lokal introduksjon, opplæring og praktiske ressurser for seksjonen Nese/bihuler ved Ahus."
+        },
+        {
+          "t": "link",
+          "text": "Nese og bihuler – introduksjon ved Ahus",
+          "url": "ahus-nese-introduksjon.html"
+        }
+      ]
+    },
+    {
+      "slug": "ahus-seksjon-hode-hals",
+      "title": "Hode/hals",
+      "audience": "Ahus · Seksjon",
+      "scope": "hospital",
+      "hospitalId": "ahus",
+      "description": "Seksjonsspesifikt innhold kommer.",
+      "nodes": [
+        {
+          "t": "p",
+          "text": "Lokal introduksjon, opplæring og praktiske ressurser for seksjonen Hode/hals ved Ahus."
+        },
+        {
+          "t": "p",
+          "text": "Seksjonsspesifikt innhold er ikke lagt inn ennå."
+        }
+      ]
+    },
+    {
+      "slug": "ahus-seksjon-larynx-sovn",
+      "title": "Larynx/søvn",
+      "audience": "Ahus · Seksjon",
+      "scope": "hospital",
+      "hospitalId": "ahus",
+      "description": "Introduksjon og opplæring ved seksjonen.",
+      "nodes": [
+        {
+          "t": "p",
+          "text": "Lokal introduksjon, opplæring og praktiske ressurser for seksjonen Larynx/søvn ved Ahus."
+        },
+        {
+          "t": "link",
+          "text": "Larynx – opplæring ved Ahus",
+          "url": "opplaeringsplan-lis-larynx.html"
+        },
+        {
+          "t": "link",
+          "text": "Søvn – introduksjon ved Ahus",
+          "url": "ahus-sovn-introduksjon.html"
+        }
+      ]
+    },
+    {
+      "slug": "ahus-seksjon-ore",
+      "title": "Øre",
+      "audience": "Ahus · Seksjon",
+      "scope": "hospital",
+      "hospitalId": "ahus",
+      "description": "Seksjonsspesifikt innhold kommer.",
+      "nodes": [
+        {
+          "t": "p",
+          "text": "Lokal introduksjon, opplæring og praktiske ressurser for seksjonen Øre ved Ahus."
+        },
+        {
+          "t": "p",
+          "text": "Seksjonsspesifikt innhold er ikke lagt inn ennå."
         }
       ]
     }
@@ -4076,6 +4843,19 @@
         ],
         "scope": "hospital",
         "hospitalId": "ahus"
+      },
+      {
+        "id": "seksjonsopplaering",
+        "title": "Seksjonsspesifikk opplæring",
+        "intro": "Introduksjon og opplæring organisert etter de fire seksjonene ved Ahus.",
+        "scope": "hospital",
+        "hospitalId": "ahus",
+        "pages": [
+          "ahus-seksjon-nese-bihuler",
+          "ahus-seksjon-hode-hals",
+          "ahus-seksjon-larynx-sovn",
+          "ahus-seksjon-ore"
+        ]
       },
       {
         "id": "pa-vakt",
