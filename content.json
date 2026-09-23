@@ -876,7 +876,9 @@
           "t": "p",
           "text": "Vi ønsker deg velkommen som LIS-lege ved ØNH Ahus og håper denne oppstartsguiden gjør overgangen inn i avdelingen mer oversiktlig og trygg. Ta gjerne opp spørsmål fortløpende med fadder, veileder eller nærmeste overlege. Lykke til!"
         }
-      ]
+      ],
+      "scope": "hospital",
+      "hospitalId": "ahus"
     },
     {
       "id": "oppstartsguide-nh-ahus-kortversjon",
@@ -1113,7 +1115,9 @@
           "t": "p",
           "text": "Denne kortguiden er ment som en «første dag / første uke»-oversikt. For mer detaljer om rutiner, prosedyrer, fagseksjoner og henvisninger: se fullversjonen av LIS Oppstartsguide ØNH Ahus."
         }
-      ]
+      ],
+      "scope": "hospital",
+      "hospitalId": "ahus"
     },
     {
       "id": "f-rste-vakt-ultrakort",
@@ -1165,7 +1169,9 @@
             "Sentralbord Ahus: 858199"
           ]
         }
-      ]
+      ],
+      "scope": "hospital",
+      "hospitalId": "ahus"
     },
     {
       "id": "mal-for-faddere",
@@ -1439,7 +1445,9 @@
             "Målet: Spør hvordan det går og hvordan LIS har det. Gjennom slik kontakt kan man fange opp eventuelle utfordringer."
           ]
         }
-      ]
+      ],
+      "scope": "hospital",
+      "hospitalId": "ahus"
     },
     {
       "id": "kontakt-og-telefonnumre",
@@ -1707,7 +1715,9 @@
             "MIG-team: (864 260)"
           ]
         }
-      ]
+      ],
+      "scope": "hospital",
+      "hospitalId": "ahus"
     },
     {
       "id": "fakturasted",
@@ -1735,7 +1745,9 @@
           "t": "p",
           "text": "Hvis det er registrert i ditt navn, må du legge det ut selv og be om refusjon etter kurset."
         }
-      ]
+      ],
+      "scope": "hospital",
+      "hospitalId": "ahus"
     },
     {
       "id": "podkast",
@@ -1756,7 +1768,8 @@
           "url": "https://drive.google.com/file/d/1jiB6IOc9NrVEKoHkYFH0cJeNFxn25Whb/preview",
           "height": 220
         }
-      ]
+      ],
+      "scope": "national"
     },
     {
       "slug": "otologi-og-otonevrologi",
@@ -2006,7 +2019,8 @@
             "Mistanke om intrakraniell komplikasjon"
           ]
         }
-      ]
+      ],
+      "scope": "national"
     },
     {
       "slug": "rhinologi-og-bihuler",
@@ -2283,12 +2297,13 @@
             "Relapsing polychondritis"
           ]
         }
-      ]
+      ],
+      "scope": "national"
     },
     {
       "slug": "laryngologi-og-luftvei",
       "title": "Laryngologi og luftvei",
-      "audience": "Fagoversikt · Under utvikling",
+      "audience": "Felles fagområde · LIS og overleger",
       "description": "Stemme, svelging, larynx og øvre luftvei.",
       "category": "Fagområder",
       "nodes": [
@@ -2298,7 +2313,7 @@
         },
         {
           "t": "p",
-          "text": "Fagoversikt under utvikling. Her er temaene samlet for videre arbeid; kliniske artikler legges til fortløpende."
+          "text": "Felles fagoversikt med opplæringsinnhold fordelt under de relevante emnene. LIS-læringsmålene er gjengitt fra innsendt plan og er ikke kontrollert mot gjeldende nasjonale mål."
         },
         {
           "t": "h2",
@@ -2389,6 +2404,30 @@
           ]
         },
         {
+          "t": "h3",
+          "text": "Systemisk farmakologisk behandling – ØNH 034"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne gi systemisk farmakologisk behandling mot tilstander i larynx og trachea."
+        },
+        {
+          "t": "h3",
+          "text": "Inhalasjonsterapi – ØNH 033"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne gi inhalasjonsterapi."
+        },
+        {
           "t": "h2",
           "text": "Akutt luftvei"
         },
@@ -2406,6 +2445,38 @@
             "Postoperativ luftveisobstruksjon",
             "Angioødem"
           ]
+        },
+        {
+          "t": "h3",
+          "text": "Endotracheal intubasjon (P) – ØNH 037"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne utføre endotracheal intubasjon, inklusive fleksibel prosedyre."
+        },
+        {
+          "t": "h3",
+          "text": "Fjerne fremmedlegemer – ØNH 036"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne fjerne fremmedlegemer i larynx, trachea og bronkier."
+        },
+        {
+          "t": "h3",
+          "text": "Praktisk opplæring i intubasjon"
+        },
+        {
+          "t": "p",
+          "text": "Prioriter å lære intubasjon, både med og uten cmac, samt få med så mange våken nasal/oralintubasjoner som mulig. Avtal med anestesi en hospiteringsdag, eller snakk med anestesi som jobber på den operasjonsstuen du har, slik at du kan intubere dine operasjonspasienter den dagen"
         },
         {
           "t": "h2",
@@ -2427,6 +2498,38 @@
           ]
         },
         {
+          "t": "h3",
+          "text": "Tracheostoma og laryngostoma – ØNH 045"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne håndtere tracheostoma og laryngostoma, inklusivt bytte av tracheostomikanyle og taleventil."
+        },
+        {
+          "t": "h3",
+          "text": "Tracheostomi (P) – ØNH 038"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne utføre tracheostomi (åpen og perkutan)."
+        },
+        {
+          "t": "h3",
+          "text": "Praktisk opplæring i trakeostomi"
+        },
+        {
+          "t": "p",
+          "text": "Prioriter å være med på kirurgisk tracheotomi hvis du har mulighet. Forhør deg gjerne med anestesi om mulighet til å være med på perkutan trach i regi av anestesi"
+        },
+        {
           "t": "h2",
           "text": "Nødluftvei"
         },
@@ -2440,6 +2543,18 @@
             "Forberedelse av nødluftvei",
             "Komplikasjoner ved nødluftvei"
           ]
+        },
+        {
+          "t": "h3",
+          "text": "Coniotomi – ØNH 039"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne utføre coniotomi."
         },
         {
           "t": "h2",
@@ -2472,6 +2587,18 @@
             "Intubasjonsskade",
             "Laryngeal arrdannelse"
           ]
+        },
+        {
+          "t": "h3",
+          "text": "Laryngotracheale stenoser, tracheoøsofageale fistler og rekonstruktiv kirurgi – ØNH 046"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Ha god kunnskap om reparasjon av laryngotracheale stenoser, tracheoøsofageale fistler og rekonstruktiv kirurgi av trachea og øsofagus."
         },
         {
           "t": "h2",
@@ -2508,6 +2635,18 @@
           ]
         },
         {
+          "t": "h3",
+          "text": "Laryngektomi - logopedisk behandling – ØNH 035"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Ha god kunnskap om logopedisk behandling av stemmelidelser og stemmerehabilitering etter laryngektomi."
+        },
+        {
           "t": "h2",
           "text": "Undersøkelser"
         },
@@ -2523,6 +2662,102 @@
             "Stemmeanalyse",
             "Laryngeal EMG"
           ]
+        },
+        {
+          "t": "h3",
+          "text": "Ultralyd, røntgen, CT og MR – ØNH 031"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne utføre ultralyd og tolke røntgen, CT og MR av larynx og trachea."
+        },
+        {
+          "t": "h3",
+          "text": "Elektromyografi av larynx – ØNH 030"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Ha kjennskap til elektromyografi av larynx."
+        },
+        {
+          "t": "h3",
+          "text": "Bronkoalveolar lavage, cytologisk og mikrobiologisk prøve – ØNH 027"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Under supervisjon kunne utføre bronkoalveolar lavage, cytologisk og mikrobiologisk prøve."
+        },
+        {
+          "t": "h3",
+          "text": "Spirometri – ØNH 026"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne tolke spirometri."
+        },
+        {
+          "t": "h3",
+          "text": "Tracheo-bronkoskopi (P) – ØNH 025"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne utføre tracheo-bronkoskopi (stivt og fleksibelt)."
+        },
+        {
+          "t": "h3",
+          "text": "Stroboskopi – ØNH 023"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne utføre stroboskopi."
+        },
+        {
+          "t": "h3",
+          "text": "Indirekte – transnasal fleksibel – lupe laryngoskopi – ØNH 022"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne utføre indirekte – transnasal fleksibel – lupe laryngoskopi."
+        },
+        {
+          "t": "h3",
+          "text": "Opplæring i fleksibel skopi og stroboskopi"
+        },
+        {
+          "t": "p",
+          "text": "Take-home message: bedøv godt i nese og svelg ved behov, husk at sykepleier kan gi forstøver med bedøvelse i forkant hvis pas. brekker seg lett eller du trenger å se subglottisk. Ikke gi deg før du har sett godt nok til å gjøre en god vurdering! \nNB! Gå nærme nok stemmbånd!"
+        },
+        {
+          "t": "p",
+          "text": "NBI er narrow band imaging og vil gi deg informasjon om vaskulært mønster i slimhinnen"
         },
         {
           "t": "h2",
@@ -2541,6 +2776,62 @@
             "Endoskopisk behandling av lesjoner",
             "Dilatasjon av stenose"
           ]
+        },
+        {
+          "t": "h3",
+          "text": "Mikrolaryngoskopisk biopsi – ØNH 040"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne utføre mikrolaryngoskopisk biopsi."
+        },
+        {
+          "t": "h3",
+          "text": "Medikamenter i larynx – ØNH 032"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Ha kunnskap om og under supervisjon kunne applisere medikamenter i larynx."
+        },
+        {
+          "t": "h3",
+          "text": "Biopsier – ØNH 028"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne utføre endolaryngeale, endotracheale og endobronkiale biopsier."
+        },
+        {
+          "t": "h3",
+          "text": "Mikrolaryngoskopi og direkte laryngoskopi (P) – ØNH 024"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Selvstendig kunne utføre mikrolaryngoskopi og direkte laryngoskopi."
+        },
+        {
+          "t": "h3",
+          "text": "Opplæring i mikrolaryngoskopi"
+        },
+        {
+          "t": "p",
+          "text": "Viktig å forstå samarbeidet med anestesi, preoperativ planlegging før MLS, fokus på leiring og plassering av laryngoskop. Det er viktig å investere tid for å få godt innsyn til larynx under MLS-prosedyren."
         },
         {
           "t": "h2",
@@ -2562,6 +2853,42 @@
           ]
         },
         {
+          "t": "h3",
+          "text": "Laryngektomi – ØNH 044"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Ha god kunnskap om laryngektomi."
+        },
+        {
+          "t": "h3",
+          "text": "Malformasjoner, skader og svulster – ØNH 043"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Ha god kunnskap om kirurgisk behandling av malformasjoner, skader og svulster."
+        },
+        {
+          "t": "h3",
+          "text": "Laserkirurgi, operasjon av stemmebånd og på nervus laryngeus – ØNH 041"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Ha god kunnskap om endolaryngeal og endotracheal laserkirurgi, operativ behandling av stemmebåndssykdom, operasjon på nervus laryngeus superior og inferior."
+        },
+        {
           "t": "h2",
           "text": "Pediatrisk luftvei"
         },
@@ -2578,6 +2905,18 @@
             "Trakeomalasi",
             "Stridor hos barn"
           ]
+        },
+        {
+          "t": "h3",
+          "text": "Luftveier hos nyfødte og barn – ØNH 042"
+        },
+        {
+          "t": "p",
+          "text": "LIS-læringsmål fra innsendt opplæringsplan:"
+        },
+        {
+          "t": "p",
+          "text": "Ha god kunnskap om og selvstendig kunne håndtere luftveier hos nyfødte og barn."
         },
         {
           "t": "h2",
@@ -2598,7 +2937,8 @@
             "Akutt aspirasjon"
           ]
         }
-      ]
+      ],
+      "scope": "national"
     },
     {
       "slug": "hode-og-hals",
@@ -3045,7 +3385,8 @@
             "Akutt hypokalsemi"
           ]
         }
-      ]
+      ],
+      "scope": "national"
     },
     {
       "slug": "pediatrisk-onh",
@@ -3225,7 +3566,8 @@
             "Akutt luftveisobstruksjon"
           ]
         }
-      ]
+      ],
+      "scope": "national"
     },
     {
       "slug": "sovn",
@@ -3411,7 +3753,8 @@
             "Barn med alvorlig OSA"
           ]
         }
-      ]
+      ],
+      "scope": "national"
     },
     {
       "slug": "prosedyrer-og-undersokelser",
@@ -3466,6 +3809,256 @@
             "Kalorisk prøve"
           ]
         }
+      ],
+      "scope": "national"
+    },
+    {
+      "slug": "veiledning",
+      "title": "Veiledning for mentor og mentee",
+      "audience": "Nasjonal ressurs",
+      "description": "Roller, forberedelse, samtaler og oppfølging.",
+      "scope": "national",
+      "nodes": [
+        {
+          "t": "p",
+          "text": "Generell informasjon for mentor og mentee, felles for alle sykehus. Bruk rådene som støtte i samtalen og tilpass dem til lokale rammer."
+        },
+        {
+          "t": "h2",
+          "text": "Roller og forventninger"
+        },
+        {
+          "t": "p",
+          "text": "Mentor støtter refleksjon, utvikling og læring gjennom spørsmål, tilbakemeldinger og deling av erfaring. Mentee tar med egne temaer, mål og spørsmål. Avklar hva dere forventer av hverandre og hvilke temaer dere ønsker å arbeide med."
+        },
+        {
+          "t": "h2",
+          "text": "Før den første samtalen"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Avtal tid, sted og en praktisk rytme for samtalene.",
+            "Snakk om mål, forventninger og hvordan dere ønsker å gi og få tilbakemeldinger.",
+            "Avklar hvordan dere håndterer fortrolige temaer og eventuelle behov for hjelp fra andre."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "For mentor"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Still åpne spørsmål og gi mentee tid til å tenke.",
+            "Utforsk situasjonen før du foreslår løsninger.",
+            "Gi konkrete tilbakemeldinger på observerbare handlinger.",
+            "Hjelp mentee å finne realistiske neste steg og avklar hvilken støtte som trengs."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "For mentee"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Velg ett eller to temaer du ønsker å ta opp.",
+            "Beskriv hva du ønsker hjelp til og hva du allerede har forsøkt.",
+            "Be om konkrete tilbakemeldinger og si fra dersom noe er uklart.",
+            "Følg opp avtalte tiltak og reflekter over hva du har lært."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "En enkel samtalestruktur"
+        },
+        {
+          "t": "ol",
+          "items": [
+            "Start med en kort status og bli enige om tema.",
+            "Utforsk en erfaring: Hva skjedde, og hvordan opplevde du det?",
+            "Reflekter over læring, alternativer og behov for støtte.",
+            "Avtal et konkret neste steg.",
+            "Avslutt med en kort oppsummering og tidspunkt for oppfølging."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Temaer dere kan utforske"
+        },
+        {
+          "t": "ul",
+          "items": [
+            "Læringsmål og faglig utvikling.",
+            "Kommunikasjon og samarbeid.",
+            "Mestring, trivsel og balanse i arbeidshverdagen.",
+            "Profesjonell utvikling og videre karrierevalg."
+          ]
+        },
+        {
+          "t": "h2",
+          "text": "Rammer for denne siden"
+        },
+        {
+          "t": "p",
+          "text": "Dette er en nasjonal informasjonsside med generelle råd. Den inneholder ingen funksjon for personlige veiledningsnotater, vurderinger eller pasientopplysninger. Lokale rutiner og formelle krav må avklares ved eget sykehus."
+        }
+      ]
+    },
+    {
+      "slug": "opplaeringsplan-lis-larynx",
+      "title": "Opplæring i laryngologi og luftvei",
+      "audience": "Nasjonalt · LIS og superviserende overleger",
+      "scope": "national",
+      "roles": [
+        "leger"
+      ],
+      "description": "Opplæringsinnholdet er fordelt under de relevante fagtemaene.",
+      "nodes": [
+        {
+          "t": "p",
+          "text": "Opplæringen finner du under de enkelte emnene i Laryngologi og luftvei."
+        },
+        {
+          "t": "link",
+          "text": "Postintubasjon og stenoser",
+          "url": "laryngologi-og-luftvei.html#postintubasjon-og-stenoser"
+        },
+        {
+          "t": "link",
+          "text": "Trakeostomi",
+          "url": "laryngologi-og-luftvei.html#trakeostomi"
+        },
+        {
+          "t": "link",
+          "text": "Kirurgi",
+          "url": "laryngologi-og-luftvei.html#kirurgi"
+        },
+        {
+          "t": "link",
+          "text": "Pediatrisk luftvei",
+          "url": "laryngologi-og-luftvei.html#pediatrisk-luftvei"
+        },
+        {
+          "t": "link",
+          "text": "Laryngeale prosedyrer",
+          "url": "laryngologi-og-luftvei.html#laryngeale-prosedyrer"
+        },
+        {
+          "t": "link",
+          "text": "Nødluftvei",
+          "url": "laryngologi-og-luftvei.html#ndluftvei"
+        },
+        {
+          "t": "link",
+          "text": "Akutt luftvei",
+          "url": "laryngologi-og-luftvei.html#akutt-luftvei"
+        },
+        {
+          "t": "link",
+          "text": "Foniatri",
+          "url": "laryngologi-og-luftvei.html#foniatri"
+        },
+        {
+          "t": "link",
+          "text": "Laryngeal inflammasjon",
+          "url": "laryngologi-og-luftvei.html#laryngeal-inflammasjon"
+        },
+        {
+          "t": "link",
+          "text": "Undersøkelser",
+          "url": "laryngologi-og-luftvei.html#underskelser"
+        }
+      ],
+      "sourceDocument": "Opplæringsplan_LIS_ larynx.docx"
+    },
+    {
+      "slug": "kom-i-gang-leger",
+      "title": "Leger – LIS og overleger",
+      "audience": "Ahus · Kom i gang",
+      "scope": "hospital",
+      "hospitalId": "ahus",
+      "roles": [
+        "leger"
+      ],
+      "description": "Oppstart og lokale ressurser for leger ved Ahus.",
+      "nodes": [
+        {
+          "t": "p",
+          "text": "Oppstart og lokale ressurser for leger ved Ahus."
+        },
+        {
+          "t": "link",
+          "text": "Oppstartsguide – ØNH Ahus (kortversjon)",
+          "url": "oppstartsguide-nh-ahus-kortversjon.html"
+        },
+        {
+          "t": "link",
+          "text": "Oppstartsguide – ØNH Ahus (fullversjon)",
+          "url": "oppstartsguide-nh-ahus-fullversjon.html"
+        },
+        {
+          "t": "link",
+          "text": "Første vakt – ultrakort",
+          "url": "f-rste-vakt-ultrakort.html"
+        }
+      ]
+    },
+    {
+      "slug": "kom-i-gang-sykepleiere",
+      "title": "Sykepleiere",
+      "audience": "Ahus · Kom i gang",
+      "scope": "hospital",
+      "hospitalId": "ahus",
+      "roles": [
+        "sykepleiere"
+      ],
+      "description": "Egen inngang til opplæring og lokale ressurser for sykepleiere. Sykepleiespesifikt opplæringsmateriell er ikke lagt inn ennå.",
+      "nodes": [
+        {
+          "t": "p",
+          "text": "Egen inngang til opplæring og lokale ressurser for sykepleiere. Sykepleiespesifikt opplæringsmateriell er ikke lagt inn ennå."
+        }
+      ]
+    },
+    {
+      "slug": "kom-i-gang-kontortjeneste",
+      "title": "Kontortjeneste",
+      "audience": "Ahus · Kom i gang",
+      "scope": "hospital",
+      "hospitalId": "ahus",
+      "roles": [
+        "kontortjeneste"
+      ],
+      "description": "Nyansattheftet for ØNH kontor hører hjemme her. Heftet er gjennomgått for plassering; innholdet er ennå ikke overført til nettsiden.",
+      "nodes": [
+        {
+          "t": "p",
+          "text": "Nyansattheftet for ØNH kontor hører hjemme her. Heftet er gjennomgått for plassering; innholdet er ennå ikke overført til nettsiden."
+        }
+      ]
+    },
+    {
+      "slug": "kom-i-gang-opplaeringsansvarlige",
+      "title": "Ledere og opplæringsansvarlige",
+      "audience": "Ahus · Kom i gang",
+      "scope": "hospital",
+      "hospitalId": "ahus",
+      "roles": [
+        "opplaeringsansvarlige"
+      ],
+      "description": "Ressurser for dem som planlegger og følger opp opplæring. Den innsendte administrative sjekklisten anbefales plassert her etter gjennomgang.",
+      "nodes": [
+        {
+          "t": "p",
+          "text": "Ressurser for dem som planlegger og følger opp opplæring. Den innsendte administrative sjekklisten anbefales plassert her etter gjennomgang."
+        },
+        {
+          "t": "link",
+          "text": "Mal for faddere",
+          "url": "mal-for-faddere.html"
+        }
       ]
     }
   ],
@@ -3474,12 +4067,15 @@
       {
         "id": "kom-i-gang",
         "title": "Kom i gang",
-        "intro": "En god start på LIS-løpet ved ØNH Ahus.",
+        "intro": "Finn oppstart og opplæring for din rolle ved Ahus.",
         "pages": [
-          "oppstartsguide-nh-ahus-kortversjon",
-          "oppstartsguide-nh-ahus-fullversjon",
-          "mal-for-faddere"
-        ]
+          "kom-i-gang-leger",
+          "kom-i-gang-sykepleiere",
+          "kom-i-gang-kontortjeneste",
+          "kom-i-gang-opplaeringsansvarlige"
+        ],
+        "scope": "hospital",
+        "hospitalId": "ahus"
       },
       {
         "id": "pa-vakt",
@@ -3488,7 +4084,19 @@
         "pages": [
           "f-rste-vakt-ultrakort",
           "kontakt-og-telefonnumre"
-        ]
+        ],
+        "scope": "hospital",
+        "hospitalId": "ahus"
+      },
+      {
+        "id": "praktisk",
+        "title": "Praktisk",
+        "intro": "Praktisk og administrativ informasjon på ett sted.",
+        "pages": [
+          "fakturasted"
+        ],
+        "scope": "hospital",
+        "hospitalId": "ahus"
       },
       {
         "id": "fagomrader",
@@ -3502,15 +4110,8 @@
           "pediatrisk-onh",
           "sovn",
           "prosedyrer-og-undersokelser"
-        ]
-      },
-      {
-        "id": "praktisk",
-        "title": "Praktisk",
-        "intro": "Praktisk og administrativ informasjon på ett sted.",
-        "pages": [
-          "fakturasted"
-        ]
+        ],
+        "scope": "national"
       },
       {
         "id": "laering",
@@ -3518,6 +4119,16 @@
         "intro": "Faglig utvikling, inspirasjon og læring i hverdagen.",
         "pages": [
           "podkast"
+        ],
+        "scope": "national"
+      },
+      {
+        "id": "veiledning",
+        "title": "Veiledning",
+        "intro": "Generell informasjon for mentor og mentee – felles for alle sykehus.",
+        "scope": "national",
+        "pages": [
+          "veiledning"
         ]
       }
     ]

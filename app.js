@@ -68,7 +68,7 @@ function buildTopbar(pages, currentSlug){
   ]);
 
   const inner = el('div', { class:'inner' }, [
-    el('a', { class:'brand', href:'index.html' }, [el('span', { class:'dot' }), ' LIS Onboarding']),
+    el('a', { class:'brand', href:'index.html' }, [el('span', { class:'dot' }), ' ØNH-portalen']),
     controls
   ]);
 
@@ -129,6 +129,10 @@ function renderNodes(nodes, sectionSelect){
       return;
     }
 
+    if(n.t === 'link'){
+      frag.appendChild(el('p',{},el('a',{href:n.url},n.text||n.url)));
+      return;
+    }
     if(n.t === 'p'){
       const text = (n.text||'');
       frag.appendChild(el('p', {}, text));
@@ -191,7 +195,15 @@ async function initIndex(){
     'fakturasted':'Informasjon om fakturering ved kurs og faglig utvikling.',
     'podkast':'Lytt og lær med ressurser fra ØNH Ahus.'
   };
+  let lastScope = null;
   (data.home?.sections||[]).forEach((section,index)=>{
+    if(section.scope !== lastScope){
+      host.appendChild(el('header',{class:'scope-heading'},[
+        el('h2',{},section.scope==='hospital'?'Ahus · Ditt sykehus':'Nasjonalt · Felles for alle sykehus'),
+        el('p',{},section.scope==='hospital'?'Lokale oppstartsguider, vaktressurser og praktisk informasjon.':'Fagområder, læring og generell veiledning.')
+      ]));
+      lastScope = section.scope;
+    }
     const grid = el('div',{class:'resource-grid'});
     section.pages.forEach(slug=>{
       const p=pages.find(page=>page.slug===slug);
@@ -225,7 +237,7 @@ function flattenForSearch(data){
         if(usedIds.has(currentAnchor)) currentAnchor += '-' + (usedIds.size+1);
         usedIds.add(currentAnchor);
         out.push({ slug:p.slug, title:p.title, heading:null, anchor:currentAnchor, text: currentH2 });
-      } else if(n.t==='p'){
+      } else if(n.t==='p' || n.t==='link'){
         const text = (n.text||'').trim();
         if(text) out.push({ slug:p.slug, title:p.title, heading: currentH2, anchor: currentAnchor, text });
       } else if(n.t==='ul' || n.t==='ol'){

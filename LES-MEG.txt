@@ -1,0 +1,1 @@
+Pakk ut zip-filen. Last opp alle filene og assets-mappen til roten av imadjala/imadjalanew.github.io med Add file > Upload files. Erstatt eksisterende filer. Velg Commit changes. Innlogging er ikke aktivert. Sjekkliste og nyansatthefte er ikke importert, kun plasseringene er forberedt. Dette er en forhåndsvisning.
